@@ -1,0 +1,177 @@
+[
+  {
+    "#debug": {
+      "requestId": "I4KqQfhFnPszSXk",
+      "url": "http://www.google.co.in/search?q=8904043901015",
+      "loadedUrl": "http://www.google.co.in/search?q=8904043901015",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8904043901015",
+      "url": "http://www.google.co.in/search?q=8904043901015",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8904043901015",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "TATA 1KG SALT - Barcode: 8904043901015",
+        "websiteTitle": "barcode-list.com",
+        "url": "https://barcode-list.com/barcode/EN/barcode-8904043901015/Search.htm",
+        "displayedUrl": "https://barcode-list.com › ...",
+        "description": "Barcode:8904043901015 - This code meet the following products: TATA 1KG SALT; TATA SALT 1KG; TATA SALT 1KG; TATA SALT 1KG.",
+        "emphasizedKeywords": [
+          "TATA 1KG SALT"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "Tata Salt Iodised Namak",
+        "websiteTitle": "Amazon.in",
+        "url": "https://www.amazon.in/Flowing-Iodised-Namak-Vacuum-Evaporated/dp/B07575FPC3",
+        "displayedUrl": "https://www.amazon.in › ...",
+        "description": "8904043901015 FBA. Packer Contact Information, Tata Chemicals Limited, P. 0. Mithapur-361 345, District-Devbhumi Dwarka, Gujarat, Lic. No. 10012021000351. Part ...",
+        "emphasizedKeywords": [
+          "8904043901015 FBA"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "averageRating": 4.5,
+        "numberOfReviews": null,
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "8904043901015 - TATA SALT 1KG",
+        "websiteTitle": "vissco.net",
+        "url": "https://indiamart.vissco.net/product/tata-salt-1kg",
+        "displayedUrl": "https://indiamart.vissco.net › ...",
+        "description": "TATA SALT 1KG (8904043901015) Products. TATA SALT 1KG. This value is required or not valid. Add to Cart. Name, TATA SALT 1KG. Code, 8904043901015.",
+        "emphasizedKeywords": [
+          "TATA SALT 1KG"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "EAN 8904043901015 - Tata Salt 1 Kg, Free Flowing and ...",
+        "websiteTitle": "UPCitemdb",
+        "url": "https://www.upcitemdb.com/upc/8904043901015",
+        "displayedUrl": "https://www.upcitemdb.com › ...",
+        "description": "EAN 8904043901015 is associated with product Tata Salt 1 Kg, Free Flowing and Iodised Namak, find 8904043901015 barcode image, product images, ...",
+        "emphasizedKeywords": [
+          "EAN 8904043901015"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "Tata Salt Vacuum Evaporated Iodised Salt 1 kg Pouch",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/241600/tata-salt-iodized-1-kg-pouch/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "With vacuum evaporation technology, Tata namak offers a hygienic alternative to your regular table salt. It contains the requisite amount of iodine, which is an ...",
+        "emphasizedKeywords": [
+          "Tata namak offers a hygienic alternative to your regular table salt"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "Tata Salt (1kg) TATA",
+        "websiteTitle": "Nisarga Fresh",
+        "url": "https://nisargafresh.nl/product/tata-salt-1kg-tata/?srsltid=AfmBOoqvoiZxUfpMnC7NYve6Jl11kzkGI84qgqsXJ-3Nkp7HpYdQ92WM",
+        "displayedUrl": "https://nisargafresh.nl › ...",
+        "description": "SKU: 8904043901015 Category: Sugar, Salt & Jaggery Brand: Tata. Share: Description; Additional information; Reviews (0). Description. Tata Salt from TATA.",
+        "emphasizedKeywords": [
+          "Tata Salt from TATA"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "Tata Salt, 1kg",
+        "websiteTitle": "Amazon.in",
+        "url": "https://www.amazon.in/Tata-Salt-1kg/dp/B07BDNXBPV",
+        "displayedUrl": "https://www.amazon.in › ...",
+        "description": "Vacuum evaporated iodised salt; Lodine helps in mental development of children and prevents iodine deficiency disorders in adults; Tata salt has ventured ...",
+        "emphasizedKeywords": [
+          "Vacuum evaporated iodised salt"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "averageRating": 3.2,
+        "numberOfReviews": 8,
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "Tata Salt Evaporated Iodised 1kg",
+        "websiteTitle": "Top In Town Hypermarket",
+        "url": "https://www.topintownstore.com/product/tata-salt-evaporated-iodised-1kg/",
+        "displayedUrl": "https://www.topintownstore.com › ...",
+        "description": "Tata Salt Evaporated Iodised 1kg. ₹30. 15 min delivery. Quality assured. Free delivery*. Brand: Tata Salt. Category: Spices & Flavours. SKU: 8904043901015 ...",
+        "emphasizedKeywords": [
+          "Tata Salt Evaporated Iodised 1kg"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "Tata Salt Vacuum Evaporated Iodised Edible Common Salt, 1 ...",
+        "websiteTitle": "axstag.com",
+        "url": "https://www.axstag.com/products/tata-salt-vacuum-evaporated-iodised-edible-common-salt-1-kg-pouch/2943181000000107348",
+        "displayedUrl": "https://www.axstag.com › ...",
+        "description": "Item model number, ‎8904043901015 FBA ; Net Quantity, ‎1000.0 Grams ; Product Dimensions, ‎5.4 x 14.2 x 19.5 cm; 1 kg ; Ingredients, ‎Edible Common Salt, Potassium ...",
+        "emphasizedKeywords": [
+          "8904043901015"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [
+      {
+        "answer": null,
+        "question": "नमक की कीमत क्या है?",
+        "title": null,
+        "url": null,
+        "date": null
+      }
+    ],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/I4KqQfhFnPszSXk-0.html?signature=1HzTE6fxcJ9JbBUw22Ow6"
+  }
+]

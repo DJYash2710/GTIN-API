@@ -1,0 +1,194 @@
+[
+  {
+    "#debug": {
+      "requestId": "yHXiaJcoiqGnu2y",
+      "url": "http://www.google.co.in/search?q=8901764032912",
+      "loadedUrl": "http://www.google.co.in/search?q=8901764032912",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901764032912",
+      "url": "http://www.google.co.in/search?q=8901764032912",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901764032912",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "Sprite Lemon-Lime Flavoured Carbonated Water 250 Ml",
+        "websiteTitle": "Aapkabazar.co",
+        "url": "https://aapkabazar.co/4421/pd/sprite-lemon-lime-flavoured-carbonated-water-250-ml?srsltid=AfmBOooegMX13VqiIJYz3vOwaEwCtKmEpTng8DXJyxRoPO5nZyMA5RAb",
+        "displayedUrl": "https://aapkabazar.co › ...",
+        "description": "Product Details. Unit. 250 ml. Item Code. 8901764032912. Country of Origin. india. Customer Care Details. Email: support@aapkabazar.co. Return Policy. The item ...",
+        "emphasizedKeywords": [
+          "8901764032912"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "Sprite Soft Cold Drink, Chill At Home- Lemon-Lime ...",
+        "websiteTitle": "Dukaan",
+        "url": "https://mydukaan.io/ezygrocerypatna/products/sprite",
+        "displayedUrl": "https://mydukaan.io › ...",
+        "description": "... 250ml Bottle. ₹20. Items in this combo. Add to cart. Buy now. Product details. 8901764032912. Total: View Combo. Add to cart. Similar products. View all.",
+        "emphasizedKeywords": [
+          "8901764032912"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "Buy Sprite Soft Drink Online at Best Price of Rs 20",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/402837/sprite-soft-drink-250-ml/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "Sprite Soft Drink, 250 ml ; MRP: ₹20 ; Sprite Soft Drink · Sprite is a refreshing and iconic lemon-lime flavoured soft drink that is enjoyed worldwide. Known for ...",
+        "emphasizedKeywords": [
+          "Sprite Soft Drink, 250 ml"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "Sprite Soft Drink - Lime Flavoured, 250ML",
+        "websiteTitle": "Fetch N Buy",
+        "url": "https://fetchnbuy.in/products/sprite-soft-drink-lime-flavoured-250ml",
+        "displayedUrl": "https://fetchnbuy.in › ...",
+        "description": "Sprite is a clear lime drink truly meant to quench your thirst & refresh you since 1999. Now, don't confuse a thirst with anything else under the sky!",
+        "emphasizedKeywords": [
+          "Sprite is a clear lime drink"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "SPRITE 250ML Rate: 20.00 MRP - SAI SUPER MARKET",
+        "websiteTitle": "SAI SUPER MARKET",
+        "url": "https://saisupermarket.in/product-detail.php?mid=8901764032912&cat=4.4&srsltid=AfmBOoph2hxZr7bowHl3Nasltv2Or6JaQ_65Rckm-vYcPpzhCLpmdHMb",
+        "displayedUrl": "https://saisupermarket.in › ...",
+        "description": "Description; Specification; Reviews (1). SPRITE 250ML. Info-Google-Search. Product specification. Company Name : . . SPRITE 250ML - 01 Jan 2020 . Give your ...",
+        "emphasizedKeywords": [
+          "SPRITE 250ML"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "Sprite Drink 250ml",
+        "websiteTitle": "Top In Town Hypermarket",
+        "url": "https://www.topintownstore.com/product/sprite-drink-250ml/",
+        "displayedUrl": "https://www.topintownstore.com › ...",
+        "description": "Sprite Drink 250ml. ₹20. 15 min delivery. Quality assured. Free delivery*. Brand: Sprite. Category: Drinks. SKU: 8901764032912 ...",
+        "emphasizedKeywords": [
+          "Sprite Drink 250ml"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "Sprite 250ml - TMD Basket",
+        "websiteTitle": "tmdbasket.com",
+        "url": "https://www.tmdbasket.com/index.php?route=product/product&product_id=630",
+        "displayedUrl": "https://www.tmdbasket.com › ...",
+        "description": "Sprite 250ml · Stock: In Stock · Brand: Sprite · Model: 8901764032912 · Weight: 250.00ML · UPC: 8901764032912 · ISBN: 22021010.",
+        "emphasizedKeywords": [
+          "Sprite 250ml"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "Sprite Lemon, Lime Flavoured Cold Drink, Refreshing Taste ...",
+        "websiteTitle": "mystore.in",
+        "url": "https://www.mystore.in/en/product/sprite-lemon-lime-flavoured-cold-drink-refreshing-taste-clear-soft-drink-with-no-added-colours-recyclable-pet-bottle-250-ml-pack-of-8-?srsltid=AfmBOopUZ4uj4w7-Yrkq431G53PoV6Z0LKXaZOIWRgxSwC2qaCD6v9tI",
+        "displayedUrl": "https://www.mystore.in › ...",
+        "description": "Sprite Lemon, Lime Flavoured Cold Drink, Refreshing Taste, Clear Soft Drink With No Added Colours, Recyclable Pet Bottle, 250 Ml (Pack Of 8). Be the first to ...",
+        "emphasizedKeywords": [
+          "Sprite Lemon, Lime Flavoured Cold Drink"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "JioMart: India's online shopping",
+        "websiteTitle": "JioMart",
+        "url": "https://www.jiomart.com/p/groceries/sprite-lemon-lime-flavor-soft-drink-250-ml-pack-of-8/603691680",
+        "displayedUrl": "https://www.jiomart.com › ...",
+        "description": "JioMart: India's online shopping.",
+        "emphasizedKeywords": [
+          "JioMart"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [
+      {
+        "answer": null,
+        "question": "Who is the owner of Sprite Company?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "How many ml is 20 rupees Sprite?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "How much does a pack of 30 250ml Sprites cost?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "Who is the owner of Sprite Company?",
+        "title": null,
+        "url": null,
+        "date": null
+      }
+    ],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/yHXiaJcoiqGnu2y-0.html?signature=1eAcRI6yUQ8xBuPtUkElh"
+  }
+]

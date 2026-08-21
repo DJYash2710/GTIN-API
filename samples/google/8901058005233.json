@@ -1,0 +1,201 @@
+[
+  {
+    "#debug": {
+      "requestId": "aXdIX6idURwP8Rv",
+      "url": "http://www.google.co.in/search?q=8901058005233",
+      "loadedUrl": "http://www.google.co.in/search?q=8901058005233",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901058005233",
+      "url": "http://www.google.co.in/search?q=8901058005233",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901058005233",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "Nestle Kitkat Choco Coated Wafer Bar 12.1 g",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/20005896/nestle-kitkat-crispy-wafer-bar-2-pcs-pouch/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "Nestlé KitKat Choco Coated Wafer Bar is a delicious treat featuring crispy wafer layers coated with a smooth, rich chocolate coating. EAN Code: 8901058005233 ...",
+        "emphasizedKeywords": [
+          "Nestlé KitKat Choco Coated Wafer Bar"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "8901058005233 - NESTLE KITKAT 11.9GM Rate: 9.80 MRP",
+        "websiteTitle": "SAI SUPER MARKET",
+        "url": "https://saisupermarket.in/product-detail.php?mid=8901058005233&cat=3.d&srsltid=AfmBOoqPIcIUuYy-qoEoQYXRTTm2P3-zj0AgzfSdgPxNvZOcReEkCAlh",
+        "displayedUrl": "https://saisupermarket.in › ...",
+        "description": "NESTLE KITKAT 11.9GM Rate : 9.80 MRP. SKU : 8901058005233. DOUBLE CHOCO DRIZZLE WAFFLE CHIPS 85G WM DOUBLE CHOCO DRIZZLE WAFFLE CHIPS 85G Rate. Price Off Rs. 7 ...",
+        "emphasizedKeywords": [
+          "NESTLE KITKAT 11.9GM Rate : 9.80 MRP"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "Delicious Taste with Nestle KitKat Chocolate - Paimart",
+        "websiteTitle": "Paimart",
+        "url": "https://paimart.painest.com/product/Nestle-Kitkat-Chocolate---238g-2Pcs-Bundle-4Wcah?srsltid=AfmBOopStbqQGgOc4ios1zXWZGO71_U0bbGRjcvAWUE4q0425y_-X__P",
+        "displayedUrl": "https://paimart.painest.com › ...",
+        "description": "Nestle Kitkat Chocolate - 23.8g (2Pcs Bundle). Product code: 8901058005233. Regular: ৳ 65.00. Member: ৳ 45.00. LOGIN TO ORDER. Brand: Kitkat. Purchase this ...",
+        "emphasizedKeywords": [
+          "8901058005233"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "Kitkat mini chocolate coated wafer – 11.9g",
+        "websiteTitle": "Open Food Facts",
+        "url": "https://in-hi.openfoodfacts.org/product/8901058005233/kitkat-mini-chocolate-coated-wafer",
+        "displayedUrl": "https://in-hi.openfoodfacts.org › 8901058005233 › kit...",
+        "description": "1 अग॰ 2024 — 8901058005233(EAN / EAN-13). मात्रा: 11.9g. ब्रांड: KitKat, Nestle nutrition. श्रेणियाँ: en:Snacks, en:Sweet snacks, en ...",
+        "emphasizedKeywords": [
+          "8901058005233"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "Nestle KitKat - TMD Basket",
+        "websiteTitle": "tmdbasket.com",
+        "url": "https://www.tmdbasket.com/index.php?route=product/product&product_id=1506",
+        "displayedUrl": "https://www.tmdbasket.com › ...",
+        "description": "Nestle KitKat · Stock: In Stock · Brand: Nestle India Limited · Model: 8901058005233 · Weight: 11.90g · UPC: 8901058005233.",
+        "emphasizedKeywords": [
+          "Nestle KitKat"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "Nestle Kitkat (Loose Item) Per Piece 12.1",
+        "websiteTitle": "Nainji Supermarket",
+        "url": "https://nainji.in/product/nestle-kit-kat-11-9gm/",
+        "displayedUrl": "https://nainji.in › ...",
+        "description": "Brand KIT KAT Department Food Products SKU: 8901058005233 Nestle Kitkat (Loose Item) Per Piece 12.1 ₹10.00 34 in stock",
+        "emphasizedKeywords": [
+          "Nestle Kitkat (Loose Item) Per Piece 12.1"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "Nestle KitKat @10 - Shivay Daily Essentials - TMDSuite",
+        "websiteTitle": "TMDSuite",
+        "url": "https://sdemart.tmdsuite.com/nestle-kitkat-10-1438",
+        "displayedUrl": "https://sdemart.tmdsuite.com › ...",
+        "description": "Nestle KitKat @10. Product Code: 8901058005233. ₹10.00. Qty Add to Cart. Qty. - +. Customer Reviews. No reviews yet. Be the first to write a review!",
+        "emphasizedKeywords": [
+          "Nestle KitKat @10"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "Nestle Kitkat Chocolate Family Pack Review Ibibna",
+        "websiteTitle": "YouTube · Ibibna Review",
+        "url": "https://www.youtube.com/watch?v=gYDdgD2sHgQ",
+        "displayedUrl": "YouTube › Ibibna Review",
+        "description": "Welcome to Ibibna Nestle KitKat Chocolate Family Pack Review Ibibna #Ibibna #nestle #chocolate Thank you for Watching and Keep Supporting.",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "views": "1.3 लाख+ व्यू",
+        "lastUpdated": "6 वर्ष पहले",
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "NESTLE KITKAT 11.9G",
+        "websiteTitle": "Souq Al Buhair",
+        "url": "https://souqalbuhair.com/product/nestle-kit-kat-11-9g/?srsltid=AfmBOorP9I54WFezzqO_ezczAmTKyWusIPqirg-phw-Vnjv3A4_Tw0_J",
+        "displayedUrl": "https://souqalbuhair.com › ...",
+        "description": "NESTLE KITKAT 11.9G ; Brand: Nestle ; Only 568 ; Estimated Delivery: Friday, Aug 21 – Tuesday, Aug 25 ; SKU: 8901058005233 ; Tag: Nestle ...",
+        "emphasizedKeywords": [
+          "NESTLE KITKAT 11.9G"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [
+      {
+        "answer": null,
+        "question": "Is there 5 rupees KitKat?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "Is there 10 rupees KitKat?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "Is there 20 rupees KitKat?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "Is there 10 rupees KitKat?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "Is there 20 rupees KitKat?",
+        "title": null,
+        "url": null,
+        "date": null
+      }
+    ],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/aXdIX6idURwP8Rv-0.html?signature=lZDzT9eYGiNlRZeDbFg6"
+  }
+]

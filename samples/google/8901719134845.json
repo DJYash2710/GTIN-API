@@ -1,0 +1,163 @@
+[
+  {
+    "#debug": {
+      "requestId": "kBIElPvuaMvIGmK",
+      "url": "http://www.google.co.in/search?q=8901719134845",
+      "loadedUrl": "http://www.google.co.in/search?q=8901719134845",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901719134845",
+      "url": "http://www.google.co.in/search?q=8901719134845",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901719134845",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "8901719134845 - PARLE GLUCO BISCUITS 45GM Rate",
+        "websiteTitle": "SAI SUPER MARKET",
+        "url": "https://www.saisupermarket.in/product-detail.php?mid=8901719134845&cat=3.1&srsltid=AfmBOoqR1zSgsc1-qdda3IORIVyQHS-SJl1zuUtYZqaJ-QsOY_3UpOtj",
+        "displayedUrl": "https://www.saisupermarket.in › ...",
+        "description": "PARLE MONACO CLASSIC REGULAR BISCUIT185. Rate : 34.30 MRP : 35.00. PID:8901719135156. Buy more then 2 Discount 5%. PARLE MONACO ZEERA BISCUITS 46.4GM · PARLE ...",
+        "emphasizedKeywords": [
+          "PARLE MONACO CLASSIC REGULAR BISCUIT185"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "Parle Original Gluco Biscuits 45 g",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/40019272/parle-gluco-biscuits-parle-g-50-g-pouch/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "Other Product Info. EAN Code: 8901719134845. FSSAI Number: 10013022002253. Manufactured For: Parle Biscuits Pvt Ltd., North Level Crossing, Vile Parle East ...",
+        "emphasizedKeywords": [
+          "8901719134845"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "Parle-G Original Gluco Biscuits 40 Gm - Aapkabazar.co",
+        "websiteTitle": "Aapkabazar.co",
+        "url": "https://aapkabazar.co/6567/pd/parle-g-original-gluco-biscuits-40-gm?srsltid=AfmBOorgMXFeoGt5-zP7PkZZfylbIdhXBsjNbm270aF9T9o9GX4TpPe0",
+        "displayedUrl": "https://aapkabazar.co › ...",
+        "description": "Made with the goodness of wheat flour, milk, and essential vitamins, these biscuits provide instant energy. Ideal for kids and adults alike, they are perfect ...",
+        "emphasizedKeywords": [
+          "these biscuits provide instant energy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "Parle G Biscuits 40g",
+        "websiteTitle": "Top In Town Hypermarket",
+        "url": "https://www.topintownstore.com/product/parle-g-biscuits-40g/",
+        "displayedUrl": "https://www.topintownstore.com › ...",
+        "description": "Parle G Biscuits 40g. ₹5. 15 min delivery. Quality assured. Free delivery*. Brand: Parle. Category: Biscuits. SKU: 8901719134845 ...",
+        "emphasizedKeywords": [
+          "Parle G Biscuits 40g"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "Parle G @5 - Shivay Daily Essentials - TMDSuite",
+        "websiteTitle": "TMDSuite",
+        "url": "https://sdemart.tmdsuite.com/parle-g-5",
+        "displayedUrl": "https://sdemart.tmdsuite.com › ...",
+        "description": "Parle G @5. Parle G @5. Product Code: 8901719134845. ₹5.00. Qty Add to Cart. Qty. - +. Customer Reviews. No reviews yet. Be the first to write a review!",
+        "emphasizedKeywords": [
+          "8901719134845"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "Parle-G Biscuit – 45gm",
+        "websiteTitle": "Open Food Facts",
+        "url": "https://world.openfoodfacts.org/product/8901719134845/parle-g-biscuit",
+        "displayedUrl": "https://world.openfoodfacts.org › ...",
+        "description": "25 फ़र॰ 2025 — 8901719134845(EAN / EAN-13). Quantity: 45gm. Brands: Parle. Categories: Snacks, Sweet snacks, Biscuits and cakes, Biscuits and crackers ...",
+        "emphasizedKeywords": [
+          "8901719134845"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "Parle-G Orignal Gluco Biscuits 45G",
+        "websiteTitle": "Souq Al Buhair",
+        "url": "https://souqalbuhair.com/product/parle-g-orignal-gluco-biscuits-45g/?srsltid=AfmBOordu8rCANPVEeGnzytsJFHeZEjfJWRS0ldS_R2Idh-dMag5sb1W",
+        "displayedUrl": "https://souqalbuhair.com › ...",
+        "description": "Perfect Cookies which can be enjoyed by Adults and Children both. Just dunk it in milk and indulge in the lipsmacking Cookie Biscuits.",
+        "emphasizedKeywords": [
+          "Perfect Cookies which can be enjoyed by Adults and Children both"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "https://buygrocery.de/products/parle-g-799g?srslti...",
+        "websiteTitle": "BuyGrocery",
+        "url": "https://buygrocery.de/products/parle-g-799g?srsltid=AfmBOop02Q1sdEZvdbV2czLc9E8PBdid61cjnXe9yxGEt5XPYrAFm9Bx",
+        "displayedUrl": "https://buygrocery.de › ...",
+        "description": "इस पेज के लिए कोई जानकारी उपलब्ध नहीं है.",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "Parle G Gluco Biscuit – Family Pack (799gm)",
+        "websiteTitle": "swadesh.eu",
+        "url": "https://www.swadesh.eu/product/parle-g-gluco-biscuit-family-pack-799gm/",
+        "displayedUrl": "https://www.swadesh.eu › ...",
+        "description": "Parle G Gluco Biscuits are a perfect accompaniment to your tea or coffee. This 799gm family pack contains an ample supply of delicious biscuits, ...",
+        "emphasizedKeywords": [
+          "Parle G Gluco Biscuits are a perfect accompaniment to your tea or coffee"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/kBIElPvuaMvIGmK-0.html?signature=VPLFREdIil8kSKsSfxzy"
+  }
+]

@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>GTIN product review</title>
+  <style>
+    :root {
+      --bg: #f4f1ea;
+      --card: #fff;
+      --ink: #1c1917;
+      --muted: #78716c;
+      --line: #e7e5e4;
+      --accent: #0f766e;
+      --accent-ink: #fff;
+      --pick: #ecfdf5;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font: 16px/1.45 "Segoe UI", system-ui, sans-serif;
+      color: var(--ink);
+      background: var(--bg);
+    }
+    main {
+      max-width: 640px;
+      margin: 2rem auto;
+      padding: 0 1rem 3rem;
+    }
+    h1 { font-size: 1.4rem; margin: 0 0 0.25rem; }
+    .sub { color: var(--muted); margin: 0 0 1.5rem; }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 1.25rem;
+      margin-bottom: 1rem;
+    }
+    label { display: block; font-weight: 600; margin-bottom: 0.35rem; }
+    input[type="text"], input[type="number"] {
+      width: 100%;
+      padding: 0.6rem 0.7rem;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      font: inherit;
+      background: #fff;
+    }
+    input:focus { outline: 2px solid #99f6e4; border-color: var(--accent); }
+    .row { display: flex; gap: 0.5rem; align-items: center; }
+    .row input { flex: 1; }
+    button {
+      font: inherit;
+      border: 0;
+      border-radius: 8px;
+      padding: 0.6rem 0.9rem;
+      background: var(--accent);
+      color: var(--accent-ink);
+      cursor: pointer;
+    }
+    button.secondary { background: #44403c; }
+    button:disabled { opacity: 0.5; cursor: not-allowed; }
+    .combo { position: relative; }
+    .menu {
+      display: none;
+      position: absolute;
+      left: 0; right: 0; top: calc(100% + 4px);
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      box-shadow: 0 8px 24px rgba(0,0,0,.08);
+      z-index: 5;
+      overflow: hidden;
+    }
+    .menu.open { display: block; }
+    .opt {
+      padding: 0.65rem 0.8rem;
+      cursor: pointer;
+      border-bottom: 1px solid var(--line);
+    }
+    .opt:last-child { border-bottom: 0; }
+    .opt:hover, .opt.active { background: var(--pick); }
+    .opt small { display: block; color: var(--muted); font-weight: 400; }
+    .hint { color: var(--muted); font-size: 0.85rem; margin-top: 0.3rem; }
+    .status { margin-top: 0.75rem; white-space: pre-wrap; }
+    .ok { color: #166534; }
+    .err { color: #b91c1c; }
+    .scores { font-size: 0.9rem; color: var(--muted); }
+    .check { display: flex; gap: 0.4rem; align-items: center; margin: 0.6rem 0 0; font-weight: 400; }
+    .key { margin-top: 1rem; }
+    .key input { font-size: 0.9rem; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Review product data</h1>
+    <p class="sub">Look up a GTIN, pick name / price / weight from up to 3 sources, edit if needed, then save.</p>
+
+    <form class="card" id="lookup-form">
+      <label for="gtin">GTIN</label>
+      <div class="row">
+        <input id="gtin" type="text" inputmode="numeric" value="8901719123870" autocomplete="off" />
+        <button type="submit">Lookup</button>
+      </div>
+      <label class="check"><input id="live" type="checkbox" /> Live Google search (spends credits)</label>
+      <div id="lookup-status" class="status"></div>
+    </form>
+
+    <form class="card" id="review-form" hidden>
+      <div class="combo" data-field="name">
+        <label for="name">Name</label>
+        <input id="name" type="text" autocomplete="off" />
+        <div class="menu" id="name-menu"></div>
+        <p class="hint">Click the field for up to 3 options. You can also type your own.</p>
+      </div>
+      <div class="combo" data-field="price" style="margin-top:1rem">
+        <label for="price">Price (INR)</label>
+        <input id="price" type="number" step="0.01" min="0" autocomplete="off" />
+        <div class="menu" id="price-menu"></div>
+      </div>
+      <div class="combo" data-field="weight" style="margin-top:1rem">
+        <label for="weight">Weight</label>
+        <div class="row">
+          <input id="weight" type="number" step="0.001" min="0" autocomplete="off" />
+          <input id="unit" type="text" value="g" style="max-width:5rem" />
+        </div>
+        <div class="menu" id="weight-menu"></div>
+      </div>
+      <div style="margin-top:1.1rem">
+        <button type="submit">Submit</button>
+      </div>
+      <div id="save-status" class="status"></div>
+    </form>
+
+    <div class="card key">
+      <label for="api-key">API key</label>
+      <input id="api-key" type="text" />
+    </div>
+  </main>
+  <script>
+    const keyInput = document.getElementById("api-key");
+    keyInput.value = localStorage.getItem("apiKey") || "dev-local-key";
+    keyInput.addEventListener("change", () => localStorage.setItem("apiKey", keyInput.value.trim()));
+
+    let fieldOptions = { name: [], price: [], weight: [] };
+    let picked = { name: null, price: null, weight: null };
+
+    function headers() {
+      return { "Authorization": "Bearer " + keyInput.value.trim(), "Content-Type": "application/json" };
+    }
+
+    function setStatus(el, text, ok) {
+      el.className = "status " + (ok ? "ok" : "err");
+      el.textContent = text || "";
+    }
+
+    function fmtPrice(p) {
+      if (!p || p.amount == null) return "";
+      return "₹" + Number(p.amount).toFixed(2);
+    }
+    function fmtWeight(w) {
+      if (!w || w.value == null) return "";
+      return w.value + " " + (w.unit || "g");
+    }
+
+    function fillMenu(menuId, items, field) {
+      const menu = document.getElementById(menuId);
+      menu.innerHTML = "";
+      items.forEach((item, i) => {
+        const el = document.createElement("div");
+        el.className = "opt";
+        el.innerHTML = item.label + "<small>" + (item.source || "option " + (i + 1)) + "</small>";
+        el.onclick = () => pick(field, item, el);
+        menu.appendChild(el);
+      });
+    }
+
+    function fillMenus() {
+      fillMenu("name-menu", fieldOptions.name, "name");
+      fillMenu("price-menu", fieldOptions.price, "price");
+      fillMenu("weight-menu", fieldOptions.weight, "weight");
+    }
+
+    function pick(field, item, el) {
+      picked[field] = item.source || null;
+      document.querySelectorAll("#" + field + "-menu .opt").forEach(n => n.classList.remove("active"));
+      if (el) el.classList.add("active");
+      if (field === "name") document.getElementById("name").value = item.value || "";
+      if (field === "price") document.getElementById("price").value = item.value != null ? item.value : "";
+      if (field === "weight") {
+        document.getElementById("weight").value = item.value != null ? item.value : "";
+        document.getElementById("unit").value = item.unit || "g";
+      }
+      closeMenus();
+    }
+
+    function markCustom(field) {
+      picked[field] = null;
+      document.querySelectorAll("#" + field + "-menu .opt").forEach(n => n.classList.remove("active"));
+    }
+
+    function closeMenus() {
+      document.querySelectorAll(".menu").forEach(m => m.classList.remove("open"));
+    }
+
+    document.querySelectorAll(".combo input").forEach(input => {
+      input.addEventListener("focus", () => {
+        closeMenus();
+        const menu = input.closest(".combo").querySelector(".menu");
+        if (menu && menu.children.length) menu.classList.add("open");
+      });
+      input.addEventListener("input", () => {
+        const field = input.closest(".combo").dataset.field;
+        markCustom(field);
+      });
+    });
+    document.getElementById("unit").addEventListener("input", () => markCustom("weight"));
+    document.addEventListener("click", (e) => {
+      if (!e.target.closest(".combo")) closeMenus();
+    });
+
+    document.getElementById("lookup-form").addEventListener("submit", async (e) => {
+      e.preventDefault();
+      const gtin = document.getElementById("gtin").value.trim();
+      const live = document.getElementById("live").checked;
+      const status = document.getElementById("lookup-status");
+      setStatus(status, "Looking up…", true);
+      const url = "/v1/products/" + encodeURIComponent(gtin) + (live ? "?force_refresh=true" : "");
+      try {
+        const res = await fetch(url, { headers: headers() });
+        const body = await res.json();
+        if (!res.ok) {
+          document.getElementById("review-form").hidden = true;
+          setStatus(status, body.detail || body.error || ("HTTP " + res.status), false);
+          return;
+        }
+        fieldOptions = {
+          name: (body.name || []).map((value, i) => ({
+            label: value,
+            value,
+            source: (body.name_source || [])[i] || null
+          })),
+          price: (body.price || []).map((p, i) => ({
+            label: fmtPrice(p),
+            value: p.amount,
+            source: (body.price_source || [])[i] || null
+          })),
+          weight: (body.weight || []).map((w, i) => ({
+            label: fmtWeight(w),
+            value: w.value,
+            unit: w.unit || "g",
+            source: (body.weight_source || [])[i] || null
+          }))
+        };
+        picked = {
+          name: fieldOptions.name[0] ? fieldOptions.name[0].source : null,
+          price: fieldOptions.price[0] ? fieldOptions.price[0].source : null,
+          weight: fieldOptions.weight[0] ? fieldOptions.weight[0].source : null
+        };
+        fillMenus();
+        document.getElementById("name").value = fieldOptions.name[0] ? fieldOptions.name[0].value : "";
+        document.getElementById("price").value = fieldOptions.price[0] ? fieldOptions.price[0].value : "";
+        document.getElementById("weight").value = fieldOptions.weight[0] ? fieldOptions.weight[0].value : "";
+        document.getElementById("unit").value = fieldOptions.weight[0] ? fieldOptions.weight[0].unit : "g";
+        document.getElementById("review-form").hidden = false;
+        const counts = [
+          fieldOptions.name.length + " name",
+          fieldOptions.price.length + " price",
+          fieldOptions.weight.length + " weight"
+        ].join(", ");
+        setStatus(status, "Loaded " + counts + " from " + (body.cache || "lookup") + ".", true);
+      } catch (err) {
+        setStatus(status, String(err), false);
+      }
+    });
+
+    document.getElementById("review-form").addEventListener("submit", async (e) => {
+      e.preventDefault();
+      const gtin = document.getElementById("gtin").value.trim();
+      const status = document.getElementById("save-status");
+      const nameVal = document.getElementById("name").value.trim();
+      const priceVal = document.getElementById("price").value;
+      const weightVal = document.getElementById("weight").value;
+      const unitVal = document.getElementById("unit").value.trim() || "g";
+      const payload = {
+        name: { value: nameVal || null, source: picked.name, custom: !picked.name },
+        price: {
+          amount: priceVal === "" ? null : Number(priceVal),
+          currency: "INR",
+          source: picked.price,
+          custom: !picked.price
+        },
+        weight: {
+          value: weightVal === "" ? null : Number(weightVal),
+          unit: unitVal,
+          source: picked.weight,
+          custom: !picked.weight
+        }
+      };
+      setStatus(status, "Saving…", true);
+      try {
+        const res = await fetch("/v1/products/" + encodeURIComponent(gtin) + "/confirm", {
+          method: "POST",
+          headers: headers(),
+          body: JSON.stringify(payload)
+        });
+        const body = await res.json();
+        if (!res.ok) {
+          setStatus(status, body.detail || body.error || ("HTTP " + res.status), false);
+          return;
+        }
+        const scores = Object.entries(body.confidence || {}).map(([k, v]) => k + ": " + v).join("\n");
+        setStatus(status, "Saved to master DB.\nSource confidence:\n" + (scores || "(none)"), true);
+      } catch (err) {
+        setStatus(status, String(err), false);
+      }
+    });
+  </script>
+</body>
+</html>

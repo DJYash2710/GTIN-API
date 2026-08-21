@@ -1,0 +1,4285 @@
+[
+  {
+    "#debug": {
+      "requestId": "K8q91vG1Lod8TIz",
+      "url": "http://www.google.co.in/search?q=8902080000227",
+      "loadedUrl": "http://www.google.co.in/search?q=8902080000227",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8902080000227",
+      "url": "http://www.google.co.in/search?q=8902080000227",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8902080000227",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "Sting Energy Drink 250 Ml - Buy Low Price Online Near Me",
+        "websiteTitle": "Aapkabazar.co",
+        "url": "https://aapkabazar.co/6763/pd/sting-energy-drink-250-ml?srsltid=AfmBOooXPtDicGIsqgfSbkXZxRlkQRuSQNIIum3pM2O8JAGHk2UEzOWQ",
+        "displayedUrl": "https://aapkabazar.co › ...",
+        "description": "Product Details. Unit. 250 ml. Item Code. 8902080000227. Country of Origin. india. Customer Care Details. Email: support@aapkabazar.co. Return Policy. The item ...",
+        "emphasizedKeywords": [
+          "8902080000227"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "STING ENERGY 250ML (B) Rate: 20.00 MRP",
+        "websiteTitle": "SAI SUPER MARKET",
+        "url": "https://saisupermarket.in/product-detail.php?mid=8902080000227&cat=4.4&srsltid=AfmBOoqFMsiS_qCrOppOAOSLcrMxSxIZho3H4S943M25Gcw6M0Cwn4Wr",
+        "displayedUrl": "https://saisupermarket.in › ...",
+        "description": "STING ENERGY 250ML (B). Rate : 20.00 MRP : 20.00. EAN / SKU : 8902080000227. PID: 3588. Quantity: Description; Specification; Reviews (1). STING ENERGY ...",
+        "emphasizedKeywords": [
+          "STING ENERGY 250ML (B"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "Sting Energy Drink 250ml",
+        "websiteTitle": "Top In Town Hypermarket",
+        "url": "https://www.topintownstore.com/product/sting-energy-drink-250ml/",
+        "displayedUrl": "https://www.topintownstore.com › ...",
+        "description": "Sting Energy Drink 250ml. ₹20. 15 min delivery. Quality assured. Free delivery*. Brand: Sting. Category: Drinks. SKU: 8902080000227 ...",
+        "emphasizedKeywords": [
+          "Sting Energy Drink 250ml"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "Sting Energy Drink Sports Drink (500 ml, Plain Flavored)",
+        "websiteTitle": "Flipkart",
+        "url": "https://www.flipkart.com/sting-s1-sports-drink/p/itm31794f85700df",
+        "displayedUrl": "https://www.flipkart.com › ...",
+        "description": "Buy Sting S1 Sports Drink for Rs.15 online. Sting S1 Sports Drink at best prices with FREE shipping & cash on delivery. Only Genuine Products.",
+        "emphasizedKeywords": [
+          "Sting S1 Sports Drink"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "averageRating": 4.2,
+        "numberOfReviews": 34,
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "Sting Energy Drink 250 ml",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/40113908/sting-energy-drink-250-ml-bottle/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "This electrifying drink packs a powerful punch of caffeine, ginseng, and essential B vitamins to elevate your energy game and help you conquer your day. Sting ...",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "Sting Energy – 1",
+        "websiteTitle": "Open Food Facts",
+        "url": "https://in-hi.openfoodfacts.org/product/8902080000227/sting-energy",
+        "displayedUrl": "https://in-hi.openfoodfacts.org › 8902080000227 › stin...",
+        "description": "5 अप्रैल 2022 — ×. बारकोड: 8902080000227(EAN / EAN-13). मात्रा: 1. ब्रांड: Sting. श्रेणियाँ: en:Beverages and beverages preparations ...",
+        "emphasizedKeywords": [
+          "8902080000227"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "Sting, 250ml - 1Peti (30Pcs)",
+        "websiteTitle": "Fetch N Buy",
+        "url": "https://fetchnbuy.in/products/copy-of-sting-energy-drink-250-ml",
+        "displayedUrl": "https://fetchnbuy.in › ...",
+        "description": "Stimulate your mind and energise your body with every sip of the Sting energy drink that comprises caffeine, taurine and B-vitamins.",
+        "emphasizedKeywords": [
+          "Sting energy drink"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "Sting Energy Drink 250ml",
+        "websiteTitle": "Tales of India",
+        "url": "https://talesofindia.com.au/products/sting-energy-drink-250ml?srsltid=AfmBOophH4IZVjKhDBW2tipQBfRIGoInJf2SuuO1Cpon7zF-_P2dd4Ys",
+        "displayedUrl": "https://talesofindia.com.au › ...",
+        "description": "Sting Energy Drink 250ml is a refreshing and energizing beverage that fuels you with instant power. Packed with a bold taste and formulated to keep you active, ...",
+        "emphasizedKeywords": [
+          "Sting Energy Drink 250ml"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "sting energy ( soft drink ) 250ml - Alfa Super Mart",
+        "websiteTitle": "sanglimart.com",
+        "url": "https://sanglimart.com/product-details/sting-energy-soft-drink-250ml",
+        "displayedUrl": "https://sanglimart.com › ...",
+        "description": "17 अक्टू॰ 2024 — SKU: 8902080000227; Tags: Stock:0.000 Items In Stock. Description; Additional info; Vendor; Reviews (0). None. Price. INR 20.0. AVAILABILITY.",
+        "emphasizedKeywords": [
+          "8902080000227"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [
+      {
+        "answer": null,
+        "question": "सबसे बढ़िया एनर्जी ड्रिंक कौन सा होता है?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "स्टिंग में अल्कोहल की मात्रा कितनी होती है?",
+        "title": null,
+        "url": null,
+        "date": null
+      }
+    ],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/K8q91vG1Lod8TIz-0.html?signature=1dGGvk4riRSFar7Vh8EeT"
+  },
+  {
+    "#debug": {
+      "requestId": "P6rkcqdP9YNjtEf",
+      "url": "http://www.google.co.in/search?q=8901058017687",
+      "loadedUrl": "http://www.google.co.in/search?q=8901058017687",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901058017687",
+      "url": "http://www.google.co.in/search?q=8901058017687",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901058017687",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "Maggi 2-Minute Instant Masala Noodles 70 g",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/266160/maggi-masala-instant-noodles-vegetarian-70-g-pouch/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "MAGGI Masala instant noodles has the goodness of iron. Each portion (75g) provides you with 16% of your daily iron requirement. It is the favourite choice for ...",
+        "emphasizedKeywords": [
+          "MAGGI Masala instant noodles"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "Noodles Masala 70gr",
+        "websiteTitle": "India Plaza",
+        "url": "https://www.indiaplaza.eu/maggi-noodles-masala-70gr.html",
+        "displayedUrl": "https://www.indiaplaza.eu › ...",
+        "description": "8901058017687. Customer Support. Customer support · About us · General terms & conditions · Payment methods · Privacy policy · Shipping & Returns. My account.",
+        "emphasizedKeywords": [
+          "8901058017687"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "Maggi Masala Noodles 70Gm",
+        "websiteTitle": "Budget Bazaar",
+        "url": "https://budgetbazaar.online/product/maggi-pasta-masala-65gm/",
+        "displayedUrl": "https://budgetbazaar.online › ...",
+        "description": "Item: Maggi Pasta Masala 65Gm Brand: Maggi MRP: Rs.15. BBRP: Rs.14. Saving: Rs.1. Category: Packaged Food Sub Category: Ready To Cook Code: 8901058017687 ...",
+        "emphasizedKeywords": [
+          "8901058017687"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "Maggi 2-Minute Instant Noodles 70g",
+        "websiteTitle": "Mustakshif halal scanner",
+        "url": "https://www.mustakshif.com/product/detail/8901058017687/maggi-2-minute-instant-noodles-70g",
+        "displayedUrl": "https://www.mustakshif.com › ...",
+        "description": "... 8901058017687 so is the status of Maggi 2-Minute Instant Noodles 70g (Halal, Haram, Mushbooh, and Permissible), may change over time. We spare no effort to ...",
+        "emphasizedKeywords": [
+          "8901058017687"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "Maggi 2 Min Noodles Masala 70Gms",
+        "websiteTitle": "Euro-Indian Market",
+        "url": "https://www.euroindianmarket.lu/shop/eas11059-maggi-2-min-noodles-masala-70gms-39758",
+        "displayedUrl": "https://www.euroindianmarket.lu › ...",
+        "description": "Add to cart. Add to wishlist. Share. Reference. EAS11059. Category. Easy Cooking. Barcode. 8901058017687. Contact Us. Reviews & Rating. About Us. At Euro-Indian ...",
+        "emphasizedKeywords": [
+          "8901058017687"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "Maggi Instant Noodles Masala 70g",
+        "websiteTitle": "DesiBasket",
+        "url": "https://desibasket.de/products/maggi-instant-noodles-masala-70g?srsltid=AfmBOorxwBK7No4SE462rMBxVDJLys1NTJzUi4yiTWxenVAaPdRaPvqK",
+        "displayedUrl": "https://desibasket.de › ...",
+        "description": "Whole wheat instant noodles with vegetable flavor. Quick and healthy meal option. Vendor: Maggi. Type: Noodles. Size: 70g. SKU: MG-NA-70.",
+        "emphasizedKeywords": [
+          "Whole wheat instant noodles with vegetable flavor"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "https://www.danabazaarsupermarket.com/noodle?limit...",
+        "websiteTitle": "Dana Bazaar",
+        "url": "https://www.danabazaarsupermarket.com/noodle?limit=75&product_id=5460",
+        "displayedUrl": "https://www.danabazaarsupermarket.com › ...",
+        "description": "इस पेज के लिए कोई जानकारी उपलब्ध नहीं है.",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "MAGGI 2-Minute Instant Noodles 70g/75g (weight may vary)",
+        "websiteTitle": "Amazon.in",
+        "url": "https://www.amazon.in/MAGGI-2-minute-Goodness-Choicest-Favourite/dp/B0192UNUGO",
+        "displayedUrl": "https://www.amazon.in › ...",
+        "description": "MAGGI 2-Minute Instant Noodles 70g/75g (weight may vary) | Your favourite masala noodles with goodness of iron; Made with choicest quality spice ...",
+        "emphasizedKeywords": [
+          "MAGGI 2-Minute Instant Noodles 70g/75g"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "averageRating": 4.2,
+        "numberOfReviews": null,
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "Maggi® 2 Minute Masala Spicy Noodles",
+        "websiteTitle": "maggi.co.uk",
+        "url": "https://www.maggi.co.uk/products/maggi-2-minute-authentic-indian-masala-spicy-instant-noodles/",
+        "displayedUrl": "https://www.maggi.co.uk › ...",
+        "description": "Maggi 2 Minute Authentic Indian Masala Spicy Instant Noodles 70g · 1 Break the Noodle into four parts. · 2 Add Noodles and Flavour Sachet powder to 250 ml of ...",
+        "emphasizedKeywords": [
+          "Maggi 2 Minute Authentic Indian Masala Spicy Instant Noodles"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "averageRating": 4.7,
+        "numberOfReviews": 25,
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [
+      {
+        "answer": null,
+        "question": "मैगी 70 ग्राम की कीमत क्या है?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "15 रुपये की maggi कितने ग्राम की होती है?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "मैगी का पैकेट कितने का आता है?",
+        "title": null,
+        "url": null,
+        "date": null
+      }
+    ],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/P6rkcqdP9YNjtEf-0.html?signature=YrAdgVurxkVvZlNy3VT3"
+  },
+  {
+    "#debug": {
+      "requestId": "7kMBg5RaUGoUIZT",
+      "url": "http://www.google.co.in/search?q=8901063139329",
+      "loadedUrl": "http://www.google.co.in/search?q=8901063139329",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901063139329",
+      "url": "http://www.google.co.in/search?q=8901063139329",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901063139329",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "Buy Britannia Bourbon Cream Biscuit Chocolate Flavor 60 ...",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/100012354/britannia-bourbon-chocolate-cream-biscuits-50-g-pouch/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "Britannia The Original Bourbon Creme Biscuit - With Chocolate, 50 g · 50 g. Rs 10. 10 mins · 500 g. Rs 41. (Pack of 5). MRP: Rs 100. 10 mins. 59% OFF · 20 g. Rs ...",
+        "emphasizedKeywords": [
+          "Britannia The Original Bourbon Creme Biscuit - With Chocolate, 50 g"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "Britannia Bourbon The Original Chocolate Cream Biscuits ...",
+        "websiteTitle": "JioMart",
+        "url": "https://www.jiomart.com/p/groceries/britannia-bourbon-original-biscuits-60-g/490000219",
+        "displayedUrl": "https://www.jiomart.com › ...",
+        "description": "JioMart: India's online shopping.",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "Britannia Bourbon Biscuits 50 Gm - Deliciously Creamy Treat",
+        "websiteTitle": "Aapkabazar.co",
+        "url": "https://aapkabazar.co/5788/pd/britannia-bourbon-biscuits-50-gm?srsltid=AfmBOoqZXYOwppy0_wy-uz913C4l6R8qAjuJ7vPX2WNwUTqI2Bm2otYN",
+        "displayedUrl": "https://aapkabazar.co › ...",
+        "description": "Product Details. Unit. 50 gm. Item Code. 8901063139329. Country of Origin. india. Customer Care Details. Email: support@aapkabazar.co. Return Policy. The item ...",
+        "emphasizedKeywords": [
+          "8901063139329"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "BRITANNIA Bourbon Chocolate Biscuits Cream Sandwich ...",
+        "websiteTitle": "Flipkart",
+        "url": "https://www.flipkart.com/britannia-bourbon-chocolate-biscuits-cream-sandwich/p/itmfcsb74gmf4rhm",
+        "displayedUrl": "https://www.flipkart.com › ...",
+        "description": "8901063139190, 8901063139329, 8901063139374. Net Quantity. 50 g. Freshly Baked. No. Additives. NA. FSSAI Number. NA. Usage Instructions. NA. Legal Disclaimer.",
+        "emphasizedKeywords": [
+          "8901063139329"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "Britannia Bourbon Chocolate Cream Biscuits, 50 g Pouch",
+        "websiteTitle": "Fetch N Buy",
+        "url": "https://fetchnbuy.in/products/britannia-bourbon-chocolate-cream-biscuits-50-g-pouch",
+        "displayedUrl": "https://fetchnbuy.in › ...",
+        "description": "Britannia Bourbon Chocolate Cream Biscuits, 50 g Pouch ; Sku: BBCCB-50G ; Barcode: 8901063139329 ; Product type:.",
+        "emphasizedKeywords": [
+          "Britannia Bourbon Chocolate Cream Biscuits, 50 g Pouch"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "Buy Britannia Bourbon Chocolate Cream Biscuit 100 gm",
+        "websiteTitle": "ananinja.com",
+        "url": "https://ananinja.com/sa/en/product/britannia-bourbon-chocolate-cream-biscuit-100-gm-5358652?srsltid=AfmBOooTQgJ2oB50pehvbiPCXrGB0QcgZgonCZLG8Ifl6ybX-ptpzir9",
+        "displayedUrl": "https://ananinja.com › ...",
+        "description": "Britannia Bourbon Chocolate Cream Biscuit 100 gm now available in Saudi Arabia with Ninja! Get top quality at unbeatable prices, fast, and delivered to your ...",
+        "emphasizedKeywords": [
+          "Britannia Bourbon Chocolate Cream Biscuit 100 gm"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "Britannia The Original Bourbon Creme Biscuit",
+        "websiteTitle": "Mustakshif halal scanner",
+        "url": "https://www.mustakshif.com/product/detail/8901063139329/britannia-the-original-bourbon-creme-biscuit-with-chocolate-50-g-pouch",
+        "displayedUrl": "https://www.mustakshif.com › ...",
+        "description": "Britannia The Original Bourbon Creme Biscuit - With Chocolate, 50 g Pouch is Halal. It is from India by Britannia categorised as Snacks & Confectionery.",
+        "emphasizedKeywords": [
+          "Britannia The Original Bourbon Creme Biscuit"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "Buy Britannia Bourbon Chocolate Flavoured Cream ...",
+        "websiteTitle": "noon Minutes",
+        "url": "https://minutes.noon.com/saudi-en/now-product/Z7304DD91DC732181F5F0Z-1/",
+        "displayedUrl": "https://minutes.noon.com › ...",
+        "description": "Per serving, %DV. Calories, 120, -. Total Fat, 5g, 7%. Saturated Fat, 2.5g, 13%. Trans Fat, 0g, -. Cholesterol, 0mg, 0%. Sodium, 30mg, 1%.",
+        "emphasizedKeywords": [
+          "Total"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "Bourbon",
+        "websiteTitle": "Britannia International",
+        "url": "https://britannia-international.com/products/product-type/creams/bourbon/",
+        "displayedUrl": "https://britannia-international.com › ...",
+        "description": "Smooth, luscious chocolate cream enveloped in crunchy, sugary chocolate shells. Adopted from the classic british tradition of bourbon biscuits, this is a ...",
+        "emphasizedKeywords": [
+          "Smooth, luscious chocolate cream enveloped in crunchy, sugary chocolate shells"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [
+      {
+        "answer": null,
+        "question": "Is Britannia 50/50 good for health?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "Who owns the 50/50 biscuit brand?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "Which country is the Bourbon biscuit from?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "What is the barcode for Bourbon Biscuits?",
+        "title": null,
+        "url": null,
+        "date": null
+      }
+    ],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/7kMBg5RaUGoUIZT-0.html?signature=1yjyn4bDAYZzlZxZqFThI"
+  },
+  {
+    "#debug": {
+      "requestId": "YoZSna1hpn47j3n",
+      "url": "http://www.google.co.in/search?q=8901764042911",
+      "loadedUrl": "http://www.google.co.in/search?q=8901764042911",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901764042911",
+      "url": "http://www.google.co.in/search?q=8901764042911",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901764042911",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "Thums Up Carbonated Water 250 Ml - Refreshing & Fizzy",
+        "websiteTitle": "Aapkabazar.co",
+        "url": "https://aapkabazar.co/4422/pd/thums-up-carbonated-water-250-ml?srsltid=AfmBOor0BgUEf7W1C2ZE8J28VzRVNUcrSSMiIhBNG0jIWB0wJcQB1TZs",
+        "displayedUrl": "https://aapkabazar.co › ...",
+        "description": "Thums Up 250 ml is a bold and fizzy carbonated soft drink known for its strong, cola flavor. Packaged in a convenient 250 ml bottle, it offers a refreshing ...",
+        "emphasizedKeywords": [
+          "Thums Up 250 ml"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "Thumbs Up, 250ml Pet",
+        "websiteTitle": "KiranaMarket",
+        "url": "https://kiranamarket.com/thumbs-up-250ml-pet/?srsltid=AfmBOood6Nr17NXWGHM0QP2jYH1zdJMY5US8oBKsTNCCr0b2HlEOdSE3",
+        "displayedUrl": "https://kiranamarket.com › ...",
+        "description": "Thumbs Up, 250ml Pet. ₹20.00 Original price was: ₹20.00. ₹19.00 Current price is: ₹19.00. Out of stock. SKU: 8901764042911 Categories: Coffee Tea ...",
+        "emphasizedKeywords": [
+          "Thumbs Up, 250ml Pet"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "Thums up – 250 ml",
+        "websiteTitle": "Open Food Facts",
+        "url": "https://world.openfoodfacts.org/product/8901764042911/thums-up",
+        "displayedUrl": "https://world.openfoodfacts.org › ...",
+        "description": "25 सित॰ 2021 — 8901764042911(EAN / EAN-13). Quantity: 250 ml. Packaging: Plastic, Bottle. Brands: Thums up. Categories: Beverages and beverages preparations ...",
+        "emphasizedKeywords": [
+          "8901764042911"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "Thums Up Pet Bottle 250 ml",
+        "websiteTitle": "Sahota Brothers",
+        "url": "https://sahotabrothers.be/Thums-Up-Pet-Bottle-250-ml-p761560435",
+        "displayedUrl": "https://sahotabrothers.be › ...",
+        "description": "Thums Up Pet Bottle 250 ml. € 0,89. Price incl. VAT (6%) € 0,05. In stock. Add More. Add to Bag. Go to Checkout. Save this product for later. Favorite.",
+        "emphasizedKeywords": [
+          "Thums Up Pet Bottle 250 ml"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "Thums Up Soft Drink 250 ml",
+        "websiteTitle": "Mustakshif halal scanner",
+        "url": "https://www.mustakshif.com/product/detail/8901764042911/thums-up-soft-drink-250-ml",
+        "displayedUrl": "https://www.mustakshif.com › ...",
+        "description": "... 8901764042911 so is the status of Thums Up Soft Drink 250 ml (Halal, Haram, Mushbooh, and Permissible), may change over time. We spare no effort to update ...",
+        "emphasizedKeywords": [
+          "8901764042911"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "Thums Up, 250ml",
+        "websiteTitle": "Fetch N Buy",
+        "url": "https://fetchnbuy.in/products/thumbs-up-250ml",
+        "displayedUrl": "https://fetchnbuy.in › ...",
+        "description": "Zoom. Thums Up, 250ml. ₹ 20.00 INR. Default Title - 2000. Add to cart Out of stock. Buy it now. Sku: TU-250ML. Barcode: 8901764042911. Product type: Accepted ...",
+        "emphasizedKeywords": [
+          "Thums Up, 250ml"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "Thums Up 250ml",
+        "websiteTitle": "Gandhi Bazar Spicewood",
+        "url": "https://www.gandhi-bazar.com/products/thums-up-thums-up-250ml",
+        "displayedUrl": "https://www.gandhi-bazar.com › ...",
+        "description": "... to zoom in Click on image to zoom. Thums Up - Thums Up 250ml. /. Thums Up - Thums Up 250ml. Thums UpSKU: 8901764042911. Price: Sale price$1.49. /. Quantity:.",
+        "emphasizedKeywords": [
+          "Thums Up"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "Thums Up Cola, 250 Millilitres",
+        "websiteTitle": "SAMYAK MART",
+        "url": "https://www.samyaksupermart.com/products/thums-up-250ml",
+        "displayedUrl": "https://www.samyaksupermart.com › ...",
+        "description": "Brand, Thums Up. Item Form, Liquid. Flavour, cola. Number of Items, 1. Package Information, Bottle. Item Volume, 250 Millilitres.",
+        "emphasizedKeywords": [
+          "Brand, Thums Up"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "Thums Up - 200 ml",
+        "websiteTitle": "Dalchinii",
+        "url": "https://dalchinii.ch/products/thums_up?srsltid=AfmBOorEMhJHBpJzjddsUs3uqDSRsH97sJnGpnjzQyl24Lkb3OF28GHF",
+        "displayedUrl": "https://dalchinii.ch › ...",
+        "description": "Thumbs Up - Taste the Thunder. The fizzy and strong taste of this drink is sure to leave you wanting more. You will want to have more once you've tasted ...",
+        "emphasizedKeywords": [
+          "fizzy and strong taste of this drink is sure to leave you wanting more"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/YoZSna1hpn47j3n-0.html?signature=AxGLoVSY9rwaFxcFIERL"
+  },
+  {
+    "#debug": {
+      "requestId": "kBIElPvuaMvIGmK",
+      "url": "http://www.google.co.in/search?q=8901719134845",
+      "loadedUrl": "http://www.google.co.in/search?q=8901719134845",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901719134845",
+      "url": "http://www.google.co.in/search?q=8901719134845",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901719134845",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "8901719134845 - PARLE GLUCO BISCUITS 45GM Rate",
+        "websiteTitle": "SAI SUPER MARKET",
+        "url": "https://www.saisupermarket.in/product-detail.php?mid=8901719134845&cat=3.1&srsltid=AfmBOoqR1zSgsc1-qdda3IORIVyQHS-SJl1zuUtYZqaJ-QsOY_3UpOtj",
+        "displayedUrl": "https://www.saisupermarket.in › ...",
+        "description": "PARLE MONACO CLASSIC REGULAR BISCUIT185. Rate : 34.30 MRP : 35.00. PID:8901719135156. Buy more then 2 Discount 5%. PARLE MONACO ZEERA BISCUITS 46.4GM · PARLE ...",
+        "emphasizedKeywords": [
+          "PARLE MONACO CLASSIC REGULAR BISCUIT185"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "Parle Original Gluco Biscuits 45 g",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/40019272/parle-gluco-biscuits-parle-g-50-g-pouch/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "Other Product Info. EAN Code: 8901719134845. FSSAI Number: 10013022002253. Manufactured For: Parle Biscuits Pvt Ltd., North Level Crossing, Vile Parle East ...",
+        "emphasizedKeywords": [
+          "8901719134845"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "Parle-G Original Gluco Biscuits 40 Gm - Aapkabazar.co",
+        "websiteTitle": "Aapkabazar.co",
+        "url": "https://aapkabazar.co/6567/pd/parle-g-original-gluco-biscuits-40-gm?srsltid=AfmBOorgMXFeoGt5-zP7PkZZfylbIdhXBsjNbm270aF9T9o9GX4TpPe0",
+        "displayedUrl": "https://aapkabazar.co › ...",
+        "description": "Made with the goodness of wheat flour, milk, and essential vitamins, these biscuits provide instant energy. Ideal for kids and adults alike, they are perfect ...",
+        "emphasizedKeywords": [
+          "these biscuits provide instant energy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "Parle G Biscuits 40g",
+        "websiteTitle": "Top In Town Hypermarket",
+        "url": "https://www.topintownstore.com/product/parle-g-biscuits-40g/",
+        "displayedUrl": "https://www.topintownstore.com › ...",
+        "description": "Parle G Biscuits 40g. ₹5. 15 min delivery. Quality assured. Free delivery*. Brand: Parle. Category: Biscuits. SKU: 8901719134845 ...",
+        "emphasizedKeywords": [
+          "Parle G Biscuits 40g"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "Parle G @5 - Shivay Daily Essentials - TMDSuite",
+        "websiteTitle": "TMDSuite",
+        "url": "https://sdemart.tmdsuite.com/parle-g-5",
+        "displayedUrl": "https://sdemart.tmdsuite.com › ...",
+        "description": "Parle G @5. Parle G @5. Product Code: 8901719134845. ₹5.00. Qty Add to Cart. Qty. - +. Customer Reviews. No reviews yet. Be the first to write a review!",
+        "emphasizedKeywords": [
+          "8901719134845"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "Parle-G Biscuit – 45gm",
+        "websiteTitle": "Open Food Facts",
+        "url": "https://world.openfoodfacts.org/product/8901719134845/parle-g-biscuit",
+        "displayedUrl": "https://world.openfoodfacts.org › ...",
+        "description": "25 फ़र॰ 2025 — 8901719134845(EAN / EAN-13). Quantity: 45gm. Brands: Parle. Categories: Snacks, Sweet snacks, Biscuits and cakes, Biscuits and crackers ...",
+        "emphasizedKeywords": [
+          "8901719134845"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "Parle-G Orignal Gluco Biscuits 45G",
+        "websiteTitle": "Souq Al Buhair",
+        "url": "https://souqalbuhair.com/product/parle-g-orignal-gluco-biscuits-45g/?srsltid=AfmBOordu8rCANPVEeGnzytsJFHeZEjfJWRS0ldS_R2Idh-dMag5sb1W",
+        "displayedUrl": "https://souqalbuhair.com › ...",
+        "description": "Perfect Cookies which can be enjoyed by Adults and Children both. Just dunk it in milk and indulge in the lipsmacking Cookie Biscuits.",
+        "emphasizedKeywords": [
+          "Perfect Cookies which can be enjoyed by Adults and Children both"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "https://buygrocery.de/products/parle-g-799g?srslti...",
+        "websiteTitle": "BuyGrocery",
+        "url": "https://buygrocery.de/products/parle-g-799g?srsltid=AfmBOop02Q1sdEZvdbV2czLc9E8PBdid61cjnXe9yxGEt5XPYrAFm9Bx",
+        "displayedUrl": "https://buygrocery.de › ...",
+        "description": "इस पेज के लिए कोई जानकारी उपलब्ध नहीं है.",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "Parle G Gluco Biscuit – Family Pack (799gm)",
+        "websiteTitle": "swadesh.eu",
+        "url": "https://www.swadesh.eu/product/parle-g-gluco-biscuit-family-pack-799gm/",
+        "displayedUrl": "https://www.swadesh.eu › ...",
+        "description": "Parle G Gluco Biscuits are a perfect accompaniment to your tea or coffee. This 799gm family pack contains an ample supply of delicious biscuits, ...",
+        "emphasizedKeywords": [
+          "Parle G Gluco Biscuits are a perfect accompaniment to your tea or coffee"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/kBIElPvuaMvIGmK-0.html?signature=VPLFREdIil8kSKsSfxzy"
+  },
+  {
+    "#debug": {
+      "requestId": "XJKV35VJrgVaTiI",
+      "url": "http://www.google.co.in/search?q=8901063093522",
+      "loadedUrl": "http://www.google.co.in/search?q=8901063093522",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901063093522",
+      "url": "http://www.google.co.in/search?q=8901063093522",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901063093522",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "Britannia Cashew Almond Cookies 60.1 g",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/270729/britannia-good-day-cashew-cookies-60-g/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "Cashew Almond Cookies offer a delightful combination of rich flavours and crunchy textures, made with the goodness of premium cashews and almonds.",
+        "emphasizedKeywords": [
+          "Cashew Almond Cookies"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "Good Day - Cashew Cookies – Britannia – 52.5 g",
+        "websiteTitle": "Open Food Facts",
+        "url": "https://in-hi.openfoodfacts.org/product/8901063093522/good-day-cashew-cookies-britannia",
+        "displayedUrl": "https://in-hi.openfoodfacts.org › 8901063093522 › go...",
+        "description": "15 अग॰ 2023 — 8901063093522(EAN / EAN-13). Common name: Good day biscuit. मात्रा: 52.5 g. ब्रांड: Britannia. श्रेणियाँ: en:Snacks, en ...",
+        "emphasizedKeywords": [
+          "8901063093522"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "BRITANNIA Good Day Cashew Cookies Price in India",
+        "websiteTitle": "Flipkart",
+        "url": "http://www.flipkart.com/britannia-good-day-cashew-cookies/p/itmb56a4a28a3424?pid=CKBET6WJGGEUGNVZ&lid=LSTCKBET6WJGGEUGNVZOPC39L&marketplace=GROCERY&cmpid=content_cookie-biscuit_8965229628_gmc",
+        "displayedUrl": "http://www.flipkart.com › ...",
+        "description": "Maximum Shelf Life. 6 Months ; nutrient Content. NA ; EAN. 8901063093737, 8901063092846, 8901063093522, 8901063093638, 8901063093713 ; Net Quantity. 60.1 g.",
+        "emphasizedKeywords": [
+          "8901063093522"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "Crunchy, Zero Trans Fat, Ready To Eat, 52.5 g is Halal",
+        "websiteTitle": "Mustakshif halal scanner",
+        "url": "https://www.mustakshif.com/product/detail/8901063093522/britannia-good-day-cashew-cookies-crunchy-zero-trans-fat-ready-to-eat-525-g",
+        "displayedUrl": "https://www.mustakshif.com › ...",
+        "description": "Britannia Good Day Cashew Cookies - Crunchy, Zero Trans Fat, Ready To Eat, 52.5 g is Halal. It is from India by Britannia categorised as Snacks ...",
+        "emphasizedKeywords": [
+          "Britannia Good Day Cashew Cookies"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "averageRating": 4.3,
+        "numberOfReviews": 89,
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "BRITANNIA GOOD DAY CASHEW COOKIE 52.5g - MELA",
+        "websiteTitle": "mela.global",
+        "url": "https://shop.mela.global/catalog/product/view/id/2572/s/britannia-good-day-cashew-cookie/",
+        "displayedUrl": "https://shop.mela.global › ...",
+        "description": "britannia good day cashew cookie 52.5g. In stock. SKU. 8901063093522. HK$4.00. truck-icn. Free Shipping. Based on the Delivery Location. truck-icn. Estimated ...",
+        "emphasizedKeywords": [
+          "britannia good day cashew cookie 52.5g"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "Good Day - Cashew Cookies – Britannia – 52.5 g",
+        "websiteTitle": "Open Food Facts",
+        "url": "https://world.openfoodfacts.org/product/8901063093522/good-day-cashew-cookies-britannia",
+        "displayedUrl": "https://world.openfoodfacts.org › ...",
+        "description": "15 अग॰ 2023 — 8901063093522(EAN / EAN-13). Common name: Good day biscuit. Quantity: 52.5 g. Brands: Britannia. Categories: Snacks, Sweet snacks, Biscuits and ...",
+        "emphasizedKeywords": [
+          "8901063093522"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "Hygiène & Soin dentaire",
+        "websiteTitle": "Auchan Sénégal",
+        "url": "https://www.auchan.sn/152-hygiene-soin-dentaire",
+        "displayedUrl": "https://www.auchan.sn › ...",
+        "description": "Hygiène & Soin dentaire 47 produits trouvés ... Limited to 99999 products per customer. Dentifrice Dentygel Vert 132G. 132 g 5 114 CFA / kg.",
+        "emphasizedKeywords": [
+          "Hygiène & Soin dentaire 47 produits trouvés"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "Powder detergent",
+        "websiteTitle": "Sakanal magasins",
+        "url": "https://sakanal.sn/en/21-powder-detergent-?srsltid=AfmBOoq6KqqrOVHJqA61OQYTMUcb6CHMnPAp8_L3P3zzMKZop4lHyq1e",
+        "displayedUrl": "https://sakanal.sn › ...",
+        "description": "PUNTOMATIC ULTRA FRESCOR 22 CAPSULES 286G. 6,790 FCFA. TTC. ESPECES: 6 450 FCFA (-5%). CARTE: 6 654 FCFA (-2%). PUNTOMATIC FUSION FLORAL 22.",
+        "emphasizedKeywords": [
+          "PUNTOMATIC ULTRA FRESCOR 22 CAPSULES 286G"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "https://market.momo.africa/Portal/product/132842/1...",
+        "websiteTitle": "Market by MoMo",
+        "url": "https://market.momo.africa/Portal/product/132842/1?tenantId=2&lang=en&srsltid=AfmBOor2NU0m22JxR0NW1Nh5AdYq6_KfhvRIs25IWIbRHMrYqtMtcqme",
+        "displayedUrl": "https://market.momo.africa › ...",
+        "description": "",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/XJKV35VJrgVaTiI-0.html?signature=TpuaQNnZdvXVX9aiyrcl"
+  },
+  {
+    "#debug": {
+      "requestId": "mjLM8ZKg6hfBSNM",
+      "url": "http://www.google.co.in/search?q=8901063162914",
+      "loadedUrl": "http://www.google.co.in/search?q=8901063162914",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901063162914",
+      "url": "http://www.google.co.in/search?q=8901063162914",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901063162914",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "Britannia Marie Gold Biscuits 64gm - A Light & Crunchy Treat",
+        "websiteTitle": "Aapkabazar.co",
+        "url": "https://aapkabazar.co/3315/pd/britannia-marie-gold-biscuits-64-gm?srsltid=AfmBOorGY-0aGevzMVrKlNfTU7XhAuLKAdcs5tYel4Qb7MYbzUHw_TJG",
+        "displayedUrl": "https://aapkabazar.co › ...",
+        "description": "Britannia Marie Gold Biscuits (64 gm) are light, crispy, and mildly sweet tea-time treats. Made with refined wheat flour and real butter, these golden-brown ...",
+        "emphasizedKeywords": [
+          "Britannia Marie Gold Biscuits (64 gm"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "Britannia Marie Gold Biscuits 64 g",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/100012370/britannia-marie-gold-biscuits-light-crisp-tea-time-snack-no-trans-fat-78-g-pouch/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "(Approx. Values Per 100 g) · Serving Size: Approx. 15 g (Approx. 3 Biscuits) · Energy: 445 kcal · Protein: 7.9 g · Carbohydrates: 79.5 g · Total Sugars: 21.2 g ...",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "Marie Gold Biscuit – Britannia – 64 g",
+        "websiteTitle": "Open Food Facts",
+        "url": "https://world.openfoodfacts.org/product/8901063162914/marie-gold-biscuit-britannia",
+        "displayedUrl": "https://world.openfoodfacts.org › ...",
+        "description": "9 जून 2025 — 8901063162914(EAN / EAN-13). Quantity: 64 g. Brands: Britannia. Categories: Snacks, Sweet snacks, Biscuits and cakes, Biscuits and crackers ...",
+        "emphasizedKeywords": [
+          "8901063162914"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "Marie Gold Biscuit by Britannia - Halal Status: Doubtful Snacks",
+        "websiteTitle": "HalalHQ",
+        "url": "https://halalhq.io/au/products/snacks/marie-gold-biscuit-8901063162914",
+        "displayedUrl": "https://halalhq.io › ...",
+        "description": "Marie Gold Biscuit by Britannia contains source-dependent ingredients flagged by our auto-check in Australia. Browse halal snacks on HalalHQ.",
+        "emphasizedKeywords": [
+          "Marie Gold Biscuit by Britannia"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "Men Care",
+        "websiteTitle": "sallypharmacies.com",
+        "url": "https://sallypharmacies.com/product/daily-essentials/men-care",
+        "displayedUrl": "https://sallypharmacies.com › ...",
+        "description": "Shop By Condition · Hair, Skin & Nails New · Hair Care · Hair Coloring · Ammonia Free · Bleaching · Permanent Hair Dye · Temporary Hair Dye · Henna ...",
+        "emphasizedKeywords": [
+          "Shop By Condition"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "Britannia Marie Gold Biscuit 64 g is not Halal",
+        "websiteTitle": "Mustakshif halal scanner",
+        "url": "https://www.mustakshif.com/product/detail/8901063162914/britannia-marie-gold-biscuit-64-g",
+        "displayedUrl": "https://www.mustakshif.com › ...",
+        "description": "Britannia Marie Gold Biscuit 64 g is not Halal. It is from India by Britannia categorised as Biscuit and Crackers.",
+        "emphasizedKeywords": [
+          "Britannia Marie Gold Biscuit 64 g is not Halal"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "Marie Gold Biscuit – Britannia – 64 g",
+        "websiteTitle": "Open Food Facts",
+        "url": "https://in-hi.openfoodfacts.org/product/8901063162914/marie-gold-biscuit-britannia",
+        "displayedUrl": "https://in-hi.openfoodfacts.org › 8901063162914 › ma...",
+        "description": "9 जून 2025 — 8901063162914(EAN / EAN-13). मात्रा: 64 g. ब्रांड: Britannia. श्रेणियाँ: en:Snacks, en:Sweet snacks, en:Biscuits and cakes ...",
+        "emphasizedKeywords": [
+          "8901063162914"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "This Product is currently out of stock. Please try again later.",
+        "websiteTitle": "صيدلية المصري",
+        "url": "https://almasrypharmacy.com/omni-guard-dry-shampoo-powder-that-eliminates-insects-and-ticks-150-grams.html?srsltid=AfmBOoqlJluX-DcTzkDrrtzYinlNGSUdXXudEvxTM5Guqe5yhIY2Qb_S",
+        "displayedUrl": "https://almasrypharmacy.com › ...",
+        "description": "This Product is currently out of stock. Please try again later. Almasry Pharmacy. About Almasry Pharmacy.",
+        "emphasizedKeywords": [
+          "Almasry Pharmacy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "Inkey List Caffeine Eye Cream - 15Ml",
+        "websiteTitle": "Amazon.eg",
+        "url": "https://www.amazon.eg/-/en/Inkey-List-Caffeine-Eye-Cream/dp/B09PP2FJN6",
+        "displayedUrl": "https://www.amazon.eg › ...",
+        "description": "Made of premium quality and amazing design which can improve the decor as well as storage options in your home. Assures long lasting durability.",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/mjLM8ZKg6hfBSNM-0.html?signature=1Af6qZH9phjUcWj2LeyYL"
+  },
+  {
+    "#debug": {
+      "requestId": "k5R7JsGYtDxBxr4",
+      "url": "http://www.google.co.in/search?q=8901719123870",
+      "loadedUrl": "http://www.google.co.in/search?q=8901719123870",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901719123870",
+      "url": "http://www.google.co.in/search?q=8901719123870",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901719123870",
+    "hasNextPage": true,
+    "serpProviderCode": "OX",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "Parle Original Gluco Biscuits 250 g",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/20004286/parle-glucos-biscuits-parle-g-250-g/",
+        "displayedUrl": "https://www.bigbasket.com › ... › glucose & milk biscuits",
+        "description": "EAN Code: 8901719123870 Country Of Origin: India Manufactured by: Patwari Bakers Pvt Ltd, Best Before 15-11-2026.",
+        "emphasizedKeywords": [
+          "EAN Code: 8901719123870"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "8901719123870 - PARLE GLUCO BISCUITS 200GM Rate",
+        "websiteTitle": "SAI SUPER MARKET",
+        "url": "https://www.saisupermarket.in/product-detail.php?mid=8901719123870&cat=3.1&srsltid=AfmBOoo0K7snrFOKH_oCRHXp_tpdVBN819mmEoB0WClD27p59YiAL9Iz",
+        "displayedUrl": "https://www.saisupermarket.in › product-detail › mid=8...",
+        "description": "PARLE GLUCO BISCUITS 200GM Rate : 29.40 MRP : 30.00 EAN / SKU : 8901719123870 PID: 3876 Buy more then 2 Discount 5%",
+        "emphasizedKeywords": [
+          "PARLE GLUCO BISCUITS 200GM"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "Parle-G Original Gluco Biscuits 200 Gm - Tasty & Energizing",
+        "websiteTitle": "Aapkabazar.co",
+        "url": "https://aapkabazar.co/2650/pd/parle-g-original-gluco-biscuits-200-gm?srsltid=AfmBOopPqlfSAqVXO-Fbj_1bBehKcL8PDYbpQ5duUwN7HPZdHKXfAubB",
+        "displayedUrl": "https://aapkabazar.co › parle-g-original-gluco-biscuits-2...",
+        "description": "Item Code 8901719123870. Original Gluco Biscuits (200 gm) Made with the goodness of wheat flour, milk, and essential vitamins, these biscuits provide instant ...",
+        "emphasizedKeywords": [
+          "Original Gluco Biscuits (200 gm"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "Parle G Biscuits 200g",
+        "websiteTitle": "Top In Town Hypermarket",
+        "url": "https://www.topintownstore.com/product/parle-g-biscuits-200g/",
+        "displayedUrl": "https://www.topintownstore.com › Shop",
+        "description": "Parle G Biscuits 200g ₹27 15 min delivery Quality assured Free delivery* Brand: Parle Category: Biscuits SKU: 8901719123870. FREE DELIVERY on orders above ₹99 ...",
+        "emphasizedKeywords": [
+          "Parle G Biscuits 200g"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "PARLE G Original Gluco Biscuits Plain Biscuit Price in India",
+        "websiteTitle": "Flipkart",
+        "url": "https://www.flipkart.com/parle-g-original-gluco-biscuits/p/itmfyxnbtgzatmgg",
+        "displayedUrl": "https://www.flipkart.com › itmfyxnbtgzatmgg",
+        "description": "PARLE G Original Gluco Biscuits Plain Biscuit for Rs.22 online. EAN 8901719123870, 8901719135743 Net Quantity 200 g Freshly Baked No Additives NA FSSAI. ...",
+        "emphasizedKeywords": [
+          "PARLE G Original Gluco Biscuits Plain Biscuit"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "Parle-G 250g",
+        "websiteTitle": "Open Food Facts",
+        "url": "https://world.openfoodfacts.org/product/8901719123870/parle-g-250g",
+        "displayedUrl": "https://world.openfoodfacts.org › 8901719123870",
+        "description": "8901719123870(EAN / EAN-13). Brands: Parle. Countries where sold: India. Matching with your preferences. Health. Nutrition. icon. Nutri-Score ...Read more",
+        "date": "2025-06-22T12:00:00.000Z",
+        "emphasizedKeywords": [
+          "890171912"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "Parle-G Original Gluco Biscuits (300 g)",
+        "websiteTitle": "PC Express Pass",
+        "url": "https://rapid.pcexpress.ca/en/parle-g-original-gluco-biscuits-300-g/p/DD_1000056176_EA?source=nspt",
+        "displayedUrl": "https://rapid.pcexpress.ca › ... › South Asian",
+        "description": "Parle's Biscuit Original Glucose offers a delicious snack option perfect for any time of day. Enjoy them with your afternoon tea or crush and blend them ...Read more",
+        "emphasizedKeywords": [
+          "Parle's Biscuit Original Glucose"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "Buy Parle G Original Gluco Cookie 250g | Canada",
+        "websiteTitle": "Silkrute.ca",
+        "url": "https://www.silkrute.ca/grocery/snacks/biscuits/g-original-gluco-cookie-250g/",
+        "displayedUrl": "https://www.silkrute.ca › grocery › snacks › biscuits",
+        "description": "Parle G Original Gluco Cookie 250g |. Filled with the goodness of milk and wheat Parle G is a source of all round nourishment. Product Dimensions: 3.6 Good ...",
+        "emphasizedKeywords": [
+          "Parle G Original Gluco Cookie 250g"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "Buy Parle-G Original Gluco Biscuits 300g Online",
+        "websiteTitle": "South Asian Central",
+        "url": "https://www.southasiancentral.ca/product/parle-g-original-gluco-biscuits-300g/?srsltid=AfmBOoqUn5tc4Ua3ttQQSc5SCnmUaobifsQFQ05bJBj0DCAl_Cw2xmck",
+        "displayedUrl": "https://www.southasiancentral.ca › Shop › Parle",
+        "description": "Parle-G Original Gluco Biscuits are a popular brand of biscuits made by Parle Products in India. The biscuits are square-shaped and made from wheat flour, sugar ...Read more",
+        "emphasizedKeywords": [
+          "Parle-G Original Gluco Biscuits"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [
+      {
+        "answer": null,
+        "question": "Who is the current owner of Parle-G?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "What is the expiry date of Parle-G biscuit?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "Is Parle-G biscuit healthy or not?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "Is glucose biscuit healthy?",
+        "title": null,
+        "url": null,
+        "date": null
+      }
+    ],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/k5R7JsGYtDxBxr4-0.html?signature=izqGRvVFIRCrmhfkRcie"
+  },
+  {
+    "#debug": {
+      "requestId": "HBXkrHWg8yY5N5p",
+      "url": "http://www.google.co.in/search?q=8901030921667",
+      "loadedUrl": "http://www.google.co.in/search?q=8901030921667",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901030921667",
+      "url": "http://www.google.co.in/search?q=8901030921667",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901030921667",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "KN.TOMATO KETCHUP 1.1KG (P) Rate: 150.00 MRP",
+        "websiteTitle": "SAI SUPER MARKET",
+        "url": "https://www.saisupermarket.in/product-detail.php?mid=8901030921667&cat=3.6&srsltid=AfmBOoryGP6gCu2X0We1Q_rNE4-mNcTiqkrSS7ODkYZ4M3RBiMXlDr2u",
+        "displayedUrl": "https://www.saisupermarket.in › ...",
+        "description": "TOMATO KETCHUP 1.1KG (P). Rate : 100 MRP : 150.00. EAN / SKU : 8901030921667. PID: 6448. Price Off Rs. 50.00/-. Quantity: Description; Specification; Reviews (1) ...",
+        "emphasizedKeywords": [
+          "8901030921667"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "Kissan Fresh Tomato Ketchup - Tasty, Yummy & Healthy ...",
+        "websiteTitle": "Mustakshif halal scanner",
+        "url": "https://www.mustakshif.com/product/detail/8901030921667/kissan-fresh-tomato-ketchup-tasty-yummy-healthy-11-kg-pouch",
+        "displayedUrl": "https://www.mustakshif.com › ...",
+        "description": "Made with 100% real juicy, naturally ripened tomatoes TRUE TO ITS NAME - Kissan works with over 8,000 farmers who grow tomatoes for Kissan Ketchup Available ...",
+        "emphasizedKeywords": [
+          "Made with 100% real juicy, naturally ripened tomatoes"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "JioMart: India's online shopping",
+        "websiteTitle": "JioMart",
+        "url": "https://www.jiomart.com/p/groceries/kissan-fresh-tomato-ketchup-1-2-kg/590809928",
+        "displayedUrl": "https://www.jiomart.com › ...",
+        "description": "JioMart: India's online shopping.",
+        "emphasizedKeywords": [
+          "JioMart"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "Kissan Fresh Tomato Ketchup, 1 kg Pouch",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/40226027/kissan-fresh-tomato-ketchup-tasty-yummy-healthy-12-kg-pouch/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "Kissan Fresh Tomato Ketchup is made with 100% real, naturally ripened fresh Tomatoes. The Tangy Tomato Ketchup is a must have at all homes and is most loved by ...",
+        "emphasizedKeywords": [
+          "made with 100% real, naturally ripened fresh Tomatoes"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "kissan – 1",
+        "websiteTitle": "Open Food Facts",
+        "url": "https://world.openfoodfacts.org/product/8901030921667/kissan",
+        "displayedUrl": "https://world.openfoodfacts.org › ...",
+        "description": "17 जन॰ 2024 — 8901030921667(EAN / EAN-13). Common name: tomato ketchup. Quantity: 1. Brands: Kissan. Categories: Plant-based foods and beverages, Plant-based ...",
+        "emphasizedKeywords": [
+          "8901030921667"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "Enjoy Kissan Fresh Tomato Ketchup Made With 100% Real ...",
+        "websiteTitle": "Enjoy Kissan Fresh Tomato Ketchup Made With 100% Real ... · Kissan",
+        "url": "https://www.facebook.com/Kissanindia/videos/kissan-tomato-ketchup/1384717815926372/",
+        "displayedUrl": "Enjoy Kissan Fresh Tomato Ketchup Made With 100% Real ... › Kissan",
+        "description": "Enjoy Kissan Fresh Tomato Ketchup Made With 100% Real Tomatoes. Chenchamma G Chenchamma G and 38 others · 󰍸 39.",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "reactions": "30+ प्रतिक्रियाएं",
+        "lastUpdated": "1 वर्ष पहले",
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "Kissan Fresh Tomato ketchup 1.1kg - Gulabchand's Ecomart",
+        "websiteTitle": "gcecomart.com",
+        "url": "https://gcecomart.com/product/kisshan-fresh-tomato-ketchup-1-2kg/",
+        "displayedUrl": "https://gcecomart.com › ...",
+        "description": "Kissan Fresh Tomato ketchup 1.1kg. ₹150.00 Original price was: ₹150.00. ₹129.00 Current price is: ₹129.00. Placeholder.",
+        "emphasizedKeywords": [
+          "Kissan Fresh Tomato ketchup 1.1kg"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "Detaylı Arama",
+        "websiteTitle": "actomarket.com",
+        "url": "https://www.actomarket.com/arama/sa?srsltid=AfmBOorUKpOW09fRUhSGhS9du-laYgwZlvlTi0rZAv7D1GKI9Hueqce6",
+        "displayedUrl": "https://www.actomarket.com › ...",
+        "description": "Aclind Hair Loss Aile Seti (4'lü) | Dökülme Karşıtı Şampuan For Men 300 ml + For Women 300 ml + 2x Serum 50 ml. ₺2.499,99. ₺1.999,99.",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "Türkçe",
+        "websiteTitle": "BDOlytics.com",
+        "url": "https://bdolytics.com/tr/market/item/20069",
+        "displayedUrl": "https://bdolytics.com › ...",
+        "description": "",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      },
+      {
+        "title": "Sepete Ekle",
+        "websiteTitle": "Hapeloğlu Sanal Market",
+        "url": "https://www.hapeloglu.com/120326",
+        "displayedUrl": "https://www.hapeloglu.com › ...",
+        "description": "Bulaşık Makinesi TabletiAsperox Sparx Dıamond Bulaşık Makinesi Tableti 20lı 270 gr. ASPEROX. Asperox Sparx Diamond Bulaşık Makinesi Tableti 20li 270 g ; Bulaşık ...",
+        "emphasizedKeywords": [
+          "Asperox Sparx Diamond Bulaşık Makinesi Tableti"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 10
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/HBXkrHWg8yY5N5p-0.html?signature=DEeC2z1KV3bAPwcK0Moa"
+  },
+  {
+    "#debug": {
+      "requestId": "raAtZl9EdNIYSZT",
+      "url": "http://www.google.co.in/search?q=8901030535895",
+      "loadedUrl": "http://www.google.co.in/search?q=8901030535895",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901030535895",
+      "url": "http://www.google.co.in/search?q=8901030535895",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901030535895",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "- Rate: MRP:",
+        "websiteTitle": "SAI SUPER MARKET",
+        "url": "https://www.saisupermarket.in/product-detail.php?mid=8901030535895&cat=4.1&srsltid=AfmBOopYbi6tJ0mX26RsXXyOohKJrTkpldrcdb1ciHuIls9JpXXgHo-_",
+        "displayedUrl": "https://www.saisupermarket.in › ...",
+        "description": "\"SAI SUPER MARKET\" - Anything that you would require on an everyday basis, this supermart has it right there with them. All the products at their store are very ...",
+        "emphasizedKeywords": [
+          "SAI SUPER MARKET"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "Bru Instant Coffee – 1.2 g",
+        "websiteTitle": "Open Food Facts",
+        "url": "https://world.openfoodfacts.org/product/8901030535895/bru-instant-coffee",
+        "displayedUrl": "https://world.openfoodfacts.org › ...",
+        "description": "29 सित॰ 2024 — 8901030535895(EAN / EAN-13). Common name: Instant Coffee-Chicory Mixture. Quantity: 1.2 g. Brands: Bru. Categories: Beverages and beverages ...",
+        "emphasizedKeywords": [
+          "8901030535895"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "bru instant coffee 1.2 gm - Alfa Super Mart",
+        "websiteTitle": "sanglimart.com",
+        "url": "https://sanglimart.com/product-details/bru-instant-coffee-12-gm",
+        "displayedUrl": "https://sanglimart.com › ...",
+        "description": "SKU: 8901030535895; Tags: Stock:62.000 Items In Stock. Description; Additional info; Vendor; Reviews (0). None. Price. INR 2.0. AVAILABILITY.",
+        "emphasizedKeywords": [
+          "SKU: 8901030535895"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "Bru Instant Coffee - mycoffeeshelf.com",
+        "websiteTitle": "mycoffeeshelf.com",
+        "url": "https://mycoffeeshelf.com/coffees/bru-bru-instant-coffee-8901030535895",
+        "displayedUrl": "https://mycoffeeshelf.com › ...",
+        "description": "Bru Instant Coffee. Bru →. Roaster: Bru; Type: Instant; Sold in: india; Barcode: 8901030535895. What it tastes like. BODY SWEET FRUITY BRIGHT HEAT SMOKY ...",
+        "emphasizedKeywords": [
+          "Bru Instant Coffee"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "Guarana Classic 0,5l",
+        "websiteTitle": "Stramis.cz",
+        "url": "https://www.stramis.cz/plechovky/guarana-classic-0-5l/?srsltid=AfmBOop2fPj4wEacmLr0_OCqwVW4yd7E2ZRQ-zZJ2z7dIB1ypSF9sLW-",
+        "displayedUrl": "https://www.stramis.cz › ...",
+        "description": "Guarana Classic je osvěžující energetický nápoj s intenzivní chutí a vysokým obsahem kofeinu, který dodá energii a povzbudí vaši mysl i tělo.",
+        "emphasizedKeywords": [
+          "Guarana Classic je osvěžující energetický nápoj"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "BRU COFFE 2 - JUMO MART",
+        "websiteTitle": "jumomart.com",
+        "url": "https://www.jumomart.com/product/bru-coffe-2/",
+        "displayedUrl": "https://www.jumomart.com › ...",
+        "description": "8901030535895. 8901030535895BRU COFFE 2/-. ₹2.00 Original price was: ₹2.00. ₹1.90 Current price is: ₹1.90. In Stock. BRU COFFE 2 quantity. Add to cart. SKU ...",
+        "emphasizedKeywords": [
+          "890"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "Bru Instant Coffee – 1.2 g",
+        "websiteTitle": "Open Food Facts",
+        "url": "https://in-hi.openfoodfacts.org/product/8901030535895/bru-instant-coffee",
+        "displayedUrl": "https://in-hi.openfoodfacts.org › 8901030535895 › bru...",
+        "description": "29 सित॰ 2024 — 8901030535895(EAN / EAN-13). Common name: Instant Coffee-Chicory Mixture. मात्रा: 1.2 g. ब्रांड: Bru. श्रेणियाँ: en ...",
+        "emphasizedKeywords": [
+          "8901030535895"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "https://www.nemeckyeshop.cz/action/ProductDetail/R...",
+        "websiteTitle": "NěmeckýEshop.cz - kvalitní drogerie a potraviny z Německa",
+        "url": "https://www.nemeckyeshop.cz/action/ProductDetail/RateProduct/",
+        "displayedUrl": "https://www.nemeckyeshop.cz › ...",
+        "description": "इस पेज के लिए कोई जानकारी उपलब्ध नहीं है.",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "https://www.tetadrogerie.cz/api/v2/shop/product-va...",
+        "websiteTitle": "Teta drogerie",
+        "url": "https://www.tetadrogerie.cz/api/v2/shop/product-variants/000000000000249103",
+        "displayedUrl": "https://www.tetadrogerie.cz › ...",
+        "description": "इस पेज के लिए कोई जानकारी उपलब्ध नहीं है.",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      },
+      {
+        "title": "Big Shock Original čoko tyčinka 65g",
+        "websiteTitle": "GigaLékárna.cz",
+        "url": "https://www.gigalekarna.cz/produkt/big-shock-original-coko-tycinka-65g/",
+        "displayedUrl": "https://www.gigalekarna.cz › ...",
+        "description": "Výživové údaje na 100 g ; Energetická hodnota, 1885 kJ /450 kcal ; Tuky. 19,5 g ; z toho nasycené mastné kyseliny, 8 g ; Sacharidy, 58,6 g ; z toho cukry, 44,7 g.",
+        "emphasizedKeywords": [
+          "Výživové údaje na 100 g"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 10
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/raAtZl9EdNIYSZT-0.html?signature=1g6LrpVj4gLWKMt2Dg6DZ"
+  },
+  {
+    "#debug": {
+      "requestId": "yHXiaJcoiqGnu2y",
+      "url": "http://www.google.co.in/search?q=8901764032912",
+      "loadedUrl": "http://www.google.co.in/search?q=8901764032912",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901764032912",
+      "url": "http://www.google.co.in/search?q=8901764032912",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901764032912",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "Sprite Lemon-Lime Flavoured Carbonated Water 250 Ml",
+        "websiteTitle": "Aapkabazar.co",
+        "url": "https://aapkabazar.co/4421/pd/sprite-lemon-lime-flavoured-carbonated-water-250-ml?srsltid=AfmBOooegMX13VqiIJYz3vOwaEwCtKmEpTng8DXJyxRoPO5nZyMA5RAb",
+        "displayedUrl": "https://aapkabazar.co › ...",
+        "description": "Product Details. Unit. 250 ml. Item Code. 8901764032912. Country of Origin. india. Customer Care Details. Email: support@aapkabazar.co. Return Policy. The item ...",
+        "emphasizedKeywords": [
+          "8901764032912"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "Sprite Soft Cold Drink, Chill At Home- Lemon-Lime ...",
+        "websiteTitle": "Dukaan",
+        "url": "https://mydukaan.io/ezygrocerypatna/products/sprite",
+        "displayedUrl": "https://mydukaan.io › ...",
+        "description": "... 250ml Bottle. ₹20. Items in this combo. Add to cart. Buy now. Product details. 8901764032912. Total: View Combo. Add to cart. Similar products. View all.",
+        "emphasizedKeywords": [
+          "8901764032912"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "Buy Sprite Soft Drink Online at Best Price of Rs 20",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/402837/sprite-soft-drink-250-ml/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "Sprite Soft Drink, 250 ml ; MRP: ₹20 ; Sprite Soft Drink · Sprite is a refreshing and iconic lemon-lime flavoured soft drink that is enjoyed worldwide. Known for ...",
+        "emphasizedKeywords": [
+          "Sprite Soft Drink, 250 ml"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "Sprite Soft Drink - Lime Flavoured, 250ML",
+        "websiteTitle": "Fetch N Buy",
+        "url": "https://fetchnbuy.in/products/sprite-soft-drink-lime-flavoured-250ml",
+        "displayedUrl": "https://fetchnbuy.in › ...",
+        "description": "Sprite is a clear lime drink truly meant to quench your thirst & refresh you since 1999. Now, don't confuse a thirst with anything else under the sky!",
+        "emphasizedKeywords": [
+          "Sprite is a clear lime drink"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "SPRITE 250ML Rate: 20.00 MRP - SAI SUPER MARKET",
+        "websiteTitle": "SAI SUPER MARKET",
+        "url": "https://saisupermarket.in/product-detail.php?mid=8901764032912&cat=4.4&srsltid=AfmBOoph2hxZr7bowHl3Nasltv2Or6JaQ_65Rckm-vYcPpzhCLpmdHMb",
+        "displayedUrl": "https://saisupermarket.in › ...",
+        "description": "Description; Specification; Reviews (1). SPRITE 250ML. Info-Google-Search. Product specification. Company Name : . . SPRITE 250ML - 01 Jan 2020 . Give your ...",
+        "emphasizedKeywords": [
+          "SPRITE 250ML"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "Sprite Drink 250ml",
+        "websiteTitle": "Top In Town Hypermarket",
+        "url": "https://www.topintownstore.com/product/sprite-drink-250ml/",
+        "displayedUrl": "https://www.topintownstore.com › ...",
+        "description": "Sprite Drink 250ml. ₹20. 15 min delivery. Quality assured. Free delivery*. Brand: Sprite. Category: Drinks. SKU: 8901764032912 ...",
+        "emphasizedKeywords": [
+          "Sprite Drink 250ml"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "Sprite 250ml - TMD Basket",
+        "websiteTitle": "tmdbasket.com",
+        "url": "https://www.tmdbasket.com/index.php?route=product/product&product_id=630",
+        "displayedUrl": "https://www.tmdbasket.com › ...",
+        "description": "Sprite 250ml · Stock: In Stock · Brand: Sprite · Model: 8901764032912 · Weight: 250.00ML · UPC: 8901764032912 · ISBN: 22021010.",
+        "emphasizedKeywords": [
+          "Sprite 250ml"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "Sprite Lemon, Lime Flavoured Cold Drink, Refreshing Taste ...",
+        "websiteTitle": "mystore.in",
+        "url": "https://www.mystore.in/en/product/sprite-lemon-lime-flavoured-cold-drink-refreshing-taste-clear-soft-drink-with-no-added-colours-recyclable-pet-bottle-250-ml-pack-of-8-?srsltid=AfmBOopUZ4uj4w7-Yrkq431G53PoV6Z0LKXaZOIWRgxSwC2qaCD6v9tI",
+        "displayedUrl": "https://www.mystore.in › ...",
+        "description": "Sprite Lemon, Lime Flavoured Cold Drink, Refreshing Taste, Clear Soft Drink With No Added Colours, Recyclable Pet Bottle, 250 Ml (Pack Of 8). Be the first to ...",
+        "emphasizedKeywords": [
+          "Sprite Lemon, Lime Flavoured Cold Drink"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "JioMart: India's online shopping",
+        "websiteTitle": "JioMart",
+        "url": "https://www.jiomart.com/p/groceries/sprite-lemon-lime-flavor-soft-drink-250-ml-pack-of-8/603691680",
+        "displayedUrl": "https://www.jiomart.com › ...",
+        "description": "JioMart: India's online shopping.",
+        "emphasizedKeywords": [
+          "JioMart"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [
+      {
+        "answer": null,
+        "question": "Who is the owner of Sprite Company?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "How many ml is 20 rupees Sprite?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "How much does a pack of 30 250ml Sprites cost?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "Who is the owner of Sprite Company?",
+        "title": null,
+        "url": null,
+        "date": null
+      }
+    ],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/yHXiaJcoiqGnu2y-0.html?signature=1eAcRI6yUQ8xBuPtUkElh"
+  },
+  {
+    "#debug": {
+      "requestId": "JLqqfoO3HFaoVjC",
+      "url": "http://www.google.co.in/search?q=8901764092206",
+      "loadedUrl": "http://www.google.co.in/search?q=8901764092206",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901764092206",
+      "url": "http://www.google.co.in/search?q=8901764092206",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901764092206",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "DRINKS - MAAZA SLICE 600MLS - Barcode: 8901764092206",
+        "websiteTitle": "barcode-list.com",
+        "url": "https://barcode-list.com/barcode/EN/barcode-8901764092206/Search.htm",
+        "displayedUrl": "https://barcode-list.com › ...",
+        "description": "Barcode:8901764092206 - This code meet the following products: DRINKS - MAAZA SLICE 600MLS; DRINKS - MAAZA SLICE 600MLS.",
+        "emphasizedKeywords": [
+          "DRINKS - MAAZA SLICE 600MLS"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "8901764092206 - MAAZA MANGO 600ML Rate: 35.00 MRP",
+        "websiteTitle": "SAI SUPER MARKET",
+        "url": "https://saisupermarket.in/product-detail.php?mid=8901764092206&cat=4.2&srsltid=AfmBOorhTV45t3kR7vfqTjdLHwx61jF3uiSQ9Q4g9DkU-O7HTyMwSSiP",
+        "displayedUrl": "https://saisupermarket.in › ...",
+        "description": "Rate : 35.00 MRP : 35.00. EAN / SKU : 8901764092206. PID: 3617. Quantity: Description; Specification; Reviews (1). MAAZA MANGO 600ML. Info-Google-Search ...",
+        "emphasizedKeywords": [
+          "MAAZA MANGO 600ML"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "Maaza Mango Drink, 600ml",
+        "websiteTitle": "Fetch N Buy",
+        "url": "https://fetchnbuy.in/products/maaza-mango-drink-600ml",
+        "displayedUrl": "https://fetchnbuy.in › ...",
+        "description": "Maaza, the indulging, ready-to-serve mango drink, is made from mango pulp and handpicked Alphonso. The drink is universally loved for its taste, colour, ...",
+        "emphasizedKeywords": [
+          "Maaza, the indulging, ready-to-serve mango drink"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "Maaza Mango Drink is Halal",
+        "websiteTitle": "Mustakshif halal scanner",
+        "url": "https://www.mustakshif.com/product/detail/8901764092206/maaza-mango-drink",
+        "displayedUrl": "https://www.mustakshif.com › ...",
+        "description": "... 8901764092206 so is the status of Maaza Mango Drink (Halal, Haram, Mushbooh, and Permissible), may change over time. We spare no effort to update Maaza ...",
+        "emphasizedKeywords": [
+          "8901764092206"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "Maaza – Mazza – 600 ml",
+        "websiteTitle": "Open Food Facts",
+        "url": "https://world.openfoodfacts.org/product/8901764092206/maaza-mazza",
+        "displayedUrl": "https://world.openfoodfacts.org › ...",
+        "description": "7 अप्रैल 2018 — 8901764092206(EAN / EAN-13). Common name: fruit drink. Quantity: 600 ml. Brands: Mazza, The Coca-Cola Company. Categories: Beverages and ...",
+        "emphasizedKeywords": [
+          "8901764092206"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "Maaza Mango Drink 600 ml",
+        "websiteTitle": "Easy Grocery",
+        "url": "https://www.easygrocery.au/productdetail/maaza-mango-drink-600-ml?srsltid=AfmBOooAJZYwtxDQg4tYgWsclMt4OKCQIo36bifGL1vhs0CnXl6XeqzA",
+        "displayedUrl": "https://www.easygrocery.au › ...",
+        "description": "ADD TO CART. Barcode. 8901764092206. Brand. Mazza. Price : promotionTitle here. Related products. ayur shahi ubtan face pack 100 gm. $ ...",
+        "emphasizedKeywords": [
+          "8901764092206"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "Maaza – Mango – 600ml",
+        "websiteTitle": "Pallapatti Online",
+        "url": "https://pallapattionline.com/product/coca-cola-original-2l-2-2/",
+        "displayedUrl": "https://pallapattionline.com › ...",
+        "description": "Maaza – Mango – 600ml. ₹35. '-. Available on backorder. Maaza – Mango – 600ml quantity. Add to cart. SKU: 8901764092206. Category: Cool Drinks.",
+        "emphasizedKeywords": [
+          "Maaza – Mango – 600ml"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "Sok Mango Maaza Mango 600 ml",
+        "websiteTitle": "Allegro",
+        "url": "https://allegro.pl/oferta/sok-mango-maaza-mango-600-ml-18336374956?srsltid=AfmBOooTsGDieGugkHMcPNeDw3o2wFzcPHHbkSADdZAczjLxBXtHiTQO",
+        "displayedUrl": "https://allegro.pl › ...",
+        "description": "Sok Mango Maaza Mango 600 ml ; EAN (GTIN). 8901764092206 ; Waga produktu z opakowaniem jednostkowym. 0.8 kg ; Węglowodany. 21 g ; Cukry. 21 g ; Opis ...",
+        "emphasizedKeywords": [
+          "Sok Mango Maaza Mango 600 ml"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "Maaza mango PET 600ml 8901764092206 - Universe-HTT",
+        "websiteTitle": "uhtt.ru",
+        "url": "https://www.uhtt.ru/?open=eyJUeXBlIjoiR09PRFMiLCJJRCI6IjM4OTM0MyJ9",
+        "displayedUrl": "https://www.uhtt.ru › ...",
+        "description": "389343 Maaza mango PET 600ml. Описание: Maaza mango PET 600ml 8901764092206. Штрихкод: 8901764092206. Бренд: Maaza Напитки",
+        "emphasizedKeywords": [
+          "8901764092206",
+          "8901764092206"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/JLqqfoO3HFaoVjC-0.html?signature=10kF8sCsqrRYzZOhbC0Al"
+  },
+  {
+    "#debug": {
+      "requestId": "DmseRsmeCWWz5Q7",
+      "url": "http://www.google.co.in/search?q=8901058000290",
+      "loadedUrl": "http://www.google.co.in/search?q=8901058000290",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901058000290",
+      "url": "http://www.google.co.in/search?q=8901058000290",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901058000290",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "Maggi 2-Minute Instant Masala Noodles 70 g",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/266160/maggi-masala-instant-noodles-vegetarian-70-g-pouch/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "Maggi 2-Minute Instant Masala Noodles, 70 g ; MRP: ₹14 ; EAN Code · 8901058000290 ; Brands. Maggi|Maggi Instant Noodles ...",
+        "emphasizedKeywords": [
+          "Maggi 2-Minute Instant Masala Noodles, 70 g"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "MAGGI 70 GRAM - Barcode: 8901058000290",
+        "websiteTitle": "barcode-list.com",
+        "url": "https://barcode-list.com/barcode/EN/barcode-8901058000290/Search.htm",
+        "displayedUrl": "https://barcode-list.com › ...",
+        "description": "Barcode:8901058000290 - This code meet the following products: MAGGI 70 GRAM; Maggi Noodles.",
+        "emphasizedKeywords": [
+          "MAGGI 70 GRAM"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "Maggi 2-Minute Masala Noodles 1 Pack 70 Gm",
+        "websiteTitle": "Aapkabazar.co",
+        "url": "https://aapkabazar.co/5739/pd/maggi-2-minute-masala-noodles-1-pack-70-gm?srsltid=AfmBOoqPLiuyumMxLJaBxiboHNtVk8cMULHPFzJMlHEdjKTKWGGXcU0L",
+        "displayedUrl": "https://aapkabazar.co › ...",
+        "description": "Product Details. Unit. 70 gm. Item Code. 8901058000290. Country of Origin. india. Customer Care Details. Email: support@aapkabazar.co. Return Policy. The item ...",
+        "emphasizedKeywords": [
+          "Item Code. 8901058000290"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "maggi – Nestlé – 70",
+        "websiteTitle": "Open Food Facts",
+        "url": "https://in-hi.openfoodfacts.org/product/8901058000290/maggi-nestl%C3%A9",
+        "displayedUrl": "https://in-hi.openfoodfacts.org › 8901058000290 › ma...",
+        "description": "7 मार्च 2024 — 8901058000290(EAN / EAN-13). मात्रा: 70. ब्रांड: Nestlé. श्रेणियाँ: पौधे आधारित खाद्य पदार्थ और ...",
+        "emphasizedKeywords": [
+          "8901058000290"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "Maggi 8901058842722 - For Pantry - EAN 8901058000290",
+        "websiteTitle": "Barcode Spider",
+        "url": "https://www.barcodespider.com/8901058000290",
+        "displayedUrl": "https://www.barcodespider.com › ...",
+        "description": "Maggi 2 Minutes Noodles Masala, 70 grams pack (2.46 oz)- 1 pack - Made in India - EAN 8901058000290 on Barcode Spider.",
+        "emphasizedKeywords": [
+          "Maggi 2 Minutes Noodles Masala"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "MAGGI 70G - Desi Mart",
+        "websiteTitle": "desimart.jp",
+        "url": "https://desimart.jp/product/maggi-70g/",
+        "displayedUrl": "https://desimart.jp › ...",
+        "description": "It is not just loved by young ones but adults too. Add to wishlist. SKU: 8901058000290 Categories: All Products, READY TO EAT AND COOK. Reviews (0). Be the ...",
+        "emphasizedKeywords": [
+          "SKU: 8901058000290"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "Maggi Instant Noodles 70Gms",
+        "websiteTitle": "Euro-Indian Market",
+        "url": "https://www.euroindianmarket.lu/shop/eas11086-maggi-instant-noodles-70gms-45270",
+        "displayedUrl": "https://www.euroindianmarket.lu › ...",
+        "description": "Add to cart. Add to wishlist. Share. Reference. EAS11086. Category. Easy Cooking. Barcode. 8901058000290. Contact Us. Reviews & Rating. The conversation is ...",
+        "emphasizedKeywords": [
+          "8901058000290"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "Maggi Masala Noodles 70Gm",
+        "websiteTitle": "Budget Bazaar",
+        "url": "https://budgetbazaar.online/product/maggi-masala-noodles-70gm/",
+        "displayedUrl": "https://budgetbazaar.online › ...",
+        "description": "Item: Maggi Masala Noodles 70Gm Brand: Maggi MRP: Rs.15. BBRP: Rs.14.5. Saving: Rs.0.50. Category: Packaged Food Sub Category: Pasta & Noodles",
+        "emphasizedKeywords": [
+          "Maggi Masala Noodles 70Gm"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "maggi 2-minute noodles 70 gm - Alfa Super Mart",
+        "websiteTitle": "sanglimart.com",
+        "url": "https://www.sanglimart.com/product-details/maggi-2-minute-noodles-70-gm",
+        "displayedUrl": "https://www.sanglimart.com › ...",
+        "description": "SKU: 8901058000290; Tags: None; Stock:0.000 Items In Stock. Description; Additional info; Vendor; Reviews (0). None. Price. INR 14.0.",
+        "emphasizedKeywords": [
+          "SKU: 8901058000290"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [
+      {
+        "answer": null,
+        "question": "मैगी का पैकेट कितने का आता है?",
+        "title": null,
+        "url": null,
+        "date": null
+      }
+    ],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/DmseRsmeCWWz5Q7-0.html?signature=Opqeu7KU3BqoKkvG18QW"
+  },
+  {
+    "#debug": {
+      "requestId": "aiaZbsYRnhhURDm",
+      "url": "http://www.google.co.in/search?q=8901030897542",
+      "loadedUrl": "http://www.google.co.in/search?q=8901030897542",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901030897542",
+      "url": "http://www.google.co.in/search?q=8901030897542",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901030897542",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "8901030897542 - KN.TOMATO KETCHUP 85GM (P) Rate",
+        "websiteTitle": "SAI SUPER MARKET",
+        "url": "https://www.saisupermarket.in/product-detail.php?mid=8901030897542&cat=3.6&iname=KISSAN%20TOMATO%20KETCHUP%2090GM%20(P)&rate=14.70&srsltid=AfmBOoqsPNZ9fYa3duRlmA_UdqdIJ9r7QCdASPkaHUJEK2WN7V9qzEPq",
+        "displayedUrl": "https://www.saisupermarket.in › ...",
+        "description": "KN.TOMATO KETCHUP 85GM (P). Rate : 14.70 MRP : 15.00. EAN / SKU : 8901030897542. PID: 6295. Buy more then 2 Discount 5%. Quantity ...",
+        "emphasizedKeywords": [
+          "KN.TOMATO KETCHUP 85GM (P"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "Kissan Fresh Tomato Ketchup 90 g",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/293385/kissan-fresh-tomato-ketchup-130-g/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "Kissan Fresh Tomato Ketchup is made with 100% real, naturally ripened fresh Tomatoes. The Tangy Tomato Ketchup is a must have at all homes and most loved by ...",
+        "emphasizedKeywords": [
+          "made with 100% real, naturally ripened fresh Tomatoes"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "Kissan Fresh Tomato Ketchup 90G",
+        "websiteTitle": "KiranaMarket",
+        "url": "https://kiranamarket.com/kissan-fresh-tomato-ketchup-90g/?srsltid=AfmBOopDKI0myQsttQINBxvvHaStcpLZz622SdPSXrNJutyr5h9MmJFB",
+        "displayedUrl": "https://kiranamarket.com › ...",
+        "description": "Kissan Fresh Tomato Ketchup 90G ; SKU: 8901030897542 ; Fast Local Delivery. Direct to your home in Rajamahendravaram ; Trusted Retailer. Serving quality groceries ...",
+        "emphasizedKeywords": [
+          "Kissan Fresh Tomato Ketchup 90G"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "Kissan Fresh Tomato Ketchup 90Gm",
+        "websiteTitle": "Budget Bazaar",
+        "url": "https://budgetbazaar.online/product/kissan-fresh-tomato-115gm/",
+        "displayedUrl": "https://budgetbazaar.online › ...",
+        "description": "Kissan Fresh Tomato Ketchup 90Gm ; Brand · Kissan ; Code · 8901030897542 ; SKU: BBP2387 ; Tag · Kissan ...",
+        "emphasizedKeywords": [
+          "Kissan Fresh Tomato Ketchup 90Gm"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "Kissan Fresh Tomato ketchup 90Gm",
+        "websiteTitle": "Nainji Supermarket",
+        "url": "https://nainji.in/product/kissan-fresh-tomato-ketchup-90gm/",
+        "displayedUrl": "https://nainji.in › ...",
+        "description": "Kissan Fresh Tomato ketchup 90Gm. Brand. KISSAN. Department. Food Products. SKU: 8901030897542. Awaiting product image. ₹15.00. 3 in stock.",
+        "emphasizedKeywords": [
+          "Kissan Fresh Tomato ketchup 90Gm"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "kissan fresh tomato – 90g",
+        "websiteTitle": "Open Food Facts",
+        "url": "https://in-hi.openfoodfacts.org/product/8901030897542/kissan-fresh-tomato",
+        "displayedUrl": "https://in-hi.openfoodfacts.org › 8901030897542 › kiss...",
+        "description": "27 मई 2023 — 8901030897542(EAN / EAN-13). मात्रा: 90g. ब्रांड: Kissan. श्रेणियाँ: पौधे आधारित खाद्य पदार्थ और ...",
+        "emphasizedKeywords": [
+          "8901030897542"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "Kissan Fresh Tomato Ketchup 100g - TMD Basket",
+        "websiteTitle": "tmdbasket.com",
+        "url": "https://www.tmdbasket.com/index.php?route=product/product&product_id=1641",
+        "displayedUrl": "https://www.tmdbasket.com › ...",
+        "description": "Kissan Fresh Tomato Ketchup 100g · Stock: In Stock · Brand: Hindustan Unilever Ltd · Model: 8901030897542 · Weight: 100.00g · UPC: 8901030897542.",
+        "emphasizedKeywords": [
+          "Kissan Fresh Tomato Ketchup 100g"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "Kissan Fresh Tomato Ketchup 90g",
+        "websiteTitle": "Mustakshif halal scanner",
+        "url": "https://www.mustakshif.com/product/detail/8901030897542/kissan-fresh-tomato-ketchup-90g",
+        "displayedUrl": "https://www.mustakshif.com › ...",
+        "description": "... 8901030897542 so is the status of Kissan Fresh Tomato Ketchup 90g (Halal, Haram, Mushbooh, and Permissible), may change over time. We spare no effort to ...",
+        "emphasizedKeywords": [
+          "8901030897542"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "Kissan 1 Fresh Tomato Ketchup Doy Pack, 1Kg",
+        "websiteTitle": "Amazon.com",
+        "url": "https://www.amazon.com/Kissan-Fresh-Tomato-Ketchup-Pack/dp/B00W7IPNRI",
+        "displayedUrl": "https://www.amazon.com › ...",
+        "description": "This item is non-returnable due to potential safety risk as an ingestible product, but if the item arrives damaged or defective, you may request a refund or ...",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [
+      {
+        "answer": null,
+        "question": "Is ketchup 100% tomato?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "Is E415 used in ketchup?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "How much does a 1.2 kg bottle of Kissan ketchup cost?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "Which company currently owns Kissan ketchup?",
+        "title": null,
+        "url": null,
+        "date": null
+      }
+    ],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/aiaZbsYRnhhURDm-0.html?signature=1xPeN4YpW8H4NB6ShPLQd"
+  },
+  {
+    "#debug": {
+      "requestId": "I4KqQfhFnPszSXk",
+      "url": "http://www.google.co.in/search?q=8904043901015",
+      "loadedUrl": "http://www.google.co.in/search?q=8904043901015",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8904043901015",
+      "url": "http://www.google.co.in/search?q=8904043901015",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8904043901015",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "TATA 1KG SALT - Barcode: 8904043901015",
+        "websiteTitle": "barcode-list.com",
+        "url": "https://barcode-list.com/barcode/EN/barcode-8904043901015/Search.htm",
+        "displayedUrl": "https://barcode-list.com › ...",
+        "description": "Barcode:8904043901015 - This code meet the following products: TATA 1KG SALT; TATA SALT 1KG; TATA SALT 1KG; TATA SALT 1KG.",
+        "emphasizedKeywords": [
+          "TATA 1KG SALT"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "Tata Salt Iodised Namak",
+        "websiteTitle": "Amazon.in",
+        "url": "https://www.amazon.in/Flowing-Iodised-Namak-Vacuum-Evaporated/dp/B07575FPC3",
+        "displayedUrl": "https://www.amazon.in › ...",
+        "description": "8904043901015 FBA. Packer Contact Information, Tata Chemicals Limited, P. 0. Mithapur-361 345, District-Devbhumi Dwarka, Gujarat, Lic. No. 10012021000351. Part ...",
+        "emphasizedKeywords": [
+          "8904043901015 FBA"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "averageRating": 4.5,
+        "numberOfReviews": null,
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "8904043901015 - TATA SALT 1KG",
+        "websiteTitle": "vissco.net",
+        "url": "https://indiamart.vissco.net/product/tata-salt-1kg",
+        "displayedUrl": "https://indiamart.vissco.net › ...",
+        "description": "TATA SALT 1KG (8904043901015) Products. TATA SALT 1KG. This value is required or not valid. Add to Cart. Name, TATA SALT 1KG. Code, 8904043901015.",
+        "emphasizedKeywords": [
+          "TATA SALT 1KG"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "EAN 8904043901015 - Tata Salt 1 Kg, Free Flowing and ...",
+        "websiteTitle": "UPCitemdb",
+        "url": "https://www.upcitemdb.com/upc/8904043901015",
+        "displayedUrl": "https://www.upcitemdb.com › ...",
+        "description": "EAN 8904043901015 is associated with product Tata Salt 1 Kg, Free Flowing and Iodised Namak, find 8904043901015 barcode image, product images, ...",
+        "emphasizedKeywords": [
+          "EAN 8904043901015"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "Tata Salt Vacuum Evaporated Iodised Salt 1 kg Pouch",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/241600/tata-salt-iodized-1-kg-pouch/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "With vacuum evaporation technology, Tata namak offers a hygienic alternative to your regular table salt. It contains the requisite amount of iodine, which is an ...",
+        "emphasizedKeywords": [
+          "Tata namak offers a hygienic alternative to your regular table salt"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "Tata Salt (1kg) TATA",
+        "websiteTitle": "Nisarga Fresh",
+        "url": "https://nisargafresh.nl/product/tata-salt-1kg-tata/?srsltid=AfmBOoqvoiZxUfpMnC7NYve6Jl11kzkGI84qgqsXJ-3Nkp7HpYdQ92WM",
+        "displayedUrl": "https://nisargafresh.nl › ...",
+        "description": "SKU: 8904043901015 Category: Sugar, Salt & Jaggery Brand: Tata. Share: Description; Additional information; Reviews (0). Description. Tata Salt from TATA.",
+        "emphasizedKeywords": [
+          "Tata Salt from TATA"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "Tata Salt, 1kg",
+        "websiteTitle": "Amazon.in",
+        "url": "https://www.amazon.in/Tata-Salt-1kg/dp/B07BDNXBPV",
+        "displayedUrl": "https://www.amazon.in › ...",
+        "description": "Vacuum evaporated iodised salt; Lodine helps in mental development of children and prevents iodine deficiency disorders in adults; Tata salt has ventured ...",
+        "emphasizedKeywords": [
+          "Vacuum evaporated iodised salt"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "averageRating": 3.2,
+        "numberOfReviews": 8,
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "Tata Salt Evaporated Iodised 1kg",
+        "websiteTitle": "Top In Town Hypermarket",
+        "url": "https://www.topintownstore.com/product/tata-salt-evaporated-iodised-1kg/",
+        "displayedUrl": "https://www.topintownstore.com › ...",
+        "description": "Tata Salt Evaporated Iodised 1kg. ₹30. 15 min delivery. Quality assured. Free delivery*. Brand: Tata Salt. Category: Spices & Flavours. SKU: 8904043901015 ...",
+        "emphasizedKeywords": [
+          "Tata Salt Evaporated Iodised 1kg"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "Tata Salt Vacuum Evaporated Iodised Edible Common Salt, 1 ...",
+        "websiteTitle": "axstag.com",
+        "url": "https://www.axstag.com/products/tata-salt-vacuum-evaporated-iodised-edible-common-salt-1-kg-pouch/2943181000000107348",
+        "displayedUrl": "https://www.axstag.com › ...",
+        "description": "Item model number, ‎8904043901015 FBA ; Net Quantity, ‎1000.0 Grams ; Product Dimensions, ‎5.4 x 14.2 x 19.5 cm; 1 kg ; Ingredients, ‎Edible Common Salt, Potassium ...",
+        "emphasizedKeywords": [
+          "8904043901015"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [
+      {
+        "answer": null,
+        "question": "नमक की कीमत क्या है?",
+        "title": null,
+        "url": null,
+        "date": null
+      }
+    ],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/I4KqQfhFnPszSXk-0.html?signature=1HzTE6fxcJ9JbBUw22Ow6"
+  },
+  {
+    "#debug": {
+      "requestId": "rdla8wdv8uOAgH6",
+      "url": "http://www.google.co.in/search?q=8902080104581",
+      "loadedUrl": "http://www.google.co.in/search?q=8902080104581",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8902080104581",
+      "url": "http://www.google.co.in/search?q=8902080104581",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8902080104581",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "8902080104581 - PEPSI 250ML (B) Rate: 20.00 MRP",
+        "websiteTitle": "SAI SUPER MARKET",
+        "url": "https://saisupermarket.in/product-detail.php?mid=8902080104581&cat=4.4&srsltid=AfmBOoo26SFeAN9GapdpeMgN5HiURuW1-0XYGSJrKHr94SU32gLpqcSs",
+        "displayedUrl": "https://saisupermarket.in › ...",
+        "description": "PEPSI 250ML (B). Rate : 20.00 MRP : 20.00. EAN / SKU : 8902080104581. PID: 3642. Quantity: Description; Specification; Reviews (1). PEPSI 250ML ( ...",
+        "emphasizedKeywords": [
+          "PEPSI 250ML (B"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "Pepsi Drink 400ml",
+        "websiteTitle": "Top In Town Hypermarket",
+        "url": "https://www.topintownstore.com/product/pepsi-drink-400ml/",
+        "displayedUrl": "https://www.topintownstore.com › ...",
+        "description": "Pepsi Drink 400ml. ₹20. 15 min delivery. Quality assured. Free delivery*. Brand: Pepsi. Category: Drinks. SKU: 8902080104581 ...",
+        "emphasizedKeywords": [
+          "Pepsi Drink 400ml"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "EAN 8902080104581 - Pepsi",
+        "websiteTitle": "Buycott",
+        "url": "https://www.buycott.com/upc/8902080104581",
+        "displayedUrl": "https://www.buycott.com › ...",
+        "description": "EAN 8902080104581: Pepsi by PEPSICO INDIA HOLDINGS LIMITED.. Find barcode info, product details, where to buy, and manufacturer information.",
+        "emphasizedKeywords": [
+          "Pepsi by PEPSICO INDIA HOLDINGS LIMITED"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "Pepsi Soft Drink 400 ml - BigBasket",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/40216379/pepsi-soft-drink-250-ml-bottle/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "Bursting with a signature sweet taste and refreshing fizz, Pepsi elevates the snacking experience, offering a delightful journey of flavour in every sip.",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "Pepsi Cola – 400ml",
+        "websiteTitle": "Open Food Facts",
+        "url": "https://in-hi.openfoodfacts.org/product/8902080104581/pepsi-pepsi-cola",
+        "displayedUrl": "https://in-hi.openfoodfacts.org › pepsi-pepsi-cola",
+        "description": "20 फ़र॰ 2024 — 8902080104581(EAN / EAN-13). मात्रा: 400ml. ब्रांड: Pepsi Cola. श्रेणियाँ: en:Beverages and beverages preparations, en ...",
+        "emphasizedKeywords": [
+          "8902080104581"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "8 902080 104581 Lookup Results : Pepsi 400ML",
+        "websiteTitle": "Digit-Eyes",
+        "url": "http://www.digit-eyes.com/upcCode/8902080104581.html?l=en",
+        "displayedUrl": "http://www.digit-eyes.com › ...",
+        "description": "Pepsi 400ML 8902080104581. Pepsi 400ML 400 ML Brand- Pepsi Item Form- Liquid Flavour- Cola Package Information- Bottle Age Range- Adult Item Volume- 400Ml.",
+        "emphasizedKeywords": [
+          "Pepsi 400ML"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "https://giantfood.com/product/215332",
+        "websiteTitle": "Giant Food",
+        "url": "https://giantfood.com/product/215332",
+        "displayedUrl": "https://giantfood.com › ...",
+        "description": "इस पेज के लिए कोई जानकारी उपलब्ध नहीं है.",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "https://giantfoodstores.com/product/175320",
+        "websiteTitle": "GIANT",
+        "url": "https://giantfoodstores.com/product/175320",
+        "displayedUrl": "https://giantfoodstores.com › ...",
+        "description": "इस पेज के लिए कोई जानकारी उपलब्ध नहीं है.",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "Pepsi 20 oz Bottle: Stay Hydrated with Crisp, Smooth Flavor",
+        "websiteTitle": "Beverage for You",
+        "url": "https://beverageforyou.com/product/pepsi-20-oz-bottle/?srsltid=AfmBOoqPn-iggNb9lMjLBTUsWq3IGOYVtKSLTX8wVsrsCMHK5GV0JWEA",
+        "displayedUrl": "https://beverageforyou.com › ...",
+        "description": "Experience the bold cola flavor of Pepsi in a convenient 20 oz bottle. Refresh yourself on-the-go with this classic cola drink. Buy now!",
+        "emphasizedKeywords": [
+          "Pepsi in a convenient 20 oz bottle"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [
+      {
+        "answer": null,
+        "question": "How much alcohol is in Pepsi?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "Is Pepsi halal or haram?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "How much is 1 litre Pepsi?",
+        "title": null,
+        "url": null,
+        "date": null
+      }
+    ],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/rdla8wdv8uOAgH6-0.html?signature=hDdL2bwn1mjvpw4iIuMq"
+  },
+  {
+    "#debug": {
+      "requestId": "xoVdU12LFxzHtbQ",
+      "url": "http://www.google.co.in/search?q=8901764032707",
+      "loadedUrl": "http://www.google.co.in/search?q=8901764032707",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901764032707",
+      "url": "http://www.google.co.in/search?q=8901764032707",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901764032707",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/xoVdU12LFxzHtbQ-0.html?signature=11vK3lVTSKa4iOdbSgcnf"
+  },
+  {
+    "#debug": {
+      "requestId": "mwizh3vhPADOPUY",
+      "url": "http://www.google.co.in/search?q=8901491100519",
+      "loadedUrl": "http://www.google.co.in/search?q=8901491100519",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901491100519",
+      "url": "http://www.google.co.in/search?q=8901491100519",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901491100519",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "KURKURE 95G MASALA MUNCH NAMKEEN - Barcode",
+        "websiteTitle": "barcode-list.com",
+        "url": "https://barcode-list.com/barcode/EN/barcode-8901491100519/Search.htm",
+        "displayedUrl": "https://barcode-list.com › ...",
+        "description": "Barcode:8901491100519 - This code meet the following products: KURKURE 95G MASALA MUNCH NAMKEEN; KURKURE MASALA MUNCH 100GRM; KURKURE MASALA MUNCH 100G; ...",
+        "emphasizedKeywords": [
+          "8901491100519"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "8901491100519 - Kurkure Masala Munch (snack Aus Reis",
+        "websiteTitle": "Digit-Eyes",
+        "url": "http://www.digit-eyes.com/upcCode/8901491100519.html?l=de",
+        "displayedUrl": "http://www.digit-eyes.com › ...",
+        "description": "8901491100519 ; Kurkure Masala Munch (snack Aus Reis- Und Maismehl, Masalageschmack) 115G ; Kurkure Masala Munch (snack Aus Reis- Und Maismehl, Masalageschmack) ...",
+        "emphasizedKeywords": [
+          "8901491100519"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "Kurkure Masala Munch 90g Corn Rice And Dal Snack",
+        "websiteTitle": "Zing Asia Oriental Foods",
+        "url": "https://www.zing-asia.co.uk/asian-food-snacks/23459-kurkure-masala-munch-90g-corn-rice-and-dal-snack-8901491100519.html",
+        "displayedUrl": "https://www.zing-asia.co.uk › ...",
+        "description": "Kurkure Masala Munch 90g Corn Rice And Dal Snack ; Brand Kurkure ; Reference 23459 ; EAN13 8901491100519.",
+        "emphasizedKeywords": [
+          "Kurkure Masala Munch 90g Corn Rice And Dal Snack"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "Kurkure Masala Munch Namkeen 75 g",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/102761/kurkure-namkeen-masala-munch-85-g/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "The Masala Munch is a classic Kurkure flavour, offering a perfect blend of spice and crunch. This delicious snack delivers a tantalizing taste experience, ...",
+        "emphasizedKeywords": [
+          "The Masala Munch is a classic Kurkure flavour"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "Kurkure Masala Munch (8901491100519) - CHOMP",
+        "websiteTitle": "chompthis.com",
+        "url": "https://chompthis.com/product/?b=8901491100519",
+        "displayedUrl": "https://chompthis.com › ...",
+        "description": "... ! Kurkure Masala Munch reviews, nutrition label, product images, allergens, trace ingredients, and more. Made by Kurkure. Barcode 8901491100519.",
+        "emphasizedKeywords": [
+          "Kurkure Masala Munch"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "KURKURE MASALA MUNCH 64 PKTS X 90 GM",
+        "websiteTitle": "Maharaja Farmers Market",
+        "url": "https://maharajafarmersmarketusa.com/product/kurkure-masala-munch-kurkure-masala-munch-64-pkts-x-90-gm/",
+        "displayedUrl": "https://maharajafarmersmarketusa.com › ...",
+        "description": "Home Delivery: +1 (708) 406-9922 ; Size · 95 GM .. ; SKU: 8901491100519 ...",
+        "emphasizedKeywords": [
+          "SKU: 8901491100519"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "https://appyshop.co.uk/store-212/food-cupboard/cri...",
+        "websiteTitle": "Appy Shop",
+        "url": "https://appyshop.co.uk/store-212/food-cupboard/crisps-nuts-snacks/kurkure-masala-munch-100g-8901491100519",
+        "displayedUrl": "https://appyshop.co.uk › ...",
+        "description": "",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "KURKURE Masala Munch (Pack of 6) UPC 8901491100519",
+        "websiteTitle": "UPCindex.com",
+        "url": "https://www.upcindex.com/8901491100519",
+        "displayedUrl": "https://www.upcindex.com › KURKURE",
+        "description": "The Masala Munch is a classic Kurkure flavour with a great combination of spice and crunch. About the brand:Kurkure is a crunchy new-age Pack namkeen snack ...",
+        "emphasizedKeywords": [
+          "classic Kurkure flavour with a great combination of spice and crunch"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "Frito Lay India Kurkure Masala Munch 5 Oz | EAN Lookup",
+        "websiteTitle": "Buycott",
+        "url": "https://www.buycott.com/upc/8901491100519",
+        "displayedUrl": "https://www.buycott.com › ...",
+        "description": "Frito Lay India Kurkure Masala Munch 5 Oz ; Brand, FRITO LAY INDIA ; Company, FRITO LAY INDIA ; EAN, 8901491100519 ; Country, India ...",
+        "emphasizedKeywords": [
+          "Frito Lay India Kurkure Masala Munch 5 Oz"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/mwizh3vhPADOPUY-0.html?signature=1AxBPq4FZlltH9Wgr0rQ9"
+  },
+  {
+    "#debug": {
+      "requestId": "fPx03wUEIOnTnAn",
+      "url": "http://www.google.co.in/search?q=8901719135118",
+      "loadedUrl": "http://www.google.co.in/search?q=8901719135118",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901719135118",
+      "url": "http://www.google.co.in/search?q=8901719135118",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901719135118",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "Parle Monaco Classic Regular Salted Biscuits 52.2 g Pouch",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/302119/parle-monaco-biscuits-salted-snack-667-g-pouch/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "Parle Monaco Biscuits are a classic choice for snack lovers, known for their light, crispy texture, and subtle salted flavour. These biscuits are perfect ...",
+        "emphasizedKeywords": [
+          "Parle Monaco Biscuits are a classic choice for snack lovers"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "PARLE MONACO CLASSIC REGULAR BISC 46.4GM ...",
+        "websiteTitle": "SAI SUPER MARKET",
+        "url": "https://saisupermarket.in/product-detail.php?mid=8901719135118&cat=3.1&srsltid=AfmBOorAKB5IoAqp4Huqq0x70SlT8eM5RjnSNR6Mn2b2ZQB2X0sCutnh",
+        "displayedUrl": "https://saisupermarket.in › ...",
+        "description": "PARLE MONACO CLASSIC REGULAR BISC 46.4GM. Rate : 9.80 MRP : 10.00. EAN / SKU : 8901719135118. PID: 3892. Buy more then 2 Discount 5%. Quantity: Description ...",
+        "emphasizedKeywords": [
+          "PARLE MONACO CLASSIC REGULAR BISC 46.4GM"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "Parle Monaco Crispy Light Snacks - Savory Biscuits",
+        "websiteTitle": "Aapkabazar.co",
+        "url": "https://aapkabazar.co/8892/pd/parle-monaco-crispy-light-salty-snack-classic-biscuits-464-gm?srsltid=AfmBOoqYWgi9kxxvPDy4MAJYrrfAQ_DeH5YvNdIiN8_50F1FbW4mkXa6",
+        "displayedUrl": "https://aapkabazar.co › ...",
+        "description": "These light and crispy biscuits are made with high-quality ingredients, offering a perfect balance of saltiness and crunch. Ideal for snacking on-the-go or ...",
+        "emphasizedKeywords": [
+          "made with high-quality ingredients"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "Parle Monaco 46.4g",
+        "websiteTitle": "Top In Town Hypermarket",
+        "url": "https://www.topintownstore.com/product/parle-monaco-46-4g/",
+        "displayedUrl": "https://www.topintownstore.com › ...",
+        "description": "Parle Monaco 46.4g. ₹10. 15 min delivery. Quality assured. Free delivery*. Brand: Parle. Category: Biscuits. SKU: 8901719135118 ...",
+        "emphasizedKeywords": [
+          "Parle Monaco 46.4g"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "PARLE Monaco Salted Biscuit Price in India",
+        "websiteTitle": "Flipkart",
+        "url": "http://www.flipkart.com/parle-monaco-salted-biscuit/p/itm8f2356f1524bd?pid=CKBET6WUGDDY2NHZ&lid=LSTCKBET6WUGDDY2NHZO8TAQM&marketplace=GROCERY&cmpid=content_cookie-biscuit_8965229628_gmc",
+        "displayedUrl": "http://www.flipkart.com › ...",
+        "description": "8901719135118. Net Quantity. 52.2 g. Freshly Baked. No. Additives. NA. FSSAI Number. NA. Usage Instructions. NA. Weight. 37.7 g. Flipkart endeavours to ensure ...",
+        "emphasizedKeywords": [
+          "8901719135118"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "MONACO – Parle",
+        "websiteTitle": "Open Food Facts",
+        "url": "https://in-hi.openfoodfacts.org/product/8901719135118/monaco-parle",
+        "displayedUrl": "https://in-hi.openfoodfacts.org › 8901719135118 › mo...",
+        "description": "24 अप्रैल 2025 — ×. बारकोड: 8901719135118(EAN / EAN-13). ब्रांड: Parle. श्रेणियाँ: en:Snacks, en:Salty snacks, en:Sweet snacks, en ...",
+        "emphasizedKeywords": [
+          "8901719135118"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "Parle Monaco Classic Salted Biscuits 46.4 g",
+        "websiteTitle": "swingbasket.com",
+        "url": "https://www.swingbasket.com/biscuit-cookies/parle-monaco-classic-salted-biscuits-46-4-g",
+        "displayedUrl": "https://www.swingbasket.com › ...",
+        "description": "Parle Monaco Classic Salted Biscuits 46.4 g. HSN Code: 19059020. Product Code: 8901719135118 Brand: Parle. ₹9.80. MRP ₹ 10.00 2% OFF. Inclusive of all Taxes.",
+        "emphasizedKeywords": [
+          "Product Code: 8901719135118"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "monaco",
+        "websiteTitle": "MagniKart",
+        "url": "https://www.magnikart.com/product/monaco/?srsltid=AfmBOoqIWhBFX04W5E0-AiFKycKMpEbR5GJthufQP92qHgWnjB_1BwXx",
+        "displayedUrl": "https://www.magnikart.com › ...",
+        "description": "monaco. SKU: 8901719135118. ₹10.00. In Stock. In Stock. monaco quantity. Add to cart. Add to Wishlist. Add to Wishlist. Compare. Add to Wishlist.",
+        "emphasizedKeywords": [
+          "monaco"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "Monaco (Parle) - Forkin Score 56/100",
+        "websiteTitle": "forkin.io",
+        "url": "https://forkin.io/products/8901719135118",
+        "displayedUrl": "https://forkin.io › ...",
+        "description": "8901719135118 · food. Monaco. Parle. Forkin Score. 56/100. Forkin Score. 56/100. Broader than nutrition-only: the score starts with nutrition, then applies ...",
+        "emphasizedKeywords": [
+          "8901719135118"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [
+      {
+        "answer": null,
+        "question": "How much do Monaco biscuits cost?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "Is the Monaco biscuit Indian?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "Can I eat Monaco biscuits during weight loss?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": "जब आप मोनाको बिस्कुट का एक पैकेट उठाते हैं, तो आप सिर्फ एक साधारण नमकीन बिस्कुट नहीं उठा रहे होते हैं - आप इतिहास का एक टुकड़ा उठा रहे होते हैं जिसकी शुरुआत लगभग एक सदी पहले पार्ले के अंतर्गत एक मामूली भारतीय मिठाई की दुकान से हुई थी।",
+        "question": "Is the Monaco biscuit Indian?",
+        "title": "मोनाको बिस्कुट की विरासत: 1942 से आज तक ब्रांड से सीखे गए सबक",
+        "url": "https://translate.google.com/translate?u=https://www.rkdewan.com/articles/the-legacy-of-monaco-biscuits/&hl=hi&sl=en&tl=hi&client=rq",
+        "date": null
+      },
+      {
+        "answer": "TRUTH: While Monaco has less sugar (0.4g vs 8-10g per serving), it's still refined carbs with high sodium. High sodium intake is linked to hypertension. Neither is \"healthy\" — choose based on your specific health concerns. TRUTH: At 492 calories per 100g, Monaco has similar calorie density to other biscuits.",
+        "question": "Is parle monaco biscuit healthy?",
+        "title": null,
+        "url": null,
+        "date": null
+      }
+    ],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/fPx03wUEIOnTnAn-0.html?signature=92ZGrkaQZFGgIOnDbveN"
+  },
+  {
+    "#debug": {
+      "requestId": "wrYOw6dQWNyTM3V",
+      "url": "http://www.google.co.in/search?q=8901063023901",
+      "loadedUrl": "http://www.google.co.in/search?q=8901063023901",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901063023901",
+      "url": "http://www.google.co.in/search?q=8901063023901",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901063023901",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "Britannia Marie Gold Biscuits 250 g",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/220244/britannia-marie-gold-biscuits-250-g/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "Britannia Marie Gold Biscuits, 250 g · 250 g. Rs 37. MRP: Rs 40. 10 mins. 8% OFF · 950 g. Rs 105. MRP: Rs 140. 10 mins. 25% OFF · 36.6 g. Rs 5. 10 mins · 64 g. Rs 9.",
+        "emphasizedKeywords": [
+          "Britannia Marie Gold Biscuits, 250 g"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "Britannia Marie Gold Biscuits",
+        "websiteTitle": "Amazon.in",
+        "url": "https://www.amazon.in/Britannia-Marie-Gold-250g/dp/B00S9BSEB4",
+        "displayedUrl": "https://www.amazon.in › ...",
+        "description": "Enriched with 7 vitamins and 3 minerals having zero trans-fat, Britannia Marie Gold is the perfect tea time companion that enables one to remain active ...",
+        "emphasizedKeywords": [
+          "Britannia Marie Gold"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "Britannia Marie Gold Biscuits 250 Gm - Delightful Snack",
+        "websiteTitle": "Aapkabazar.co",
+        "url": "https://aapkabazar.co/6831/pd/britannia-marie-gold-biscuits-250-gm?srsltid=AfmBOorR86D-EDcQtWjBRGfco2v0BZ-XH0XSaU6Xo6p5hjgNeSiyZaWg",
+        "displayedUrl": "https://aapkabazar.co › ...",
+        "description": "Enjoy the delightful taste of Britannia Marie Gold Biscuits. Perfect for snacking or with tea, these 250 gm packs are a must-have treat.",
+        "emphasizedKeywords": [
+          "Britannia Marie Gold Biscuits"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "BRITANNIA Gold Marie Biscuit Price in India",
+        "websiteTitle": "Flipkart",
+        "url": "http://www.flipkart.com/britannia-gold-marie-biscuit/p/itm353dd93c372d2?pid=CKBET6WU3CEGCYV2&lid=LSTCKBET6WU3CEGCYV2V9BOUM&marketplace=GROCERY&cmpid=content_cookie-biscuit_8965229628_gmc",
+        "displayedUrl": "http://www.flipkart.com › ...",
+        "description": "Maximum Shelf Life. 181 Days ; nutrient Content. NA ; EAN. 8901063162372, 8901063162723, 8901063371033, 8901063162488, 8901063371217, 8901063023901, 8901063023949.",
+        "emphasizedKeywords": [
+          "8901063023901"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "Britannia Marie Gold Biscuits, 250 g",
+        "websiteTitle": "Fetch N Buy",
+        "url": "https://fetchnbuy.in/products/britannia-marie-gold-biscuits-250-g",
+        "displayedUrl": "https://fetchnbuy.in › ...",
+        "description": "Britannia Marie Gold Biscuits, 250 g ; Sku: BMGB-250G ; Barcode: 8901063023901 ; Product type:.",
+        "emphasizedKeywords": [
+          "Britannia Marie Gold Biscuits, 250 g"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "Britannia Marie Gold 250 g | India Depot Grocery, Food & ...",
+        "websiteTitle": "Spice SPC Seattle",
+        "url": "https://indiadepot.com/Product/marie-gold-250-g-britannia/",
+        "displayedUrl": "https://indiadepot.com › ...",
+        "description": "Britannia Marie Gold 250 g. SKU: 8901063023901. $2.69. In stock. Britannia Marie Gold 250 g quantity. Add to cart. SKU: 8901063023901 Category: Biscuits ...",
+        "emphasizedKeywords": [
+          "Britannia Marie Gold 250 g"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "Britannia Marie Gold Biscuits 250 g",
+        "websiteTitle": "Starquik",
+        "url": "https://www.starquik.com/products/britannia-marie-gold-biscuits-250-gm-sc-sm02?srsltid=AfmBOooUEQNlc92mOHZSjy45TS0tNztC06h0EetY--_0u6WFp_qJ70PE",
+        "displayedUrl": "https://www.starquik.com › ...",
+        "description": "Marie Gold is full of vitamins and calcium, is low in fat content and are cholesterol free biscuits. Refined Wheat Flour (72%), Sugar, Edible Vegetable Oil ( ...",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "Britannia Marie Gold, 250g",
+        "websiteTitle": "Amazon.in",
+        "url": "https://www.amazon.in/Britannia-Marie-Gold-250g/dp/B01GCDZQCK",
+        "displayedUrl": "https://www.amazon.in › ...",
+        "description": "8901063023901 - For Pantry. Best Sellers Rank. #273,521 in Grocery & Gourmet Foods (See Top 100 in Grocery & Gourmet Foods). #124 in Marie. ASIN, B01GCDZQCK.",
+        "emphasizedKeywords": [
+          "8901063023901"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "There's no other way to eat this biscuit Order the Marie Gold ...",
+        "websiteTitle": "Instagram · britannia.industries",
+        "url": "https://www.instagram.com/reel/DH--9QgzsGY/",
+        "displayedUrl": "Instagram › britannia.industries",
+        "description": "Photo by Britannia Industries on August 13, 2026. May be a graphic of ‎.",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "likes": "210+ लाइक",
+        "lastUpdated": "1 वर्ष पहले",
+        "channelName": "reel",
+        "reelLength": "0:49",
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [
+      {
+        "answer": null,
+        "question": "What is the expiry date for Marie Gold biscuits?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "Can I eat Marie Gold biscuits?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "Is Britannia Marie Gold sugar free?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": "अधिकतम 1-2 बिस्कुट ही खाएं , हमेशा प्रोटीन/वसा जैसे मेवे या पनीर के साथ खाएं। परिष्कृत आटा और चीनी इंसुलिन प्रतिरोध को बढ़ाते हैं। कभी-कभार ही (1-2 बिस्कुट) खाएं, नियमित नाश्ते के लिए साबुत अनाज वाले विकल्प चुनें। मॉर्निंग सिकनेस में सहायक, आयरन (4.5 मिलीग्राम) और बी विटामिन से भरपूर।",
+        "question": "Can I eat Marie Gold biscuits?",
+        "title": "ब्रिटानिया मैरी गोल्ड : कैलोरी, पोषण और स्वास्थ्य लाभ",
+        "url": "https://translate.google.com/translate?u=https://nutriscan.app/calories-nutrition/britannia-marie-gold&hl=hi&sl=en&tl=hi&client=rq",
+        "date": null
+      },
+      {
+        "answer": "मशहूर और सबकी चहेती ब्रिटानिया मैरी गोल्ड बिस्कुट हर घर में जाना-पहचाना नाम है। कुरकुरे, हल्के, स्वादिष्ट और पौष्टिक ये बिस्कुट चाय के साथ बहुत अच्छे लगते हैं और दिनभर की भागदौड़ के बाद खुशी देने वाले साथी साबित होते हैं।",
+        "question": "Which is the original Marie biscuit in India?",
+        "title": "ब्रिटानिया के सबसे भरोसेमंद मैरी गोल्ड बिस्कुट सर्वोत्तम कीमतों पर खरीदें",
+        "url": "https://translate.google.com/translate?u=https://www.britannia.co.in/product/marie&hl=hi&sl=en&tl=hi&client=rq",
+        "date": null
+      }
+    ],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/wrYOw6dQWNyTM3V-0.html?signature=1AdQAHmwGeK37sHxBqF1k"
+  },
+  {
+    "#debug": {
+      "requestId": "P53MzWCpa022K08",
+      "url": "http://www.google.co.in/search?q=8901719135248",
+      "loadedUrl": "http://www.google.co.in/search?q=8901719135248",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901719135248",
+      "url": "http://www.google.co.in/search?q=8901719135248",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901719135248",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "Parle Krack Jack Biscuits 44.1 Gm - Crunchy Snack Delight",
+        "websiteTitle": "Aapkabazar.co",
+        "url": "https://aapkabazar.co/822/pd/parle-krack-jack-biscuits-441-gm?srsltid=AfmBOooHa0ygQhKTsa0aXRyLCCmZc3h6LBD8mKhIWaPqyuQrFdbJ3y3K",
+        "displayedUrl": "https://aapkabazar.co › ...",
+        "description": "Parle Krack Jack Biscuits (44.1 gm) are crispy, savory crackers with a perfect blend of wheat and spices. These light, crunchy biscuits are ideal for ...",
+        "emphasizedKeywords": [
+          "Parle Krack Jack Biscuits (44.1 gm"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "Parle Krack Jack Biscuits 63gm Price: ₹9 🛒 SHOP NOW 👇 ...",
+        "websiteTitle": "Instagram · nehanx2018",
+        "url": "https://www.instagram.com/p/DY1HXmuGPlA/",
+        "displayedUrl": "Instagram › nehanx2018",
+        "description": "Parle Krack Jack Biscuits 63gm. Price: ₹9 SHOP NOW https://nehanx.com/store/parle-krack-jack-biscuits-63gm/parle/8901719135248 #NehaNX # ...",
+        "emphasizedKeywords": [
+          "Parle Krack Jack Biscuits 63gm"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "likes": "एक व्यक्ति ने पसंद किया",
+        "lastUpdated": "2 माह पहले",
+        "channelName": "p",
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "Parle Krack Jack The Original Sweet & Salty Cracker ...",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/302093/parle-krack-jack-75-g-pouch/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "Parle Krack Jack The Original Sweet & Salty Cracker Biscuit, 63 g Pouch · 63 g. Rs 10. Pouch · 705.6 g. Rs 107.33. MRP: Rs 120. 11% OFF · 28.35 g. Rs 4.45 · 176.4 g.",
+        "emphasizedKeywords": [
+          "Parle Krack Jack The Original Sweet & Salty Cracker Biscuit"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "Parle – Krack Jack – 10Rs",
+        "websiteTitle": "Pallapatti Online",
+        "url": "https://pallapattionline.com/product/parle-krack-jack-10rs/",
+        "displayedUrl": "https://pallapattionline.com › ...",
+        "description": "... 8901719135248. Category: Biscuits. Description; Reviews (0). Description. S021: Reviews. There are no reviews yet. Be the first to review “Parle – Krack Jack ...",
+        "emphasizedKeywords": [
+          "8901719135248"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "Krackjack – Parle – 56.7g",
+        "websiteTitle": "Open Food Facts",
+        "url": "https://world.openfoodfacts.org/product/8901719135248/krackjack-parle",
+        "displayedUrl": "https://world.openfoodfacts.org › ...",
+        "description": "9 जून 2025 — 8901719135248(EAN / EAN-13). Quantity: 56.7g. Brands: Parle. Categories: Snacks, Sweet snacks, Biscuits and cakes, Biscuits and crackers ...",
+        "emphasizedKeywords": [
+          "8901719135248"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "Parle Krack Jack Biscuits 56.7g – S S Supermart",
+        "websiteTitle": "sssupermart.com",
+        "url": "https://www.sssupermart.com/product/parle-krack-jack-biscuits-56-7g/",
+        "displayedUrl": "https://www.sssupermart.com › ...",
+        "description": "Parle Krack Jack is a deliciously crunchy and crispy biscuit with the perfect balance of sweetness and saltiness. Its unique sweet and salty flavour makes ...",
+        "emphasizedKeywords": [
+          "Parle Krack Jack is a deliciously crunchy and crispy biscuit"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "Parle Krack Jack Biscuit 63g (PAck Of 12) - UNIQUE",
+        "websiteTitle": "Amazon.com",
+        "url": "https://www.amazon.com/Parle-Krack-Jack-Biscuit-PAck/dp/B0CRH7MT2H",
+        "displayedUrl": "https://www.amazon.com › ...",
+        "description": "The sweet and sour krack jack biscuits are a bundle of energy; The milk powder gives you calcium and proteins; it also gives a respite from instant carvings ...",
+        "emphasizedKeywords": [
+          "sweet and sour krack jack biscuits are a bundle of energy"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "PARLE Krack Jack Crackers Sweet & Salty Biscuit (63 g)",
+        "websiteTitle": "Flipkart",
+        "url": "https://www.flipkart.com/parle-krack-jack-sweet-salty-crackers/p/itmezhbba6hkgpw3",
+        "displayedUrl": "https://www.flipkart.com › ...",
+        "description": "nutrient Content. NA. EAN. 8901719135248. Net Quantity. 63 g. Freshly Baked. No. Additives. NA. FSSAI Number. NA. Usage Instructions. NA. Dimensions. Weight.",
+        "emphasizedKeywords": [
+          "8901719135248"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "- Rate: MRP:",
+        "websiteTitle": "SAI SUPER MARKET",
+        "url": "https://www.saisupermarket.in/product-detail.php?mid=8901719135248&cat=3.1&srsltid=AfmBOoryv4Ux0y87WG0YaECnZGq1ZPUkIzZifEELg3aRVsByv5nOl8Aq",
+        "displayedUrl": "https://www.saisupermarket.in › ...",
+        "description": "\"SAI SUPER MARKET\" - Anything that you would require on an everyday basis, this supermart has it right there with them. All the products at their store are very ...",
+        "emphasizedKeywords": [
+          "SAI SUPER MARKET"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [
+      {
+        "answer": null,
+        "question": "What is the expiry date of Parle-G biscuit?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "Is krackjack good for health?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "How much do Krack Jack biscuits cost?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "Who is the owner of Krackjack biscuits?",
+        "title": null,
+        "url": null,
+        "date": null
+      }
+    ],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/P53MzWCpa022K08-0.html?signature=1yCFto4t2uKTo9swdIdq9"
+  },
+  {
+    "#debug": {
+      "requestId": "aXdIX6idURwP8Rv",
+      "url": "http://www.google.co.in/search?q=8901058005233",
+      "loadedUrl": "http://www.google.co.in/search?q=8901058005233",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901058005233",
+      "url": "http://www.google.co.in/search?q=8901058005233",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901058005233",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "Nestle Kitkat Choco Coated Wafer Bar 12.1 g",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/20005896/nestle-kitkat-crispy-wafer-bar-2-pcs-pouch/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "Nestlé KitKat Choco Coated Wafer Bar is a delicious treat featuring crispy wafer layers coated with a smooth, rich chocolate coating. EAN Code: 8901058005233 ...",
+        "emphasizedKeywords": [
+          "Nestlé KitKat Choco Coated Wafer Bar"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "8901058005233 - NESTLE KITKAT 11.9GM Rate: 9.80 MRP",
+        "websiteTitle": "SAI SUPER MARKET",
+        "url": "https://saisupermarket.in/product-detail.php?mid=8901058005233&cat=3.d&srsltid=AfmBOoqPIcIUuYy-qoEoQYXRTTm2P3-zj0AgzfSdgPxNvZOcReEkCAlh",
+        "displayedUrl": "https://saisupermarket.in › ...",
+        "description": "NESTLE KITKAT 11.9GM Rate : 9.80 MRP. SKU : 8901058005233. DOUBLE CHOCO DRIZZLE WAFFLE CHIPS 85G WM DOUBLE CHOCO DRIZZLE WAFFLE CHIPS 85G Rate. Price Off Rs. 7 ...",
+        "emphasizedKeywords": [
+          "NESTLE KITKAT 11.9GM Rate : 9.80 MRP"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "Delicious Taste with Nestle KitKat Chocolate - Paimart",
+        "websiteTitle": "Paimart",
+        "url": "https://paimart.painest.com/product/Nestle-Kitkat-Chocolate---238g-2Pcs-Bundle-4Wcah?srsltid=AfmBOopStbqQGgOc4ios1zXWZGO71_U0bbGRjcvAWUE4q0425y_-X__P",
+        "displayedUrl": "https://paimart.painest.com › ...",
+        "description": "Nestle Kitkat Chocolate - 23.8g (2Pcs Bundle). Product code: 8901058005233. Regular: ৳ 65.00. Member: ৳ 45.00. LOGIN TO ORDER. Brand: Kitkat. Purchase this ...",
+        "emphasizedKeywords": [
+          "8901058005233"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "Kitkat mini chocolate coated wafer – 11.9g",
+        "websiteTitle": "Open Food Facts",
+        "url": "https://in-hi.openfoodfacts.org/product/8901058005233/kitkat-mini-chocolate-coated-wafer",
+        "displayedUrl": "https://in-hi.openfoodfacts.org › 8901058005233 › kit...",
+        "description": "1 अग॰ 2024 — 8901058005233(EAN / EAN-13). मात्रा: 11.9g. ब्रांड: KitKat, Nestle nutrition. श्रेणियाँ: en:Snacks, en:Sweet snacks, en ...",
+        "emphasizedKeywords": [
+          "8901058005233"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "Nestle KitKat - TMD Basket",
+        "websiteTitle": "tmdbasket.com",
+        "url": "https://www.tmdbasket.com/index.php?route=product/product&product_id=1506",
+        "displayedUrl": "https://www.tmdbasket.com › ...",
+        "description": "Nestle KitKat · Stock: In Stock · Brand: Nestle India Limited · Model: 8901058005233 · Weight: 11.90g · UPC: 8901058005233.",
+        "emphasizedKeywords": [
+          "Nestle KitKat"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "Nestle Kitkat (Loose Item) Per Piece 12.1",
+        "websiteTitle": "Nainji Supermarket",
+        "url": "https://nainji.in/product/nestle-kit-kat-11-9gm/",
+        "displayedUrl": "https://nainji.in › ...",
+        "description": "Brand KIT KAT Department Food Products SKU: 8901058005233 Nestle Kitkat (Loose Item) Per Piece 12.1 ₹10.00 34 in stock",
+        "emphasizedKeywords": [
+          "Nestle Kitkat (Loose Item) Per Piece 12.1"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "Nestle KitKat @10 - Shivay Daily Essentials - TMDSuite",
+        "websiteTitle": "TMDSuite",
+        "url": "https://sdemart.tmdsuite.com/nestle-kitkat-10-1438",
+        "displayedUrl": "https://sdemart.tmdsuite.com › ...",
+        "description": "Nestle KitKat @10. Product Code: 8901058005233. ₹10.00. Qty Add to Cart. Qty. - +. Customer Reviews. No reviews yet. Be the first to write a review!",
+        "emphasizedKeywords": [
+          "Nestle KitKat @10"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "Nestle Kitkat Chocolate Family Pack Review Ibibna",
+        "websiteTitle": "YouTube · Ibibna Review",
+        "url": "https://www.youtube.com/watch?v=gYDdgD2sHgQ",
+        "displayedUrl": "YouTube › Ibibna Review",
+        "description": "Welcome to Ibibna Nestle KitKat Chocolate Family Pack Review Ibibna #Ibibna #nestle #chocolate Thank you for Watching and Keep Supporting.",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "views": "1.3 लाख+ व्यू",
+        "lastUpdated": "6 वर्ष पहले",
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "NESTLE KITKAT 11.9G",
+        "websiteTitle": "Souq Al Buhair",
+        "url": "https://souqalbuhair.com/product/nestle-kit-kat-11-9g/?srsltid=AfmBOorP9I54WFezzqO_ezczAmTKyWusIPqirg-phw-Vnjv3A4_Tw0_J",
+        "displayedUrl": "https://souqalbuhair.com › ...",
+        "description": "NESTLE KITKAT 11.9G ; Brand: Nestle ; Only 568 ; Estimated Delivery: Friday, Aug 21 – Tuesday, Aug 25 ; SKU: 8901058005233 ; Tag: Nestle ...",
+        "emphasizedKeywords": [
+          "NESTLE KITKAT 11.9G"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [
+      {
+        "answer": null,
+        "question": "Is there 5 rupees KitKat?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "Is there 10 rupees KitKat?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "Is there 20 rupees KitKat?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "Is there 10 rupees KitKat?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "Is there 20 rupees KitKat?",
+        "title": null,
+        "url": null,
+        "date": null
+      }
+    ],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/aXdIX6idURwP8Rv-0.html?signature=lZDzT9eYGiNlRZeDbFg6"
+  },
+  {
+    "#debug": {
+      "requestId": "r5Uwm7hwyjZcre7",
+      "url": "http://www.google.co.in/search?q=8901262200196",
+      "loadedUrl": "http://www.google.co.in/search?q=8901262200196",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901262200196",
+      "url": "http://www.google.co.in/search?q=8901262200196",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901262200196",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "Amul Butter Milk 200ml - Barcode: 8901262200196",
+        "websiteTitle": "barcode-list.com",
+        "url": "https://barcode-list.com/barcode/EN/barcode-8901262200196/Search.htm",
+        "displayedUrl": "https://barcode-list.com › ...",
+        "description": "Barcode:8901262200196 - This code meet the following products: Amul Butter Milk 200ml; AMUL MASTI.",
+        "emphasizedKeywords": [
+          "Amul Butter Milk 200ml"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "Amul Masti Spiced Buttermilk , 200ml",
+        "websiteTitle": "KiranaMarket",
+        "url": "https://kiranamarket.com/amul-masti-spiced-buttermilk-200ml/?srsltid=AfmBOopl9gJdovuZ80h3lvUpI0ooZ1KKkxMdSHVQTHRxlLBjYKAFxXGh",
+        "displayedUrl": "https://kiranamarket.com › ...",
+        "description": "Amul Masti Spiced Buttermilk , 200ml ; SKU: 8901262200196 ; Fast Local Delivery. Direct to your home in Rajamahendravaram ; Trusted Retailer. Serving quality ...",
+        "emphasizedKeywords": [
+          "Amul Masti Spiced Buttermilk , 200ml"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "Amul Spiced Buttermilk 200 ml Tetra Pak",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/161899/amul-masti-buttermilk-spice-200-ml-carton/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "Other Product Info. EAN Code: 8901262200196. Manufactured & Marketed by: Kaira District Co-operative Milk Producers' Union Limited, Anand 388 001. At Food ...",
+        "emphasizedKeywords": [
+          "8901262200196"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "AMUL MASTI SPICED BUTTER MILK 200ML Rate",
+        "websiteTitle": "SAI SUPER MARKET",
+        "url": "https://saisupermarket.in/product-detail.php?mid=8901262200196&cat=2.d&srsltid=AfmBOopzVyk8o-hGYtFSC6QD8dTJ0m_fdjPlZuE6_Xeert7j-wSrkYIK",
+        "displayedUrl": "https://saisupermarket.in › ...",
+        "description": "AMUL MASTI SPICED BUTTER MILK 200ML. Rate : 15.00 MRP : 15.00. EAN / SKU : 8901262200196. PID: 3805. Quantity: Description; Specification; Reviews (1). AMUL ...",
+        "emphasizedKeywords": [
+          "AMUL MASTI SPICED BUTTER MILK 200ML"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "Amul 200Ml Butter Milk 8901262200196 price in different countries",
+        "websiteTitle": "NedosTavka",
+        "url": "https://prices.nedostavka.net/en/product/8901262200196",
+        "displayedUrl": "https://prices.nedostavka.net › ...",
+        "description": "Amul 200Ml Butter Milk ; Barcode. 8901262200196 ; Currency · Average price. 1.24 USD. Best price. 0.58 USD Kenya. Kenya. Worst price. 2.6 USD Oman. Oman. We track ...",
+        "emphasizedKeywords": [
+          "Amul 200Ml Butter Milk"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "Masti Spiced Buttermilk (Amul) — 8901262200196 · Forkin Score 64 ...",
+        "websiteTitle": "forkin.io",
+        "url": "https://forkin.io/products/8901262200196",
+        "displayedUrl": "https://forkin.io › ...",
+        "description": "Barcode 8901262200196 · food. Masti Spiced Buttermilk. Amul. 200 mL. Forkin Score. 64/100. Forkin Score. 64/100. Broader than nutrition-only: the score starts ...",
+        "emphasizedKeywords": [
+          "Masti Spiced Buttermilk"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "8901262200196 UPC Amul Masti Spiced Buttermilk - 200 ML",
+        "websiteTitle": "Digit-Eyes",
+        "url": "http://www.digit-eyes.com/upcCode/8901262200196.html?l=en",
+        "displayedUrl": "http://www.digit-eyes.com › ...",
+        "description": "UPC 8901262200196: Amul Masti Spiced Buttermilk - 200 ML. Digit-Eyes UPC database API / barcode scanner app: information, images and product links for UPC 8 ...",
+        "emphasizedKeywords": [
+          "Amul Masti Spiced Buttermilk - 200 ML"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "Amul Masti Spiced Buttermilk 200ml",
+        "websiteTitle": "Open Food Facts",
+        "url": "https://world.openfoodfacts.org/product/8901262200196/amul-masti-spiced-buttermilk-200ml",
+        "displayedUrl": "https://world.openfoodfacts.org › ...",
+        "description": "21 अप्रैल 2017 — Amul Masti Spiced Buttermilk 200ml – 200mL. Barcode: 8901262200196(EAN / EAN-13). Quantity: 200mL. Packaging: plastic-bottle. Brands: Amul.",
+        "emphasizedKeywords": [
+          "Amul Masti Spiced Buttermilk 200ml"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "BUTTER MILK 200ML - Arshiya Enterprise",
+        "websiteTitle": "arshiyaent.com",
+        "url": "https://arshiyaent.com/product/butter-milk-200ml/",
+        "displayedUrl": "https://arshiyaent.com › ...",
+        "description": "EAN: 8901262200196 SKU: MD-BM-200ML Category: DRINKS. Related products. Placeholder Out of stock Read more. DRINKS. COFFEE (3.6G). ₹10.00 Read more.",
+        "emphasizedKeywords": [
+          "EAN: 8901262200196"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/r5Uwm7hwyjZcre7-0.html?signature=1xs4Wg6kIGem9rLrjAHVD"
+  },
+  {
+    "#debug": {
+      "requestId": "VlXbb35te9h6q8D",
+      "url": "http://www.google.co.in/search?q=8901262010016",
+      "loadedUrl": "http://www.google.co.in/search?q=8901262010016",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901262010016",
+      "url": "http://www.google.co.in/search?q=8901262010016",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901262010016",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "amul pasteurised butter salted 100g - Barcode",
+        "websiteTitle": "barcode-list.com",
+        "url": "https://barcode-list.com/barcode/EN/barcode-8901262010016/Search.htm",
+        "displayedUrl": "https://barcode-list.com › ...",
+        "description": "Barcode:8901262010016 - This code meet the following products: amul pasteurised butter salted 100g; AMUL SALTED BUTTER 100GM.",
+        "emphasizedKeywords": [
+          "amul pasteurised butter salted 100g"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "8901262010016 - AMUL BUTTER 100GM Rate: 63.00 MRP",
+        "websiteTitle": "SAI SUPER MARKET",
+        "url": "https://saisupermarket.in/product-detail.php?mid=8901262010016&cat=2.1&srsltid=AfmBOoq19SFxrDhMHAatVNPxeD7ycV38oOmxUevtFeoIQP6QTOyCVvgR",
+        "displayedUrl": "https://saisupermarket.in › ...",
+        "description": "Rate : 63.00 MRP : 63.00. EAN / SKU : 8901262010016. PID: 3791. Quantity: Description; Specification; Reviews (1). AMUL BUTTER 100GM. Info-Google-Search ...",
+        "emphasizedKeywords": [
+          "AMUL BUTTER 100GM"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "Amul Pasteurised Butter 100 g Carton",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/104860/amul-butter-pasteurised-100-g-carton/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "EAN Code: 8901262010016. Manufactured & Marketed by: Kaira District Co-operative Milk Producers' Union Limited, Anand 388 001. At Food Complex Mogar, Mogar ...",
+        "emphasizedKeywords": [
+          "8901262010016"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "Amul Pasteurised Butter 100 Gm",
+        "websiteTitle": "Aapkabazar.co",
+        "url": "https://aapkabazar.co/6884/pd/amul-pasteurised-butter-100-gm?srsltid=AfmBOop_hYGNVIyhP7W407O26idh7LMF_GyVLxpWnbjZxWROT5FQnIJc",
+        "displayedUrl": "https://aapkabazar.co › ...",
+        "description": "Amul Pasteurised Butter 100 gm is a rich, creamy, and pure dairy product made from fresh pasteurised cream. It offers a delightful taste and smooth texture, ...",
+        "emphasizedKeywords": [
+          "Amul Pasteurised Butter 100 gm"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "Amul Butter (8901262010016) - Is it Vegan, Vegetarian, or ...",
+        "websiteTitle": "chompthis.com",
+        "url": "https://chompthis.com/product/?b=8901262010016",
+        "displayedUrl": "https://chompthis.com › ...",
+        "description": "Butter - Ingredient contains butter. Most likely derived from dairy but may be plant based. Milk - Not vegan if derived from an animal. Check the ingredients.",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "JioMart: India's online shopping",
+        "websiteTitle": "JioMart",
+        "url": "https://www.jiomart.com/p/groceries/amul-pasteurised-butter-100-g/490001387",
+        "displayedUrl": "https://www.jiomart.com › ...",
+        "description": "JioMart: India's online shopping.",
+        "emphasizedKeywords": [
+          "JioMart"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "8901262010016 UPC Amul Pasteurized Butter",
+        "websiteTitle": "Digit-Eyes",
+        "url": "http://www.digit-eyes.com/upcCode/8901262010016.html?l=fr",
+        "displayedUrl": "http://www.digit-eyes.com › ...",
+        "description": "UPC 8901262010016: Amul Pasteurized Butter. Digit-Eyes UPC database API / barcode scanner app: information, images and product links for UPC 8 901262 ...",
+        "emphasizedKeywords": [
+          "Amul Pasteurized Butter"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "AMUL FRESH CREAM 1 LT. - EAN 8901262010016",
+        "websiteTitle": "Barcode Spider",
+        "url": "https://www.barcodespider.com/8901262010016",
+        "displayedUrl": "https://www.barcodespider.com › ...",
+        "description": "Image of AMUL FRESH CREAM 1 LT. EAN-13, 8901262010016. Brand, AMUL. Amazon ASIN, B07JX9KJ88. Region, India (IN). Additional Attributes. Weight: 1 Kilograms.",
+        "emphasizedKeywords": [
+          "AMUL FRESH CREAM 1 LT"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "Amul Pasteurised Butter, 100 g Carton is Halal",
+        "websiteTitle": "Mustakshif halal scanner",
+        "url": "https://www.mustakshif.com/product/detail/8901262010016/amul-pasteurised-butter-100-g-carton",
+        "displayedUrl": "https://www.mustakshif.com › ...",
+        "description": "Pasteurized Amul butter is a delicious bread spread, an essential ingredient of baking and a known enhancer for many food items. This smooth creamy chunk ...",
+        "emphasizedKeywords": [
+          "Pasteurized Amul butter"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/VlXbb35te9h6q8D-0.html?signature=1Pk7MP5VbHccPig6Tr3Zf"
+  },
+  {
+    "#debug": {
+      "requestId": "kCuh3R8TX7wSazA",
+      "url": "http://www.google.co.in/search?q=8901719129988",
+      "loadedUrl": "http://www.google.co.in/search?q=8901719129988",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901719129988",
+      "url": "http://www.google.co.in/search?q=8901719129988",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901719129988",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "Happy happy - Parl – Parle – 31.5 g",
+        "websiteTitle": "Open Food Facts",
+        "url": "https://world.openfoodfacts.org/product/8901719129988/happy-happy-parl-parle",
+        "displayedUrl": "https://world.openfoodfacts.org › ...",
+        "description": "17 नव॰ 2023 — 8901719129988(EAN / EAN-13). Common name: Choco-Chip Cookies. Quantity: 31.5 g. Brands: Parle. Categories: Snacks, Sweet snacks, Biscuits and ...",
+        "emphasizedKeywords": [
+          "8901719129988"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "Parle Happy Happy Biscuits 31.5g is Halal",
+        "websiteTitle": "Mustakshif halal scanner",
+        "url": "https://www.mustakshif.com/product/detail/8901719129988/parle-happy-happy-biscuits-315g",
+        "displayedUrl": "https://www.mustakshif.com › ...",
+        "description": "Parle Happy Happy Biscuits 31.5g is Halal. It is from India by Parle categorised as Biscuit and Crackers, Savoury & Sweet Treats.",
+        "emphasizedKeywords": [
+          "Parle Happy Happy Biscuits 31.5g is Halal"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "averageRating": 4.3,
+        "numberOfReviews": 89,
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "Parle Happy Happy 31.5Gm",
+        "websiteTitle": "Nainji Supermarket",
+        "url": "https://nainji.in/product/parle-happy-happy-31-5gm/",
+        "displayedUrl": "https://nainji.in › ...",
+        "description": "Parle Happy Happy 31.5Gm. Brand. PARLE. Department. Food Products. SKU: 8901719129988. Parle Happy Happy 31.5Gm. ₹5.00. 22 in stock. Parle Happy ...",
+        "emphasizedKeywords": [
+          "Parle Happy Happy 31.5Gm"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "Supplemart | Authentic Supplements | 💥Best Healthy Snacks ...",
+        "websiteTitle": "Instagram · supplemart.india",
+        "url": "https://www.instagram.com/reel/CrjBIV7NKyg/",
+        "displayedUrl": "Instagram › supplemart.india",
+        "description": "369 likes, 5 comments - supplemart.india on April 27, 2023: \"  Best Healthy Snacks   Grab Now At Discounted Price Free Shipping Pan India ...",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "likes": "360+ लाइक",
+        "lastUpdated": "3 वर्ष पहले",
+        "channelName": "reel",
+        "reelLength": "0:32",
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "Boutique | FARMASI",
+        "websiteTitle": "Home | FARMASI",
+        "url": "https://www.farmasi-ma.ma/shop/page/5?order=name+asc",
+        "displayedUrl": "https://www.farmasi-ma.ma › ...",
+        "description": "FARMASI KERATIN THERAPY REPAIRING HAIR SPRAY 115 ML 1108181 · FARMASI MAKE UP BB CREAM - 01 LIGHT 50 ML · FARMASI MAKE UP BB CREAM - 02 LIGHT TO MEDIUM 50 ML.",
+        "emphasizedKeywords": [
+          "FARMASI KERATIN THERAPY REPAIRING HAIR SPRAY 115 ML"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "https://inwi.ma/en/purchase/product/1155",
+        "websiteTitle": "Inwi",
+        "url": "https://inwi.ma/en/purchase/product/1155",
+        "displayedUrl": "https://inwi.ma › ...",
+        "description": "",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "https://primini.ma/c/l/2397/Materiel-De-Coiffure?b...",
+        "websiteTitle": "primini.ma",
+        "url": "https://primini.ma/c/l/2397/Materiel-De-Coiffure?brand_id=138",
+        "displayedUrl": "https://primini.ma › ...",
+        "description": "इस पेज के लिए कोई जानकारी उपलब्ध नहीं है.",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "https://www.jumia.ma/beaute-hygiene-sante/all-prod...",
+        "websiteTitle": "Jumia Maroc",
+        "url": "https://www.jumia.ma/beaute-hygiene-sante/all-products/?tag=CP_UN194&srsltid=AfmBOorSWmNf7Kv4numvv5cd2EQnDG7KPSWZ8gp5Af9Y7tog9hlo-t6l",
+        "displayedUrl": "https://www.jumia.ma › ...",
+        "description": "इस पेज के लिए कोई जानकारी उपलब्ध नहीं है.",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "404 Introuvable",
+        "websiteTitle": "marjanemall",
+        "url": "https://www.marjanemall.ma/vase-kalis-blanc-3x14-cm-aaabu58226?srsltid=AfmBOoqlONQwHZCA1WYy7fP8JeckTOd7hBp9jA9Rx4P_a-JnquH0u_XC",
+        "displayedUrl": "https://www.marjanemall.ma › ...",
+        "description": "Oups! la catégorie que vous recherchez semble introuvable! Reformulez votre recherche ou allez sur: Page d'accueil · Aide & contact. Suivez nous ...",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/kCuh3R8TX7wSazA-0.html?signature=NJSDrh8F3wwzqhukxB1S"
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "#debug": {
+      "requestId": "VlXbb35te9h6q8D",
+      "url": "http://www.google.co.in/search?q=8901262010016",
+      "loadedUrl": "http://www.google.co.in/search?q=8901262010016",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901262010016",
+      "url": "http://www.google.co.in/search?q=8901262010016",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901262010016",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "amul pasteurised butter salted 100g - Barcode",
+        "websiteTitle": "barcode-list.com",
+        "url": "https://barcode-list.com/barcode/EN/barcode-8901262010016/Search.htm",
+        "displayedUrl": "https://barcode-list.com › ...",
+        "description": "Barcode:8901262010016 - This code meet the following products: amul pasteurised butter salted 100g; AMUL SALTED BUTTER 100GM.",
+        "emphasizedKeywords": [
+          "amul pasteurised butter salted 100g"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "8901262010016 - AMUL BUTTER 100GM Rate: 63.00 MRP",
+        "websiteTitle": "SAI SUPER MARKET",
+        "url": "https://saisupermarket.in/product-detail.php?mid=8901262010016&cat=2.1&srsltid=AfmBOoq19SFxrDhMHAatVNPxeD7ycV38oOmxUevtFeoIQP6QTOyCVvgR",
+        "displayedUrl": "https://saisupermarket.in › ...",
+        "description": "Rate : 63.00 MRP : 63.00. EAN / SKU : 8901262010016. PID: 3791. Quantity: Description; Specification; Reviews (1). AMUL BUTTER 100GM. Info-Google-Search ...",
+        "emphasizedKeywords": [
+          "AMUL BUTTER 100GM"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "Amul Pasteurised Butter 100 g Carton",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/104860/amul-butter-pasteurised-100-g-carton/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "EAN Code: 8901262010016. Manufactured & Marketed by: Kaira District Co-operative Milk Producers' Union Limited, Anand 388 001. At Food Complex Mogar, Mogar ...",
+        "emphasizedKeywords": [
+          "8901262010016"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "Amul Pasteurised Butter 100 Gm",
+        "websiteTitle": "Aapkabazar.co",
+        "url": "https://aapkabazar.co/6884/pd/amul-pasteurised-butter-100-gm?srsltid=AfmBOop_hYGNVIyhP7W407O26idh7LMF_GyVLxpWnbjZxWROT5FQnIJc",
+        "displayedUrl": "https://aapkabazar.co › ...",
+        "description": "Amul Pasteurised Butter 100 gm is a rich, creamy, and pure dairy product made from fresh pasteurised cream. It offers a delightful taste and smooth texture, ...",
+        "emphasizedKeywords": [
+          "Amul Pasteurised Butter 100 gm"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "Amul Butter (8901262010016) - Is it Vegan, Vegetarian, or ...",
+        "websiteTitle": "chompthis.com",
+        "url": "https://chompthis.com/product/?b=8901262010016",
+        "displayedUrl": "https://chompthis.com › ...",
+        "description": "Butter - Ingredient contains butter. Most likely derived from dairy but may be plant based. Milk - Not vegan if derived from an animal. Check the ingredients.",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "JioMart: India's online shopping",
+        "websiteTitle": "JioMart",
+        "url": "https://www.jiomart.com/p/groceries/amul-pasteurised-butter-100-g/490001387",
+        "displayedUrl": "https://www.jiomart.com › ...",
+        "description": "JioMart: India's online shopping.",
+        "emphasizedKeywords": [
+          "JioMart"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "8901262010016 UPC Amul Pasteurized Butter",
+        "websiteTitle": "Digit-Eyes",
+        "url": "http://www.digit-eyes.com/upcCode/8901262010016.html?l=fr",
+        "displayedUrl": "http://www.digit-eyes.com › ...",
+        "description": "UPC 8901262010016: Amul Pasteurized Butter. Digit-Eyes UPC database API / barcode scanner app: information, images and product links for UPC 8 901262 ...",
+        "emphasizedKeywords": [
+          "Amul Pasteurized Butter"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "AMUL FRESH CREAM 1 LT. - EAN 8901262010016",
+        "websiteTitle": "Barcode Spider",
+        "url": "https://www.barcodespider.com/8901262010016",
+        "displayedUrl": "https://www.barcodespider.com › ...",
+        "description": "Image of AMUL FRESH CREAM 1 LT. EAN-13, 8901262010016. Brand, AMUL. Amazon ASIN, B07JX9KJ88. Region, India (IN). Additional Attributes. Weight: 1 Kilograms.",
+        "emphasizedKeywords": [
+          "AMUL FRESH CREAM 1 LT"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "Amul Pasteurised Butter, 100 g Carton is Halal",
+        "websiteTitle": "Mustakshif halal scanner",
+        "url": "https://www.mustakshif.com/product/detail/8901262010016/amul-pasteurised-butter-100-g-carton",
+        "displayedUrl": "https://www.mustakshif.com › ...",
+        "description": "Pasteurized Amul butter is a delicious bread spread, an essential ingredient of baking and a known enhancer for many food items. This smooth creamy chunk ...",
+        "emphasizedKeywords": [
+          "Pasteurized Amul butter"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/VlXbb35te9h6q8D-0.html?signature=1Pk7MP5VbHccPig6Tr3Zf"
+  }
+]

@@ -1,0 +1,181 @@
+[
+  {
+    "#debug": {
+      "requestId": "rdla8wdv8uOAgH6",
+      "url": "http://www.google.co.in/search?q=8902080104581",
+      "loadedUrl": "http://www.google.co.in/search?q=8902080104581",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8902080104581",
+      "url": "http://www.google.co.in/search?q=8902080104581",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8902080104581",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "8902080104581 - PEPSI 250ML (B) Rate: 20.00 MRP",
+        "websiteTitle": "SAI SUPER MARKET",
+        "url": "https://saisupermarket.in/product-detail.php?mid=8902080104581&cat=4.4&srsltid=AfmBOoo26SFeAN9GapdpeMgN5HiURuW1-0XYGSJrKHr94SU32gLpqcSs",
+        "displayedUrl": "https://saisupermarket.in › ...",
+        "description": "PEPSI 250ML (B). Rate : 20.00 MRP : 20.00. EAN / SKU : 8902080104581. PID: 3642. Quantity: Description; Specification; Reviews (1). PEPSI 250ML ( ...",
+        "emphasizedKeywords": [
+          "PEPSI 250ML (B"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "Pepsi Drink 400ml",
+        "websiteTitle": "Top In Town Hypermarket",
+        "url": "https://www.topintownstore.com/product/pepsi-drink-400ml/",
+        "displayedUrl": "https://www.topintownstore.com › ...",
+        "description": "Pepsi Drink 400ml. ₹20. 15 min delivery. Quality assured. Free delivery*. Brand: Pepsi. Category: Drinks. SKU: 8902080104581 ...",
+        "emphasizedKeywords": [
+          "Pepsi Drink 400ml"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "EAN 8902080104581 - Pepsi",
+        "websiteTitle": "Buycott",
+        "url": "https://www.buycott.com/upc/8902080104581",
+        "displayedUrl": "https://www.buycott.com › ...",
+        "description": "EAN 8902080104581: Pepsi by PEPSICO INDIA HOLDINGS LIMITED.. Find barcode info, product details, where to buy, and manufacturer information.",
+        "emphasizedKeywords": [
+          "Pepsi by PEPSICO INDIA HOLDINGS LIMITED"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "Pepsi Soft Drink 400 ml - BigBasket",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/40216379/pepsi-soft-drink-250-ml-bottle/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "Bursting with a signature sweet taste and refreshing fizz, Pepsi elevates the snacking experience, offering a delightful journey of flavour in every sip.",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "Pepsi Cola – 400ml",
+        "websiteTitle": "Open Food Facts",
+        "url": "https://in-hi.openfoodfacts.org/product/8902080104581/pepsi-pepsi-cola",
+        "displayedUrl": "https://in-hi.openfoodfacts.org › pepsi-pepsi-cola",
+        "description": "20 फ़र॰ 2024 — 8902080104581(EAN / EAN-13). मात्रा: 400ml. ब्रांड: Pepsi Cola. श्रेणियाँ: en:Beverages and beverages preparations, en ...",
+        "emphasizedKeywords": [
+          "8902080104581"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "8 902080 104581 Lookup Results : Pepsi 400ML",
+        "websiteTitle": "Digit-Eyes",
+        "url": "http://www.digit-eyes.com/upcCode/8902080104581.html?l=en",
+        "displayedUrl": "http://www.digit-eyes.com › ...",
+        "description": "Pepsi 400ML 8902080104581. Pepsi 400ML 400 ML Brand- Pepsi Item Form- Liquid Flavour- Cola Package Information- Bottle Age Range- Adult Item Volume- 400Ml.",
+        "emphasizedKeywords": [
+          "Pepsi 400ML"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "https://giantfood.com/product/215332",
+        "websiteTitle": "Giant Food",
+        "url": "https://giantfood.com/product/215332",
+        "displayedUrl": "https://giantfood.com › ...",
+        "description": "इस पेज के लिए कोई जानकारी उपलब्ध नहीं है.",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "https://giantfoodstores.com/product/175320",
+        "websiteTitle": "GIANT",
+        "url": "https://giantfoodstores.com/product/175320",
+        "displayedUrl": "https://giantfoodstores.com › ...",
+        "description": "इस पेज के लिए कोई जानकारी उपलब्ध नहीं है.",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "Pepsi 20 oz Bottle: Stay Hydrated with Crisp, Smooth Flavor",
+        "websiteTitle": "Beverage for You",
+        "url": "https://beverageforyou.com/product/pepsi-20-oz-bottle/?srsltid=AfmBOoqPn-iggNb9lMjLBTUsWq3IGOYVtKSLTX8wVsrsCMHK5GV0JWEA",
+        "displayedUrl": "https://beverageforyou.com › ...",
+        "description": "Experience the bold cola flavor of Pepsi in a convenient 20 oz bottle. Refresh yourself on-the-go with this classic cola drink. Buy now!",
+        "emphasizedKeywords": [
+          "Pepsi in a convenient 20 oz bottle"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [
+      {
+        "answer": null,
+        "question": "How much alcohol is in Pepsi?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "Is Pepsi halal or haram?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "How much is 1 litre Pepsi?",
+        "title": null,
+        "url": null,
+        "date": null
+      }
+    ],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/rdla8wdv8uOAgH6-0.html?signature=hDdL2bwn1mjvpw4iIuMq"
+  }
+]

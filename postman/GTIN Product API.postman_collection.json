@@ -1,0 +1,73 @@
+{
+  "info": {
+    "name": "GTIN Product API",
+    "description": "Local FastAPI lookup. Default reads samples/. Live Google Search only with force_refresh=true (spends Apify credits). Auth: Bearer API_KEY (default dev-local-key).",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    { "key": "baseUrl", "value": "http://127.0.0.1:8000" },
+    { "key": "apiKey", "value": "dev-local-key" },
+    { "key": "gtin", "value": "8901719123870" }
+  ],
+  "auth": {
+    "type": "bearer",
+    "bearer": [{ "key": "token", "value": "{{apiKey}}", "type": "string" }]
+  },
+  "item": [
+    {
+      "name": "Health",
+      "request": {
+        "auth": { "type": "noauth" },
+        "method": "GET",
+        "url": "{{baseUrl}}/health"
+      }
+    },
+    {
+      "name": "Get product by GTIN",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/products/{{gtin}}"
+      }
+    },
+    {
+      "name": "Get product — missing token",
+      "request": {
+        "auth": { "type": "noauth" },
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/products/{{gtin}}"
+      }
+    },
+    {
+      "name": "Get product — invalid GTIN",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/products/123"
+      }
+    },
+    {
+      "name": "Get product — unknown GTIN",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/v1/products/8900000000005"
+      }
+    },
+    {
+      "name": "Live Google search (spends Apify credits)",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "{{baseUrl}}/v1/products/{{gtin}}?force_refresh=true",
+          "host": ["{{baseUrl}}"],
+          "path": ["v1", "products", "{{gtin}}"],
+          "query": [
+            {
+              "key": "force_refresh",
+              "value": "true",
+              "description": "Runs apify/google-search-scraper (desktop, India, 1 page, GTIN only). Do not spam this."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

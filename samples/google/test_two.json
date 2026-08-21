@@ -1,0 +1,74 @@
+[
+  {
+    "#debug": {
+      "requestId": "J6bFHNn310xJo30",
+      "url": "http://www.google.co.in/search?q=8901058890127+site%3Abigbasket.com",
+      "loadedUrl": "http://www.google.co.in/search?q=8901058890127+site%3Abigbasket.com",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901058890127 site:bigbasket.com",
+      "url": "http://www.google.co.in/search?q=8901058890127+site%3Abigbasket.com",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901058890127+site%3Abigbasket.com",
+    "hasNextPage": false,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/2zkWDkmz9PJtFv2Hg/records/J6bFHNn310xJo30-0.html?signature=1H14aFmkoiV896LbzH997"
+  },
+  {
+    "#debug": {
+      "requestId": "sjFD4wfWzX1IiHc",
+      "url": "http://www.google.co.in/search?q=8901058890127+site%3Aflipkart.com",
+      "loadedUrl": "http://www.google.co.in/search?q=8901058890127+site%3Aflipkart.com",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901058890127 site:flipkart.com",
+      "url": "http://www.google.co.in/search?q=8901058890127+site%3Aflipkart.com",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901058890127+site%3Aflipkart.com",
+    "hasNextPage": false,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/2zkWDkmz9PJtFv2Hg/records/sjFD4wfWzX1IiHc-0.html?signature=1hORNhLILoNrQutSHWbYb"
+  }
+]

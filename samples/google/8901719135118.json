@@ -1,0 +1,201 @@
+[
+  {
+    "#debug": {
+      "requestId": "fPx03wUEIOnTnAn",
+      "url": "http://www.google.co.in/search?q=8901719135118",
+      "loadedUrl": "http://www.google.co.in/search?q=8901719135118",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901719135118",
+      "url": "http://www.google.co.in/search?q=8901719135118",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901719135118",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "Parle Monaco Classic Regular Salted Biscuits 52.2 g Pouch",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/302119/parle-monaco-biscuits-salted-snack-667-g-pouch/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "Parle Monaco Biscuits are a classic choice for snack lovers, known for their light, crispy texture, and subtle salted flavour. These biscuits are perfect ...",
+        "emphasizedKeywords": [
+          "Parle Monaco Biscuits are a classic choice for snack lovers"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "PARLE MONACO CLASSIC REGULAR BISC 46.4GM ...",
+        "websiteTitle": "SAI SUPER MARKET",
+        "url": "https://saisupermarket.in/product-detail.php?mid=8901719135118&cat=3.1&srsltid=AfmBOorAKB5IoAqp4Huqq0x70SlT8eM5RjnSNR6Mn2b2ZQB2X0sCutnh",
+        "displayedUrl": "https://saisupermarket.in › ...",
+        "description": "PARLE MONACO CLASSIC REGULAR BISC 46.4GM. Rate : 9.80 MRP : 10.00. EAN / SKU : 8901719135118. PID: 3892. Buy more then 2 Discount 5%. Quantity: Description ...",
+        "emphasizedKeywords": [
+          "PARLE MONACO CLASSIC REGULAR BISC 46.4GM"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "Parle Monaco Crispy Light Snacks - Savory Biscuits",
+        "websiteTitle": "Aapkabazar.co",
+        "url": "https://aapkabazar.co/8892/pd/parle-monaco-crispy-light-salty-snack-classic-biscuits-464-gm?srsltid=AfmBOoqYWgi9kxxvPDy4MAJYrrfAQ_DeH5YvNdIiN8_50F1FbW4mkXa6",
+        "displayedUrl": "https://aapkabazar.co › ...",
+        "description": "These light and crispy biscuits are made with high-quality ingredients, offering a perfect balance of saltiness and crunch. Ideal for snacking on-the-go or ...",
+        "emphasizedKeywords": [
+          "made with high-quality ingredients"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "Parle Monaco 46.4g",
+        "websiteTitle": "Top In Town Hypermarket",
+        "url": "https://www.topintownstore.com/product/parle-monaco-46-4g/",
+        "displayedUrl": "https://www.topintownstore.com › ...",
+        "description": "Parle Monaco 46.4g. ₹10. 15 min delivery. Quality assured. Free delivery*. Brand: Parle. Category: Biscuits. SKU: 8901719135118 ...",
+        "emphasizedKeywords": [
+          "Parle Monaco 46.4g"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "PARLE Monaco Salted Biscuit Price in India",
+        "websiteTitle": "Flipkart",
+        "url": "http://www.flipkart.com/parle-monaco-salted-biscuit/p/itm8f2356f1524bd?pid=CKBET6WUGDDY2NHZ&lid=LSTCKBET6WUGDDY2NHZO8TAQM&marketplace=GROCERY&cmpid=content_cookie-biscuit_8965229628_gmc",
+        "displayedUrl": "http://www.flipkart.com › ...",
+        "description": "8901719135118. Net Quantity. 52.2 g. Freshly Baked. No. Additives. NA. FSSAI Number. NA. Usage Instructions. NA. Weight. 37.7 g. Flipkart endeavours to ensure ...",
+        "emphasizedKeywords": [
+          "8901719135118"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "MONACO – Parle",
+        "websiteTitle": "Open Food Facts",
+        "url": "https://in-hi.openfoodfacts.org/product/8901719135118/monaco-parle",
+        "displayedUrl": "https://in-hi.openfoodfacts.org › 8901719135118 › mo...",
+        "description": "24 अप्रैल 2025 — ×. बारकोड: 8901719135118(EAN / EAN-13). ब्रांड: Parle. श्रेणियाँ: en:Snacks, en:Salty snacks, en:Sweet snacks, en ...",
+        "emphasizedKeywords": [
+          "8901719135118"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "Parle Monaco Classic Salted Biscuits 46.4 g",
+        "websiteTitle": "swingbasket.com",
+        "url": "https://www.swingbasket.com/biscuit-cookies/parle-monaco-classic-salted-biscuits-46-4-g",
+        "displayedUrl": "https://www.swingbasket.com › ...",
+        "description": "Parle Monaco Classic Salted Biscuits 46.4 g. HSN Code: 19059020. Product Code: 8901719135118 Brand: Parle. ₹9.80. MRP ₹ 10.00 2% OFF. Inclusive of all Taxes.",
+        "emphasizedKeywords": [
+          "Product Code: 8901719135118"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "monaco",
+        "websiteTitle": "MagniKart",
+        "url": "https://www.magnikart.com/product/monaco/?srsltid=AfmBOoqIWhBFX04W5E0-AiFKycKMpEbR5GJthufQP92qHgWnjB_1BwXx",
+        "displayedUrl": "https://www.magnikart.com › ...",
+        "description": "monaco. SKU: 8901719135118. ₹10.00. In Stock. In Stock. monaco quantity. Add to cart. Add to Wishlist. Add to Wishlist. Compare. Add to Wishlist.",
+        "emphasizedKeywords": [
+          "monaco"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "Monaco (Parle) - Forkin Score 56/100",
+        "websiteTitle": "forkin.io",
+        "url": "https://forkin.io/products/8901719135118",
+        "displayedUrl": "https://forkin.io › ...",
+        "description": "8901719135118 · food. Monaco. Parle. Forkin Score. 56/100. Forkin Score. 56/100. Broader than nutrition-only: the score starts with nutrition, then applies ...",
+        "emphasizedKeywords": [
+          "8901719135118"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [
+      {
+        "answer": null,
+        "question": "How much do Monaco biscuits cost?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "Is the Monaco biscuit Indian?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "Can I eat Monaco biscuits during weight loss?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": "जब आप मोनाको बिस्कुट का एक पैकेट उठाते हैं, तो आप सिर्फ एक साधारण नमकीन बिस्कुट नहीं उठा रहे होते हैं - आप इतिहास का एक टुकड़ा उठा रहे होते हैं जिसकी शुरुआत लगभग एक सदी पहले पार्ले के अंतर्गत एक मामूली भारतीय मिठाई की दुकान से हुई थी।",
+        "question": "Is the Monaco biscuit Indian?",
+        "title": "मोनाको बिस्कुट की विरासत: 1942 से आज तक ब्रांड से सीखे गए सबक",
+        "url": "https://translate.google.com/translate?u=https://www.rkdewan.com/articles/the-legacy-of-monaco-biscuits/&hl=hi&sl=en&tl=hi&client=rq",
+        "date": null
+      },
+      {
+        "answer": "TRUTH: While Monaco has less sugar (0.4g vs 8-10g per serving), it's still refined carbs with high sodium. High sodium intake is linked to hypertension. Neither is \"healthy\" — choose based on your specific health concerns. TRUTH: At 492 calories per 100g, Monaco has similar calorie density to other biscuits.",
+        "question": "Is parle monaco biscuit healthy?",
+        "title": null,
+        "url": null,
+        "date": null
+      }
+    ],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/fPx03wUEIOnTnAn-0.html?signature=92ZGrkaQZFGgIOnDbveN"
+  }
+]

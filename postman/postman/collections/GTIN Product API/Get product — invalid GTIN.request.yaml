@@ -1,0 +1,4 @@
+$kind: http-request
+url: "{{baseUrl}}/v1/products/123"
+method: GET
+order: 4000

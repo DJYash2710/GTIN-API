@@ -1,0 +1,15 @@
+# Use this workspace to collaborate
+workspace:
+  id: c211f7eb-865a-4253-86e1-4da44fd75828
+
+# Each entry here maps a local resource to one or more corresponding objects in Postman Cloud
+
+cloudResources:
+  collections:
+    ../postman/collections/GTIN Product API: 418058c3-6d15-4af8-b599-525d266920c5
+
+# All resources in the `postman/` folder are automatically registered in Local View.
+# Point to additional files outside the `postman/` folder to register them individually. Example:
+#localResources:
+#  collections:
+#    - ../tests/E2E Test Collection/

@@ -1,0 +1,165 @@
+[
+  {
+    "#debug": {
+      "requestId": "XJKV35VJrgVaTiI",
+      "url": "http://www.google.co.in/search?q=8901063093522",
+      "loadedUrl": "http://www.google.co.in/search?q=8901063093522",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901063093522",
+      "url": "http://www.google.co.in/search?q=8901063093522",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901063093522",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "Britannia Cashew Almond Cookies 60.1 g",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/270729/britannia-good-day-cashew-cookies-60-g/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "Cashew Almond Cookies offer a delightful combination of rich flavours and crunchy textures, made with the goodness of premium cashews and almonds.",
+        "emphasizedKeywords": [
+          "Cashew Almond Cookies"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "Good Day - Cashew Cookies – Britannia – 52.5 g",
+        "websiteTitle": "Open Food Facts",
+        "url": "https://in-hi.openfoodfacts.org/product/8901063093522/good-day-cashew-cookies-britannia",
+        "displayedUrl": "https://in-hi.openfoodfacts.org › 8901063093522 › go...",
+        "description": "15 अग॰ 2023 — 8901063093522(EAN / EAN-13). Common name: Good day biscuit. मात्रा: 52.5 g. ब्रांड: Britannia. श्रेणियाँ: en:Snacks, en ...",
+        "emphasizedKeywords": [
+          "8901063093522"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "BRITANNIA Good Day Cashew Cookies Price in India",
+        "websiteTitle": "Flipkart",
+        "url": "http://www.flipkart.com/britannia-good-day-cashew-cookies/p/itmb56a4a28a3424?pid=CKBET6WJGGEUGNVZ&lid=LSTCKBET6WJGGEUGNVZOPC39L&marketplace=GROCERY&cmpid=content_cookie-biscuit_8965229628_gmc",
+        "displayedUrl": "http://www.flipkart.com › ...",
+        "description": "Maximum Shelf Life. 6 Months ; nutrient Content. NA ; EAN. 8901063093737, 8901063092846, 8901063093522, 8901063093638, 8901063093713 ; Net Quantity. 60.1 g.",
+        "emphasizedKeywords": [
+          "8901063093522"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "Crunchy, Zero Trans Fat, Ready To Eat, 52.5 g is Halal",
+        "websiteTitle": "Mustakshif halal scanner",
+        "url": "https://www.mustakshif.com/product/detail/8901063093522/britannia-good-day-cashew-cookies-crunchy-zero-trans-fat-ready-to-eat-525-g",
+        "displayedUrl": "https://www.mustakshif.com › ...",
+        "description": "Britannia Good Day Cashew Cookies - Crunchy, Zero Trans Fat, Ready To Eat, 52.5 g is Halal. It is from India by Britannia categorised as Snacks ...",
+        "emphasizedKeywords": [
+          "Britannia Good Day Cashew Cookies"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "averageRating": 4.3,
+        "numberOfReviews": 89,
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "BRITANNIA GOOD DAY CASHEW COOKIE 52.5g - MELA",
+        "websiteTitle": "mela.global",
+        "url": "https://shop.mela.global/catalog/product/view/id/2572/s/britannia-good-day-cashew-cookie/",
+        "displayedUrl": "https://shop.mela.global › ...",
+        "description": "britannia good day cashew cookie 52.5g. In stock. SKU. 8901063093522. HK$4.00. truck-icn. Free Shipping. Based on the Delivery Location. truck-icn. Estimated ...",
+        "emphasizedKeywords": [
+          "britannia good day cashew cookie 52.5g"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "Good Day - Cashew Cookies – Britannia – 52.5 g",
+        "websiteTitle": "Open Food Facts",
+        "url": "https://world.openfoodfacts.org/product/8901063093522/good-day-cashew-cookies-britannia",
+        "displayedUrl": "https://world.openfoodfacts.org › ...",
+        "description": "15 अग॰ 2023 — 8901063093522(EAN / EAN-13). Common name: Good day biscuit. Quantity: 52.5 g. Brands: Britannia. Categories: Snacks, Sweet snacks, Biscuits and ...",
+        "emphasizedKeywords": [
+          "8901063093522"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "Hygiène & Soin dentaire",
+        "websiteTitle": "Auchan Sénégal",
+        "url": "https://www.auchan.sn/152-hygiene-soin-dentaire",
+        "displayedUrl": "https://www.auchan.sn › ...",
+        "description": "Hygiène & Soin dentaire 47 produits trouvés ... Limited to 99999 products per customer. Dentifrice Dentygel Vert 132G. 132 g 5 114 CFA / kg.",
+        "emphasizedKeywords": [
+          "Hygiène & Soin dentaire 47 produits trouvés"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "Powder detergent",
+        "websiteTitle": "Sakanal magasins",
+        "url": "https://sakanal.sn/en/21-powder-detergent-?srsltid=AfmBOoq6KqqrOVHJqA61OQYTMUcb6CHMnPAp8_L3P3zzMKZop4lHyq1e",
+        "displayedUrl": "https://sakanal.sn › ...",
+        "description": "PUNTOMATIC ULTRA FRESCOR 22 CAPSULES 286G. 6,790 FCFA. TTC. ESPECES: 6 450 FCFA (-5%). CARTE: 6 654 FCFA (-2%). PUNTOMATIC FUSION FLORAL 22.",
+        "emphasizedKeywords": [
+          "PUNTOMATIC ULTRA FRESCOR 22 CAPSULES 286G"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "https://market.momo.africa/Portal/product/132842/1...",
+        "websiteTitle": "Market by MoMo",
+        "url": "https://market.momo.africa/Portal/product/132842/1?tenantId=2&lang=en&srsltid=AfmBOor2NU0m22JxR0NW1Nh5AdYq6_KfhvRIs25IWIbRHMrYqtMtcqme",
+        "displayedUrl": "https://market.momo.africa › ...",
+        "description": "",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/XJKV35VJrgVaTiI-0.html?signature=TpuaQNnZdvXVX9aiyrcl"
+  }
+]

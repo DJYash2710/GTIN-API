@@ -1,0 +1,161 @@
+[
+  {
+    "#debug": {
+      "requestId": "kCuh3R8TX7wSazA",
+      "url": "http://www.google.co.in/search?q=8901719129988",
+      "loadedUrl": "http://www.google.co.in/search?q=8901719129988",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901719129988",
+      "url": "http://www.google.co.in/search?q=8901719129988",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901719129988",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "Happy happy - Parl – Parle – 31.5 g",
+        "websiteTitle": "Open Food Facts",
+        "url": "https://world.openfoodfacts.org/product/8901719129988/happy-happy-parl-parle",
+        "displayedUrl": "https://world.openfoodfacts.org › ...",
+        "description": "17 नव॰ 2023 — 8901719129988(EAN / EAN-13). Common name: Choco-Chip Cookies. Quantity: 31.5 g. Brands: Parle. Categories: Snacks, Sweet snacks, Biscuits and ...",
+        "emphasizedKeywords": [
+          "8901719129988"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "Parle Happy Happy Biscuits 31.5g is Halal",
+        "websiteTitle": "Mustakshif halal scanner",
+        "url": "https://www.mustakshif.com/product/detail/8901719129988/parle-happy-happy-biscuits-315g",
+        "displayedUrl": "https://www.mustakshif.com › ...",
+        "description": "Parle Happy Happy Biscuits 31.5g is Halal. It is from India by Parle categorised as Biscuit and Crackers, Savoury & Sweet Treats.",
+        "emphasizedKeywords": [
+          "Parle Happy Happy Biscuits 31.5g is Halal"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "averageRating": 4.3,
+        "numberOfReviews": 89,
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "Parle Happy Happy 31.5Gm",
+        "websiteTitle": "Nainji Supermarket",
+        "url": "https://nainji.in/product/parle-happy-happy-31-5gm/",
+        "displayedUrl": "https://nainji.in › ...",
+        "description": "Parle Happy Happy 31.5Gm. Brand. PARLE. Department. Food Products. SKU: 8901719129988. Parle Happy Happy 31.5Gm. ₹5.00. 22 in stock. Parle Happy ...",
+        "emphasizedKeywords": [
+          "Parle Happy Happy 31.5Gm"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "Supplemart | Authentic Supplements | 💥Best Healthy Snacks ...",
+        "websiteTitle": "Instagram · supplemart.india",
+        "url": "https://www.instagram.com/reel/CrjBIV7NKyg/",
+        "displayedUrl": "Instagram › supplemart.india",
+        "description": "369 likes, 5 comments - supplemart.india on April 27, 2023: \"  Best Healthy Snacks   Grab Now At Discounted Price Free Shipping Pan India ...",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "likes": "360+ लाइक",
+        "lastUpdated": "3 वर्ष पहले",
+        "channelName": "reel",
+        "reelLength": "0:32",
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "Boutique | FARMASI",
+        "websiteTitle": "Home | FARMASI",
+        "url": "https://www.farmasi-ma.ma/shop/page/5?order=name+asc",
+        "displayedUrl": "https://www.farmasi-ma.ma › ...",
+        "description": "FARMASI KERATIN THERAPY REPAIRING HAIR SPRAY 115 ML 1108181 · FARMASI MAKE UP BB CREAM - 01 LIGHT 50 ML · FARMASI MAKE UP BB CREAM - 02 LIGHT TO MEDIUM 50 ML.",
+        "emphasizedKeywords": [
+          "FARMASI KERATIN THERAPY REPAIRING HAIR SPRAY 115 ML"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "https://inwi.ma/en/purchase/product/1155",
+        "websiteTitle": "Inwi",
+        "url": "https://inwi.ma/en/purchase/product/1155",
+        "displayedUrl": "https://inwi.ma › ...",
+        "description": "",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "https://primini.ma/c/l/2397/Materiel-De-Coiffure?b...",
+        "websiteTitle": "primini.ma",
+        "url": "https://primini.ma/c/l/2397/Materiel-De-Coiffure?brand_id=138",
+        "displayedUrl": "https://primini.ma › ...",
+        "description": "इस पेज के लिए कोई जानकारी उपलब्ध नहीं है.",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "https://www.jumia.ma/beaute-hygiene-sante/all-prod...",
+        "websiteTitle": "Jumia Maroc",
+        "url": "https://www.jumia.ma/beaute-hygiene-sante/all-products/?tag=CP_UN194&srsltid=AfmBOorSWmNf7Kv4numvv5cd2EQnDG7KPSWZ8gp5Af9Y7tog9hlo-t6l",
+        "displayedUrl": "https://www.jumia.ma › ...",
+        "description": "इस पेज के लिए कोई जानकारी उपलब्ध नहीं है.",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "404 Introuvable",
+        "websiteTitle": "marjanemall",
+        "url": "https://www.marjanemall.ma/vase-kalis-blanc-3x14-cm-aaabu58226?srsltid=AfmBOoqlONQwHZCA1WYy7fP8JeckTOd7hBp9jA9Rx4P_a-JnquH0u_XC",
+        "displayedUrl": "https://www.marjanemall.ma › ...",
+        "description": "Oups! la catégorie que vous recherchez semble introuvable! Reformulez votre recherche ou allez sur: Page d'accueil · Aide & contact. Suivez nous ...",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/kCuh3R8TX7wSazA-0.html?signature=NJSDrh8F3wwzqhukxB1S"
+  }
+]

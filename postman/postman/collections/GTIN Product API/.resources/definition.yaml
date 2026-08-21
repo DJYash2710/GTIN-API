@@ -1,0 +1,12 @@
+$kind: collection
+description: "Local FastAPI lookup. Default reads samples/. Live Google Search only with force_refresh=true (spends Apify credits). Auth: Bearer API_KEY (default dev-local-key)."
+variables:
+  baseUrl: http://127.0.0.1:8000
+  apiKey: dev-local-key
+  gtin: "8901719123870"
+auth:
+  - id: 918b8683-1527-4f46-a888-28e6163e2c04
+    type: bearer
+    name: bearer auth
+    credentials:
+      token: "{{apiKey}}"

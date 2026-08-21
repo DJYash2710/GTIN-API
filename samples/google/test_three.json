@@ -1,0 +1,349 @@
+[
+  {
+    "#debug": {
+      "requestId": "dJ3h6jErBTV8y13",
+      "url": "http://www.google.co.in/search?q=8901058890127",
+      "loadedUrl": "http://www.google.co.in/search?q=8901058890127",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901058890127",
+      "url": "http://www.google.co.in/search?q=8901058890127",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901058890127",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "https://www.ivppharmacorp.com/shop/",
+        "websiteTitle": "ivppharmacorp.com",
+        "url": "https://www.ivppharmacorp.com/shop/",
+        "displayedUrl": "https://www.ivppharmacorp.com › ...",
+        "description": "",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "https://www.kkday.com/en-ph/product/533903?modal=n...",
+        "websiteTitle": "KKday",
+        "url": "https://www.kkday.com/en-ph/product/533903?modal=new_comment&srsltid=AfmBOopWIiU7MKpWyxV62ZJyTVcPHFfYR5GKo9SETydRgfmekgVL6vXq",
+        "displayedUrl": "https://www.kkday.com › ...",
+        "description": "इस पेज के लिए कोई जानकारी उपलब्ध नहीं है.",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "https://shopmetro.ph/testsite-main/shop/?filter_ca...",
+        "websiteTitle": "ShopMetro",
+        "url": "https://shopmetro.ph/testsite-main/shop/?filter_cat=3146,3628,3723,2550,2761,2749,2480,2618,3334,2982,3724,3764&categories=cheese;health-beauty-world;noodles;sesame-oil",
+        "displayedUrl": "https://shopmetro.ph › ...",
+        "description": "इस पेज के लिए कोई जानकारी उपलब्ध नहीं है.",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "Oral B Toothbrush Ultra Thin Green Tea 5s",
+        "websiteTitle": "Landmark PH",
+        "url": "https://www.landmark.ph/products/ind-greentea-bcd-xs-5-s-2/35245",
+        "displayedUrl": "https://www.landmark.ph › ...",
+        "description": "Oral B Toothbrush Ultra Thin Green Tea 5s. ₱409.00. Add to Cart. Landmark Logo About Us Branches. Location Icon. 6751 Makati Avenue, Ayala Center, Makati, ...",
+        "emphasizedKeywords": [
+          "Oral B Toothbrush Ultra Thin Green Tea 5s"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "ShopSM | Same-day Delivery or Pickup",
+        "websiteTitle": "ShopSM",
+        "url": "https://shopsm.com/10006949-spam-luncheon-meat-regular-12oz.html",
+        "displayedUrl": "https://shopsm.com › ...",
+        "description": "Get awesome exclusives and more deals when you subscribe! Subscribe. Terms & Conditions · Privacy Policy · Refund Policy · My Account.",
+        "emphasizedKeywords": [
+          "Get awesome exclusives and more deals when you subscribe"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "1Liter Vanilla is AVAILABLE NOW on our Shopee and Lazada ...",
+        "websiteTitle": "Facebook · Neco Philippines, Inc.",
+        "url": "https://www.facebook.com/necophilippines/videos/1liter-vanilla-is-available-now-on-our-shopee-and-lazada-store-order-nowshopee-h/2146999518824531/",
+        "displayedUrl": "Facebook › Neco Philippines, Inc.",
+        "description": "1Liter Vanilla is AVAILABLE NOW on our Shopee and Lazada store! Order now!   Shopee: https://shopee.ph/necophilippinesinc Lazada:...",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "reactions": "60+ प्रतिक्रियाएं",
+        "lastUpdated": "3 वर्ष पहले",
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "Shopee Philippines | Shop Online with Promos and Vouchers",
+        "websiteTitle": "Shopee Philippines",
+        "url": "https://shopee.ph/TIPCO-100-Aloe-Vera-Fruit-Juice-with-Vitamin-C-Calcium-1L-Tetra-x6-i.162960662.24272435019",
+        "displayedUrl": "https://shopee.ph › ...",
+        "description": "Please enable JavaScript on your browser.",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "SAVE MORE WITH Apricot‼ Up to 30% OFF! 'Low storage ...",
+        "websiteTitle": "Facebook · Kimstore",
+        "url": "https://www.facebook.com/kimstorePH/videos/apricot-30-off-on-pro-series-otg/2609566692603931/",
+        "displayedUrl": "Facebook › Kimstore",
+        "description": "SAVE MORE WITH Apricot‼ Up to 30% OFF! 'Low storage' problem should never stop you from being productive! Get yours today via this link:...",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "reactions": "50+ प्रतिक्रियाएं",
+        "lastUpdated": "6 वर्ष पहले",
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "Underconstruction",
+        "websiteTitle": "Teh Tai Global Corporation",
+        "url": "https://tehtai.com.ph/shop/soap/shopdetail230033460.shtml",
+        "displayedUrl": "https://tehtai.com.ph › ...",
+        "description": "Where Outsourcing Comes Full Circle.",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      },
+      {
+        "title": "Landers.ph | Landers Superstore",
+        "websiteTitle": "Landers Superstore",
+        "url": "https://www.landers.ph/health-beauty/jane-iredale-h-e-minerals-kit-lip-balm-spf-15-facial-brush-wash-glove-bag-3s-bag-mp-0uj-ne8-ho-1754411474-j9xg-61306",
+        "displayedUrl": "https://www.landers.ph › ...",
+        "description": "Landers.ph | Landers Superstore is more than groceries—it's your Online Superstore. Enjoy same-day delivery, same in-store prices, and exclusive ...",
+        "emphasizedKeywords": [
+          "Landers.ph | Landers Superstore"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 10
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/x6IibXLq9cQ7bd2n8/records/dJ3h6jErBTV8y13-0.html?signature=oaGThf2rABq68MKhJ2ks"
+  },
+  {
+    "#debug": {
+      "requestId": "DrDrqa5c2Zbddec",
+      "url": "http://www.google.co.in/search?q=maggi+2+minute+masala+70g+site%3Abigbasket.com",
+      "loadedUrl": "http://www.google.co.in/search?q=maggi+2+minute+masala+70g+site%3Abigbasket.com",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "maggi 2 minute masala 70g site:bigbasket.com",
+      "url": "http://www.google.co.in/search?q=maggi+2+minute+masala+70g+site%3Abigbasket.com",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=maggi+2+minute+masala+70g+site%3Abigbasket.com",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "Maggi 2-Minute Instant Masala Noodles 70 g",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/266160/maggi-masala-instant-noodles-vegetarian-70-g-pouch/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "Maggi 2-Minute Instant Masala Noodles · Energy: 384 kcal · Protein: 8.2 g · Carbohydrate: 59.6 g · Total Sugars: 1.8 g · Added Sugars: 1.1 g · Total Fat: 12.5 g",
+        "emphasizedKeywords": [
+          "Maggi 2-Minute Instant Masala Noodles"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "Maggi 2-Minute Special Masala Instant Noodles 70 g",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/40136266/maggi-special-masala-noodles-70-g-pouch/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "Each pack contains a delightful combination of soft, springy noodles and a specially formulated masala seasoning, creating a perfect balance of flavours in ...",
+        "emphasizedKeywords": [
+          "masala"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "Maggi 2-Minute Instant Noodles Masala, 1.68 kg (24 Cakes)",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/413975/maggi-noodles-168-kg-pouch/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "Maggi 2-Minute Instant Noodles Masala, 1.68 kg (24 Cakes) ; MRP: ₹340 ; EAN Code · 8901058020748 ; Country of origin · India ; Brands. Maggi.",
+        "emphasizedKeywords": [
+          "Maggi 2-Minute Instant Noodles Masala, 1.68 kg"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "Maggi 2-Minute Masala Instant Noodles 32 g",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/20005893/maggi-noodles-masala-32-g-pouch/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "Maggi 2-Minute Masala Instant Noodles, 32 g ; MRP: ₹5 ; Tasty. Contains finely ground whole spices. ; Goodness of Iron~. Each serve (70g) provides 15% of your ...",
+        "emphasizedKeywords": [
+          "Maggi 2-Minute Masala Instant Noodles, 32 g"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "Maggi 2-Minute Instant Masala Noodles 420 g",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/266112/maggi-2-minute-instant-noodles-masala-420-g-pouch/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "Maggi 2-Minute Instant Masala Noodles, 420 g · 420 g. Rs 77. MRP: Rs 84. 8% OFF · 140 g. Rs 1 · 70 g. Rs 14 · 280 g. Rs 60 · 560 g. Rs 112 · 840 g. Rs 162. (12 x 70 g).",
+        "emphasizedKeywords": [
+          "Maggi 2-Minute Instant Masala Noodles, 420 g"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "Maggi 2-Minute Instant Masala Noodles 70 g",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/product-reviews/266160/maggi-masala-instant-noodles-vegetarian-70-g-pouch/?page=52",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "Maggi 2-Minute Instant Masala Noodles 70 g. Rs 15. 4.1. 155258 Ratings & 996 Reviews. 5. 86269. 4. 28299. 3. 20547.",
+        "emphasizedKeywords": [
+          "Maggi 2-Minute Instant Masala Noodles 70 g"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "Maggi 2-Minute Instant Masala Noodles 70 g",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/product-reviews/266160/maggi-masala-instant-noodles-vegetarian-70-g-pouch/?page=41",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "Maggi 2-Minute Instant Masala Noodles 70 g. Rs 15. 4.1. 154631 Ratings & 996 Reviews. 5. 85807. 4. 28239. 3. 20523. 2.",
+        "emphasizedKeywords": [
+          "Maggi 2-Minute Instant Masala Noodles 70 g"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "Maggi 2-Minute Special Masala Instant Noodles 70 g",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/product-reviews/40136266/maggi-special-masala-noodles-70-g-pouch/?page=13",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "Good taste and quantity sufficient for adults. masala Maggie is good spice option, this pack is bit bigger and sufficient for adults, but it's bit more for kids ...",
+        "emphasizedKeywords": [
+          "Good taste and quantity sufficient for adults"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "Maggi 2-Minute Instant Masala Noodles 840 g (12 x 70 g)",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/40125873/maggi-2-minute-noodles-masala-840-g/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "Maggi 2-Minute Instant Masala Noodles, 840 g (12 x 70 g). 4.1. 155815 Ratings & 996 Reviews. MRP: ₹168. Price: ₹162 ...",
+        "emphasizedKeywords": [
+          "Maggi 2",
+          "Minute",
+          "Masala",
+          "70 g"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      },
+      {
+        "title": "Buy Maggi 2-Minute Instant Noodles Masala 70 g Pouch with ...",
+        "websiteTitle": "BigBasket",
+        "url": "https://bbsaathi.bigbasket.com/pd/266160/maggi-masala-instant-noodles-vegetarian-70-g-pouch/?nc=tag&t_pos_item=1",
+        "displayedUrl": "https://bbsaathi.bigbasket.com › ...",
+        "description": "Buy Maggi 2-Minute Instant Noodles Masala 70 g Pouch with Goodness of Iron online at bigbasket and get it delivered at your doorstep.",
+        "emphasizedKeywords": [
+          "Maggi 2-Minute Instant Noodles Masala 70 g Pouch"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 10
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/x6IibXLq9cQ7bd2n8/records/DrDrqa5c2Zbddec-0.html?signature=1dVG59NQWnNpivLT10D3C"
+  }
+]

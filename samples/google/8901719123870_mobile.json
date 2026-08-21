@@ -1,0 +1,188 @@
+[
+  {
+    "#debug": {
+      "requestId": "85ZzdWq0CGefCIJ",
+      "url": "http://www.google.co.in/search?q=8901719123870&hl=en&xmobile=1",
+      "loadedUrl": "http://www.google.co.in/search?q=8901719123870&hl=en&xmobile=1",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901719123870",
+      "url": "http://www.google.co.in/search?q=8901719123870&hl=en&xmobile=1",
+      "device": "MOBILE",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": "en",
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901719123870&hl=en&xmobile=1",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": "N/A",
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "Parle Original Gluco Biscuits 250 g",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/20004286/parle-glucos-biscuits-parle-g-250-g/",
+        "displayedUrl": "https://www.bigbasket.com",
+        "description": "EAN Code: 8901719123870 Country Of Origin: India Manufactured by: Patwari Bakers Pvt Ltd, Best Before 15-11-2026.",
+        "emphasizedKeywords": [
+          "EAN Code: 8901719123870"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "8901719123870 - PARLE GLUCO BISCUITS 200GM Rate: 29.40 MRP",
+        "websiteTitle": "SAI SUPER MARKET",
+        "url": "https://www.saisupermarket.in/product-detail.php?mid=8901719123870&cat=3.1&srsltid=AfmBOopLo7cjHTTs7-bnd8qya1lkrQbAtE0RNKtV-xjE24UrTI_2gT1h",
+        "displayedUrl": "https://www.saisupermarket.in",
+        "description": "PARLE GLUCO BISCUITS 200GM Rate : 29.40 MRP : 30.00 EAN / SKU : 8901719123870 PID: 3876 Buy more then 2 Discount 5% : 34.30 MRP : 35.00",
+        "emphasizedKeywords": [
+          "PARLE GLUCO BISCUITS 200GM"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "Parle-G Original Gluco Biscuits 200 Gm - Tasty & Energizing",
+        "websiteTitle": "Aapkabazar.co",
+        "url": "https://aapkabazar.co/2650/pd/parle-g-original-gluco-biscuits-200-gm?srsltid=AfmBOopXmJgjMvFee6FFolo0Niac66u3SQhreJkARwTmac7eHoNlqaxJ",
+        "displayedUrl": "https://aapkabazar.co",
+        "description": "Parle-G Original Gluco Biscuits, a tasty snack packed with energy. Item Code 8901719123870. Made with the goodness of wheat flour, milk, and essential vitamins ...",
+        "emphasizedKeywords": [
+          "Parle-G Original Gluco Biscuits"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "Parle G Biscuits 200g",
+        "websiteTitle": "Top In Town Hypermarket",
+        "url": "https://www.topintownstore.com/product/parle-g-biscuits-200g/",
+        "displayedUrl": "https://www.topintownstore.com",
+        "description": "Parle G Biscuits 200g ₹27 15 min delivery Quality assured Free delivery* Brand: Parle Category: Biscuits SKU: 8901719123870. FREE DELIVERY on orders above ₹99 ...",
+        "emphasizedKeywords": [
+          "Parle G Biscuits 200g"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "PARLE G Original Gluco Biscuits Plain Biscuit Price in India",
+        "websiteTitle": "Flipkart",
+        "url": "https://www.flipkart.com/parle-g-original-gluco-biscuits/p/itmfyxnbtgzatmgg",
+        "displayedUrl": "https://www.flipkart.com",
+        "description": "Original Gluco Biscuits Plain Biscuit for Rs.22 online. EAN 8901719123870, 8901719135743 Net Quantity 200 g Freshly Baked No Additives NA FSSAI. Dimensions ...",
+        "emphasizedKeywords": [
+          "Original Gluco Biscuits Plain Biscuit for Rs.22 online"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "Parle-G 250g",
+        "websiteTitle": "Open Food Facts",
+        "url": "https://world.openfoodfacts.org/product/8901719123870/parle-g-250g",
+        "displayedUrl": "https://world.openfoodfacts.org",
+        "date": "2025-06-22T12:00:00.000Z",
+        "description": "8901719123870(EAN / EAN-13). Brands: Parle. Countries where sold: India. Matching with your preferences. Health. Nutrition. icon. Nutri-Score ...",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "parle -g 200+50g extra = 250g - Alfa Super Mart",
+        "websiteTitle": "sanglimart.com",
+        "url": "https://www.sanglimart.com/product-details/parlke-g-20050g-extra-250g",
+        "displayedUrl": "https://www.sanglimart.com",
+        "description": "SKU: 8901719123870. Price INR 29.0 AVAILABILITY -5.000 in stock PIECES. Main Category Dairy & Bakery. IN Contact Seller:+918669106100. Free delivery On orders ...",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "Parle G Gluco Biscuits Family Pack 799gm",
+        "websiteTitle": "Apna Supermarkt",
+        "url": "https://www.apnasupermarkt.com/products/parle-g-gluco-biscuits-family-pack-799gm?srsltid=AfmBOop2GiAGO-BQs6CVulfPsE1KVxseUUtetnJYlSY65-qN3sKhS_iT",
+        "displayedUrl": "https://www.apnasupermarkt.com",
+        "description": "Ingredients: Wheat flour (69%), sugar, vegetable oil (palm oil), glucose-fructose syrup, raising agents (ammonium hydro, gencarbonate, sodium bicarbonate), salt ...",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "Buy Parle-g Biscuits & Snacks Online",
+        "websiteTitle": "Ubuy Jordan",
+        "url": "https://www.ubuy.com.jo/en/brand/parle-g?srsltid=AfmBOoo_hYYUUHVTBJ3KYUsQ5rc_066uxa8cqzN_pRbP0bqpG0puEIRJ",
+        "displayedUrl": "https://www.ubuy.com.jo",
+        "description": "Shop for a variety of Parle-g biscuits and snacks online at discounted prices on Ubuy Jordan, a leading store for Parle-g products with fast delivery ...",
+        "emphasizedKeywords": [
+          "Shop for a variety of Parle-g biscuits and snacks online"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [
+      {
+        "answer": null,
+        "question": "What is the expiry date of Parle-G biscuit?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "Can I eat Parle-G during fat loss?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "How much protein is in 1 Parle-G?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "What is the MRP of Parle-G?",
+        "title": null,
+        "url": null,
+        "date": null
+      }
+    ],
+    "customData": null
+  }
+]

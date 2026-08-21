@@ -1,0 +1,6 @@
+$kind: http-request
+url: "{{baseUrl}}/v1/products/{{gtin}}"
+method: GET
+auth:
+  type: noauth
+order: 3000

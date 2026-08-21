@@ -1,0 +1,8 @@
+$kind: http-request
+url: "{{baseUrl}}/v1/products/{{gtin}}?force_refresh=true"
+method: GET
+queryParams:
+  - key: force_refresh
+    value: "true"
+    description: Runs apify/google-search-scraper (mobile, India, 1 page). Do not spam this.
+order: 6000

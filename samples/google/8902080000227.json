@@ -1,0 +1,180 @@
+[
+  {
+    "#debug": {
+      "requestId": "K8q91vG1Lod8TIz",
+      "url": "http://www.google.co.in/search?q=8902080000227",
+      "loadedUrl": "http://www.google.co.in/search?q=8902080000227",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8902080000227",
+      "url": "http://www.google.co.in/search?q=8902080000227",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8902080000227",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "Sting Energy Drink 250 Ml - Buy Low Price Online Near Me",
+        "websiteTitle": "Aapkabazar.co",
+        "url": "https://aapkabazar.co/6763/pd/sting-energy-drink-250-ml?srsltid=AfmBOooXPtDicGIsqgfSbkXZxRlkQRuSQNIIum3pM2O8JAGHk2UEzOWQ",
+        "displayedUrl": "https://aapkabazar.co › ...",
+        "description": "Product Details. Unit. 250 ml. Item Code. 8902080000227. Country of Origin. india. Customer Care Details. Email: support@aapkabazar.co. Return Policy. The item ...",
+        "emphasizedKeywords": [
+          "8902080000227"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "STING ENERGY 250ML (B) Rate: 20.00 MRP",
+        "websiteTitle": "SAI SUPER MARKET",
+        "url": "https://saisupermarket.in/product-detail.php?mid=8902080000227&cat=4.4&srsltid=AfmBOoqFMsiS_qCrOppOAOSLcrMxSxIZho3H4S943M25Gcw6M0Cwn4Wr",
+        "displayedUrl": "https://saisupermarket.in › ...",
+        "description": "STING ENERGY 250ML (B). Rate : 20.00 MRP : 20.00. EAN / SKU : 8902080000227. PID: 3588. Quantity: Description; Specification; Reviews (1). STING ENERGY ...",
+        "emphasizedKeywords": [
+          "STING ENERGY 250ML (B"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "Sting Energy Drink 250ml",
+        "websiteTitle": "Top In Town Hypermarket",
+        "url": "https://www.topintownstore.com/product/sting-energy-drink-250ml/",
+        "displayedUrl": "https://www.topintownstore.com › ...",
+        "description": "Sting Energy Drink 250ml. ₹20. 15 min delivery. Quality assured. Free delivery*. Brand: Sting. Category: Drinks. SKU: 8902080000227 ...",
+        "emphasizedKeywords": [
+          "Sting Energy Drink 250ml"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "Sting Energy Drink Sports Drink (500 ml, Plain Flavored)",
+        "websiteTitle": "Flipkart",
+        "url": "https://www.flipkart.com/sting-s1-sports-drink/p/itm31794f85700df",
+        "displayedUrl": "https://www.flipkart.com › ...",
+        "description": "Buy Sting S1 Sports Drink for Rs.15 online. Sting S1 Sports Drink at best prices with FREE shipping & cash on delivery. Only Genuine Products.",
+        "emphasizedKeywords": [
+          "Sting S1 Sports Drink"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "averageRating": 4.2,
+        "numberOfReviews": 34,
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "Sting Energy Drink 250 ml",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/40113908/sting-energy-drink-250-ml-bottle/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "This electrifying drink packs a powerful punch of caffeine, ginseng, and essential B vitamins to elevate your energy game and help you conquer your day. Sting ...",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "Sting Energy – 1",
+        "websiteTitle": "Open Food Facts",
+        "url": "https://in-hi.openfoodfacts.org/product/8902080000227/sting-energy",
+        "displayedUrl": "https://in-hi.openfoodfacts.org › 8902080000227 › stin...",
+        "description": "5 अप्रैल 2022 — ×. बारकोड: 8902080000227(EAN / EAN-13). मात्रा: 1. ब्रांड: Sting. श्रेणियाँ: en:Beverages and beverages preparations ...",
+        "emphasizedKeywords": [
+          "8902080000227"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "Sting, 250ml - 1Peti (30Pcs)",
+        "websiteTitle": "Fetch N Buy",
+        "url": "https://fetchnbuy.in/products/copy-of-sting-energy-drink-250-ml",
+        "displayedUrl": "https://fetchnbuy.in › ...",
+        "description": "Stimulate your mind and energise your body with every sip of the Sting energy drink that comprises caffeine, taurine and B-vitamins.",
+        "emphasizedKeywords": [
+          "Sting energy drink"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "Sting Energy Drink 250ml",
+        "websiteTitle": "Tales of India",
+        "url": "https://talesofindia.com.au/products/sting-energy-drink-250ml?srsltid=AfmBOophH4IZVjKhDBW2tipQBfRIGoInJf2SuuO1Cpon7zF-_P2dd4Ys",
+        "displayedUrl": "https://talesofindia.com.au › ...",
+        "description": "Sting Energy Drink 250ml is a refreshing and energizing beverage that fuels you with instant power. Packed with a bold taste and formulated to keep you active, ...",
+        "emphasizedKeywords": [
+          "Sting Energy Drink 250ml"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "sting energy ( soft drink ) 250ml - Alfa Super Mart",
+        "websiteTitle": "sanglimart.com",
+        "url": "https://sanglimart.com/product-details/sting-energy-soft-drink-250ml",
+        "displayedUrl": "https://sanglimart.com › ...",
+        "description": "17 अक्टू॰ 2024 — SKU: 8902080000227; Tags: Stock:0.000 Items In Stock. Description; Additional info; Vendor; Reviews (0). None. Price. INR 20.0. AVAILABILITY.",
+        "emphasizedKeywords": [
+          "8902080000227"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [
+      {
+        "answer": null,
+        "question": "सबसे बढ़िया एनर्जी ड्रिंक कौन सा होता है?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "स्टिंग में अल्कोहल की मात्रा कितनी होती है?",
+        "title": null,
+        "url": null,
+        "date": null
+      }
+    ],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/K8q91vG1Lod8TIz-0.html?signature=1dGGvk4riRSFar7Vh8EeT"
+  }
+]

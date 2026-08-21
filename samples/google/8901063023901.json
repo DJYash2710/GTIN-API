@@ -1,0 +1,201 @@
+[
+  {
+    "#debug": {
+      "requestId": "wrYOw6dQWNyTM3V",
+      "url": "http://www.google.co.in/search?q=8901063023901",
+      "loadedUrl": "http://www.google.co.in/search?q=8901063023901",
+      "method": "GET",
+      "retryCount": 0,
+      "errorMessages": [],
+      "statusCode": 200
+    },
+    "#error": false,
+    "searchQuery": {
+      "term": "8901063023901",
+      "url": "http://www.google.co.in/search?q=8901063023901",
+      "device": "DESKTOP",
+      "page": 1,
+      "type": "SEARCH",
+      "domain": "google.co.in",
+      "countryCode": "IN",
+      "languageCode": null,
+      "locationUule": null,
+      "resultsPerPage": 10
+    },
+    "url": "http://www.google.co.in/search?q=8901063023901",
+    "hasNextPage": true,
+    "serpProviderCode": "L",
+    "resultsTotal": null,
+    "relatedQueries": [],
+    "paidResults": [],
+    "paidProducts": [],
+    "organicResults": [
+      {
+        "title": "Britannia Marie Gold Biscuits 250 g",
+        "websiteTitle": "BigBasket",
+        "url": "https://www.bigbasket.com/pd/220244/britannia-marie-gold-biscuits-250-g/",
+        "displayedUrl": "https://www.bigbasket.com › ...",
+        "description": "Britannia Marie Gold Biscuits, 250 g · 250 g. Rs 37. MRP: Rs 40. 10 mins. 8% OFF · 950 g. Rs 105. MRP: Rs 140. 10 mins. 25% OFF · 36.6 g. Rs 5. 10 mins · 64 g. Rs 9.",
+        "emphasizedKeywords": [
+          "Britannia Marie Gold Biscuits, 250 g"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 1
+      },
+      {
+        "title": "Britannia Marie Gold Biscuits",
+        "websiteTitle": "Amazon.in",
+        "url": "https://www.amazon.in/Britannia-Marie-Gold-250g/dp/B00S9BSEB4",
+        "displayedUrl": "https://www.amazon.in › ...",
+        "description": "Enriched with 7 vitamins and 3 minerals having zero trans-fat, Britannia Marie Gold is the perfect tea time companion that enables one to remain active ...",
+        "emphasizedKeywords": [
+          "Britannia Marie Gold"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 2
+      },
+      {
+        "title": "Britannia Marie Gold Biscuits 250 Gm - Delightful Snack",
+        "websiteTitle": "Aapkabazar.co",
+        "url": "https://aapkabazar.co/6831/pd/britannia-marie-gold-biscuits-250-gm?srsltid=AfmBOorR86D-EDcQtWjBRGfco2v0BZ-XH0XSaU6Xo6p5hjgNeSiyZaWg",
+        "displayedUrl": "https://aapkabazar.co › ...",
+        "description": "Enjoy the delightful taste of Britannia Marie Gold Biscuits. Perfect for snacking or with tea, these 250 gm packs are a must-have treat.",
+        "emphasizedKeywords": [
+          "Britannia Marie Gold Biscuits"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 3
+      },
+      {
+        "title": "BRITANNIA Gold Marie Biscuit Price in India",
+        "websiteTitle": "Flipkart",
+        "url": "http://www.flipkart.com/britannia-gold-marie-biscuit/p/itm353dd93c372d2?pid=CKBET6WU3CEGCYV2&lid=LSTCKBET6WU3CEGCYV2V9BOUM&marketplace=GROCERY&cmpid=content_cookie-biscuit_8965229628_gmc",
+        "displayedUrl": "http://www.flipkart.com › ...",
+        "description": "Maximum Shelf Life. 181 Days ; nutrient Content. NA ; EAN. 8901063162372, 8901063162723, 8901063371033, 8901063162488, 8901063371217, 8901063023901, 8901063023949.",
+        "emphasizedKeywords": [
+          "8901063023901"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 4
+      },
+      {
+        "title": "Britannia Marie Gold Biscuits, 250 g",
+        "websiteTitle": "Fetch N Buy",
+        "url": "https://fetchnbuy.in/products/britannia-marie-gold-biscuits-250-g",
+        "displayedUrl": "https://fetchnbuy.in › ...",
+        "description": "Britannia Marie Gold Biscuits, 250 g ; Sku: BMGB-250G ; Barcode: 8901063023901 ; Product type:.",
+        "emphasizedKeywords": [
+          "Britannia Marie Gold Biscuits, 250 g"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 5
+      },
+      {
+        "title": "Britannia Marie Gold 250 g | India Depot Grocery, Food & ...",
+        "websiteTitle": "Spice SPC Seattle",
+        "url": "https://indiadepot.com/Product/marie-gold-250-g-britannia/",
+        "displayedUrl": "https://indiadepot.com › ...",
+        "description": "Britannia Marie Gold 250 g. SKU: 8901063023901. $2.69. In stock. Britannia Marie Gold 250 g quantity. Add to cart. SKU: 8901063023901 Category: Biscuits ...",
+        "emphasizedKeywords": [
+          "Britannia Marie Gold 250 g"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 6
+      },
+      {
+        "title": "Britannia Marie Gold Biscuits 250 g",
+        "websiteTitle": "Starquik",
+        "url": "https://www.starquik.com/products/britannia-marie-gold-biscuits-250-gm-sc-sm02?srsltid=AfmBOooUEQNlc92mOHZSjy45TS0tNztC06h0EetY--_0u6WFp_qJ70PE",
+        "displayedUrl": "https://www.starquik.com › ...",
+        "description": "Marie Gold is full of vitamins and calcium, is low in fat content and are cholesterol free biscuits. Refined Wheat Flour (72%), Sugar, Edible Vegetable Oil ( ...",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 7
+      },
+      {
+        "title": "Britannia Marie Gold, 250g",
+        "websiteTitle": "Amazon.in",
+        "url": "https://www.amazon.in/Britannia-Marie-Gold-250g/dp/B01GCDZQCK",
+        "displayedUrl": "https://www.amazon.in › ...",
+        "description": "8901063023901 - For Pantry. Best Sellers Rank. #273,521 in Grocery & Gourmet Foods (See Top 100 in Grocery & Gourmet Foods). #124 in Marie. ASIN, B01GCDZQCK.",
+        "emphasizedKeywords": [
+          "8901063023901"
+        ],
+        "siteLinks": [],
+        "productInfo": {},
+        "type": "organic",
+        "position": 8
+      },
+      {
+        "title": "There's no other way to eat this biscuit Order the Marie Gold ...",
+        "websiteTitle": "Instagram · britannia.industries",
+        "url": "https://www.instagram.com/reel/DH--9QgzsGY/",
+        "displayedUrl": "Instagram › britannia.industries",
+        "description": "Photo by Britannia Industries on August 13, 2026. May be a graphic of ‎.",
+        "emphasizedKeywords": [],
+        "siteLinks": [],
+        "productInfo": {},
+        "likes": "210+ लाइक",
+        "lastUpdated": "1 वर्ष पहले",
+        "channelName": "reel",
+        "reelLength": "0:49",
+        "type": "organic",
+        "position": 9
+      }
+    ],
+    "suggestedResults": [],
+    "peopleAlsoAsk": [
+      {
+        "answer": null,
+        "question": "What is the expiry date for Marie Gold biscuits?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "Can I eat Marie Gold biscuits?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": null,
+        "question": "Is Britannia Marie Gold sugar free?",
+        "title": null,
+        "url": null,
+        "date": null
+      },
+      {
+        "answer": "अधिकतम 1-2 बिस्कुट ही खाएं , हमेशा प्रोटीन/वसा जैसे मेवे या पनीर के साथ खाएं। परिष्कृत आटा और चीनी इंसुलिन प्रतिरोध को बढ़ाते हैं। कभी-कभार ही (1-2 बिस्कुट) खाएं, नियमित नाश्ते के लिए साबुत अनाज वाले विकल्प चुनें। मॉर्निंग सिकनेस में सहायक, आयरन (4.5 मिलीग्राम) और बी विटामिन से भरपूर।",
+        "question": "Can I eat Marie Gold biscuits?",
+        "title": "ब्रिटानिया मैरी गोल्ड : कैलोरी, पोषण और स्वास्थ्य लाभ",
+        "url": "https://translate.google.com/translate?u=https://nutriscan.app/calories-nutrition/britannia-marie-gold&hl=hi&sl=en&tl=hi&client=rq",
+        "date": null
+      },
+      {
+        "answer": "मशहूर और सबकी चहेती ब्रिटानिया मैरी गोल्ड बिस्कुट हर घर में जाना-पहचाना नाम है। कुरकुरे, हल्के, स्वादिष्ट और पौष्टिक ये बिस्कुट चाय के साथ बहुत अच्छे लगते हैं और दिनभर की भागदौड़ के बाद खुशी देने वाले साथी साबित होते हैं।",
+        "question": "Which is the original Marie biscuit in India?",
+        "title": "ब्रिटानिया के सबसे भरोसेमंद मैरी गोल्ड बिस्कुट सर्वोत्तम कीमतों पर खरीदें",
+        "url": "https://translate.google.com/translate?u=https://www.britannia.co.in/product/marie&hl=hi&sl=en&tl=hi&client=rq",
+        "date": null
+      }
+    ],
+    "customData": null,
+    "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zdVnSr3msAdmIKH1S/records/wrYOw6dQWNyTM3V-0.html?signature=1AdQAHmwGeK37sHxBqF1k"
+  }
+]
