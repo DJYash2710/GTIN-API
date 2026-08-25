@@ -1,4 +1,4 @@
-"""Live Google Search via Apify. Call only when the HTTP client sends force_refresh=true."""
+"""Live Google Search via Apify. Used on cache miss or stale price when APIFY_ENABLED=true."""
 
 from __future__ import annotations
 

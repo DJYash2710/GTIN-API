@@ -85,7 +85,6 @@
     .ok { color: #166534; }
     .err { color: #b91c1c; }
     .scores { font-size: 0.9rem; color: var(--muted); }
-    .check { display: flex; gap: 0.4rem; align-items: center; margin: 0.6rem 0 0; font-weight: 400; }
     .key { margin-top: 1rem; }
     .key input { font-size: 0.9rem; }
   </style>
@@ -101,7 +100,6 @@
         <input id="gtin" type="text" inputmode="numeric" value="8901719123870" autocomplete="off" />
         <button type="submit">Lookup</button>
       </div>
-      <label class="check"><input id="live" type="checkbox" /> Live Google search (spends credits)</label>
       <div id="lookup-status" class="status"></div>
     </form>
 
@@ -221,10 +219,9 @@
     document.getElementById("lookup-form").addEventListener("submit", async (e) => {
       e.preventDefault();
       const gtin = document.getElementById("gtin").value.trim();
-      const live = document.getElementById("live").checked;
       const status = document.getElementById("lookup-status");
       setStatus(status, "Looking up…", true);
-      const url = "/v1/products/" + encodeURIComponent(gtin) + (live ? "?force_refresh=true" : "");
+      const url = "/v1/products/" + encodeURIComponent(gtin);
       try {
         const res = await fetch(url, { headers: headers() });
         const body = await res.json();

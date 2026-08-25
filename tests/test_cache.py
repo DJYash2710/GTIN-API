@@ -161,7 +161,7 @@ def test_confirmed_stale_price_updates_from_live(monkeypatch):
         },
         {"name": "google:bigbasket", "price": "google:bigbasket", "weight": "google:bigbasket"},
     )
-    mem = store._memory_store()["products"][GTIN]
+    mem = store._memory_store()["master_gtin"][GTIN]
     mem["price_updated_at"] = (datetime.now(timezone.utc) - timedelta(hours=13)).isoformat()
 
     monkeypatch.setattr(main_mod, "apify_is_enabled", lambda: True)

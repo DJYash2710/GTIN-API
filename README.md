@@ -2,15 +2,15 @@
 
 Internal lookup: GTIN in, up to 3 names / prices / weights out (each with a matching source list). No description.
 
-A basic review UI is served at `/`. Lookup a GTIN, click name / price / weight for up to 3 options, edit any field, then submit. Confirmed values go into the **MySQL** master catalog (`products` + `source_confidence`). Live/sample lookups are stored in `lookup_cache`.
+A basic review UI is served at `/`. Lookup a GTIN, click name / price / weight for up to 3 options, edit any field, then submit. Confirmed values go into the **MySQL** master catalog (`master_gtin` + `source_confidence`). Live/sample lookups are stored in `lookup_cache`.
 
-GET lookup order: **cache first** (confirmed product, then lookup cache), then **live Google** on miss or stale price (`APIFY_ENABLED=true`). If live search is off, it falls back to `samples/`. Successful lookups are written back to cache. `force_refresh=true` skips cache and searches live.
+**One lookup URL:** `GET /v1/products/{gtin}` — **cache first** (confirmed product, then lookup cache), then **live Google** on miss or stale price (`APIFY_ENABLED=true`). If live search is off, it falls back to `samples/`. Successful lookups are written back to cache.
 
 TTLs (independent): name/weight **30 days**, price **12 hours**. `DELETE /v1/products/{gtin}/cache` invalidates both the lookup cache and the confirmed row.
 
 If `MYSQL_HOST` is unset, storage is in-memory (used by tests).
 
-## Setup
+## Setup (local)
 
 ```
 python -m venv .venv
@@ -18,7 +18,44 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-## Run the API
+## Docker (recommended)
+
+Builds a Python 3.12 image with its own virtualenv at `/opt/venv`, installs `requirements.txt`, activates the venv, and runs uvicorn. MySQL starts beside the API.
+
+```
+docker compose up --build
+```
+
+Then:
+
+```
+curl http://127.0.0.1:8000/health
+curl -H "Authorization: Bearer dev-local-key" http://127.0.0.1:8000/v1/products/8901719123870
+```
+
+Open `http://127.0.0.1:8000/` for the review form.
+
+| Service | URL / host | Credentials |
+|---|---|---|
+| API | `http://127.0.0.1:8000` | Bearer `API_KEY` (default `dev-local-key`) |
+| MySQL (from host) | `127.0.0.1:3306` | user `gtin` / password `gtin` / db `gtin` |
+| MySQL (from API container) | host `mysql` | same |
+
+`.env` is loaded for secrets (`APIFY_TOKEN`, `APIFY_ENABLED`, …). Compose **overrides** `MYSQL_HOST` to `mysql` so the API talks to the MySQL container (ignore `127.0.0.1` from a local Workbench `.env`).
+
+Seed sample JSON into the Docker MySQL:
+
+```
+docker compose exec api python scripts/seed_samples_to_db.py
+```
+
+Stop:
+
+```
+docker compose down
+```
+
+## Run the API (local uvicorn)
 
 ```
 uvicorn app.main:app --reload --port 8000
@@ -31,22 +68,19 @@ curl -H "Authorization: Bearer dev-local-key" http://127.0.0.1:8000/v1/products/
 
 Open `http://127.0.0.1:8000/` for the review form.
 
-Live Google (cache miss, stale price, or `force_refresh=true` — spends credits, one search page):
+On cache miss (or stale price) with `APIFY_ENABLED=true`, that same GET spends Apify credits (one Google Search page). To clear a bad row:
 
 ```
-curl -H "Authorization: Bearer dev-local-key" "http://127.0.0.1:8000/v1/products/8901719123870?force_refresh=true"
 curl -X DELETE -H "Authorization: Bearer dev-local-key" http://127.0.0.1:8000/v1/products/8901719123870/cache
 ```
 
-Or `docker compose up --build` (API + MySQL).
-
-Set MySQL in `.env` for a local uvicorn process:
+Set MySQL in `.env` for a local uvicorn process (Workbench / local MySQL):
 
 ```
 MYSQL_HOST=127.0.0.1
 MYSQL_PORT=3306
-MYSQL_USER=gtin
-MYSQL_PASSWORD=gtin
+MYSQL_USER=root
+MYSQL_PASSWORD=your-password
 MYSQL_DATABASE=gtin
 ```
 

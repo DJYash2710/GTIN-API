@@ -1,6 +1,6 @@
 """Live Apify is off unless APIFY_ENABLED is true.
 
-GET spends credits only on a cache miss, a stale price, or force_refresh=true.
+GET spends credits only on a cache miss or a stale price.
 Collect scripts also need --confirm.
 """
 

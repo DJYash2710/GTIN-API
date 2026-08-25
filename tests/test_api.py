@@ -19,37 +19,6 @@ def test_health():
     assert res.json()["price_ttl_hours"] == 12.0
 
 
-def test_force_refresh_without_apify_is_503():
-    res = client.get(f"/v1/products/{GTIN}?force_refresh=true", headers=AUTH)
-    assert res.status_code == 503
-    assert res.json()["error"] == "apify_disabled"
-
-
-def test_force_refresh_mocked_live(monkeypatch):
-    from app import main as main_mod
-
-    monkeypatch.setattr(main_mod, "apify_is_enabled", lambda: True)
-
-    def fake_live(gtin: str) -> dict:
-        return {
-            "gtin": gtin,
-            "name": ["Live Test Product"],
-            "name_source": ["google:bigbasket"],
-            "price": [{"amount": 10.0, "currency": "INR"}],
-            "price_source": ["google:bigbasket"],
-            "weight": [{"value": 100, "unit": "g", "original": "100 g"}],
-            "weight_source": ["google:bigbasket"],
-            "cache": "miss",
-        }
-
-    monkeypatch.setattr(main_mod, "resolve_live", fake_live)
-    res = client.get(f"/v1/products/{GTIN}?force_refresh=true", headers=AUTH)
-    assert res.status_code == 200
-    body = res.json()
-    assert body["cache"] == "miss"
-    assert body["name"][0] == "Live Test Product"
-
-
 def test_missing_token():
     res = client.get(f"/v1/products/{GTIN}")
     assert res.status_code == 401

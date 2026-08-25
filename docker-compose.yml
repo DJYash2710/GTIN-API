@@ -1,6 +1,8 @@
 services:
   mysql:
     image: mysql:8.4
+    container_name: gtin-mysql
+    restart: unless-stopped
     environment:
       MYSQL_ROOT_PASSWORD: root
       MYSQL_DATABASE: gtin
@@ -15,24 +17,45 @@ services:
       interval: 5s
       timeout: 5s
       retries: 20
+      start_period: 15s
 
   api:
-    build: .
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: gtin-api
+    restart: unless-stopped
     ports:
       - "8000:8000"
+    # Optional local secrets (APIFY_TOKEN, API_KEY). Not copied into the image.
+    env_file:
+      - .env
     environment:
-      APIFY_ENABLED: "false"
-      API_KEY: dev-local-key
+      # Always use the Compose MySQL service (overrides MYSQL_HOST=127.0.0.1 from .env)
       MYSQL_HOST: mysql
       MYSQL_PORT: "3306"
       MYSQL_USER: gtin
       MYSQL_PASSWORD: gtin
       MYSQL_DATABASE: gtin
-      NAME_TTL_DAYS: "30"
-      PRICE_TTL_HOURS: "12"
+      API_KEY: ${API_KEY:-dev-local-key}
+      APIFY_ENABLED: ${APIFY_ENABLED:-false}
+      NAME_TTL_DAYS: ${NAME_TTL_DAYS:-30}
+      PRICE_TTL_HOURS: ${PRICE_TTL_HOURS:-12}
     depends_on:
       mysql:
         condition: service_healthy
+    healthcheck:
+      test:
+        [
+          "CMD",
+          "python",
+          "-c",
+          "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/health', timeout=3)",
+        ]
+      interval: 15s
+      timeout: 5s
+      retries: 5
+      start_period: 25s
 
 volumes:
   mysql_data:

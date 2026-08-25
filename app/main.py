@@ -3,7 +3,7 @@ from __future__ import annotations
 from pathlib import Path
 
 from dotenv import load_dotenv
-from fastapi import Depends, FastAPI, HTTPException, Query
+from fastapi import Depends, FastAPI, HTTPException
 from fastapi.responses import FileResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
 
@@ -29,7 +29,7 @@ from app import store
 
 STATIC = Path(__file__).resolve().parent / "static"
 
-app = FastAPI(title="GTIN Product API", version="0.9.0")
+app = FastAPI(title="GTIN Product API", version="0.9.1")
 app.mount("/static", StaticFiles(directory=STATIC), name="static")
 
 
@@ -62,7 +62,6 @@ def health() -> dict:
 )
 def get_product(
     gtin: str,
-    force_refresh: bool = Query(False),
     _token: str = Depends(require_bearer),
 ) -> ProductResponse | JSONResponse:
     digits = normalize_gtin(gtin)
@@ -86,31 +85,30 @@ def get_product(
             cache="gs1",
         )
 
-    if not force_refresh:
-        confirmed = store.get_product(digits)
-        if confirmed and store.is_fresh(confirmed.get("name_updated_at"), store.name_ttl()):
-            if store.is_fresh(confirmed.get("price_updated_at"), store.price_ttl()):
-                return _as_response(store.product_as_lookup(confirmed), cache="hit")
-            refreshed = _try_refresh_prices(digits, store.product_as_lookup(confirmed))
-            if refreshed is not None:
-                first_price = (refreshed.get("price") or [None])[0]
-                first_source = (refreshed.get("price_source") or [None])[0]
-                if first_price:
-                    store.update_product_price(digits, first_price, first_source)
-                return _as_response(refreshed, cache=refreshed.get("cache") or "miss")
+    confirmed = store.get_product(digits)
+    if confirmed and store.is_fresh(confirmed.get("name_updated_at"), store.name_ttl()):
+        if store.is_fresh(confirmed.get("price_updated_at"), store.price_ttl()):
             return _as_response(store.product_as_lookup(confirmed), cache="hit")
+        refreshed = _try_refresh_prices(digits, store.product_as_lookup(confirmed))
+        if refreshed is not None:
+            first_price = (refreshed.get("price") or [None])[0]
+            first_source = (refreshed.get("price_source") or [None])[0]
+            if first_price:
+                store.update_product_price(digits, first_price, first_source)
+            return _as_response(refreshed, cache=refreshed.get("cache") or "miss")
+        return _as_response(store.product_as_lookup(confirmed), cache="hit")
 
-        cached = store.get_lookup(digits)
-        if cached and cached["name_fresh"]:
-            if cached["price_fresh"]:
-                return _as_response(cached["payload"], cache="hit", gtin=digits)
-            refreshed = _try_refresh_prices(digits, {"gtin": digits, **cached["payload"]})
-            if refreshed is not None:
-                store.save_lookup(digits, refreshed, update_name=False, update_price=True)
-                return _as_response(refreshed, cache=refreshed.get("cache") or "miss")
+    cached = store.get_lookup(digits)
+    if cached and cached["name_fresh"]:
+        if cached["price_fresh"]:
             return _as_response(cached["payload"], cache="hit", gtin=digits)
+        refreshed = _try_refresh_prices(digits, {"gtin": digits, **cached["payload"]})
+        if refreshed is not None:
+            store.save_lookup(digits, refreshed, update_name=False, update_price=True)
+            return _as_response(refreshed, cache=refreshed.get("cache") or "miss")
+        return _as_response(cached["payload"], cache="hit", gtin=digits)
 
-    resolved = _fetch(digits, force_refresh=force_refresh)
+    resolved = _fetch(digits)
     if isinstance(resolved, JSONResponse):
         return resolved
     store.save_lookup(digits, resolved)
@@ -156,20 +154,11 @@ def _as_response(payload: dict, cache: str, gtin: str | None = None) -> ProductR
     )
 
 
-def _fetch(digits: str, force_refresh: bool) -> dict | JSONResponse:
+def _fetch(digits: str) -> dict | JSONResponse:
     used_live = False
     if apify_is_enabled():
         used_live = True
         resolved = resolve_live(digits)
-    elif force_refresh:
-        return JSONResponse(
-            status_code=503,
-            content=ErrorBody(
-                error="apify_disabled",
-                gtin=digits,
-                detail="Set APIFY_ENABLED=true to run a live Google search",
-            ).model_dump(),
-        )
     else:
         resolved = resolve_from_samples(digits)
     return _error_or_resolved(resolved, digits, used_live)

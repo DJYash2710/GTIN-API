@@ -2,7 +2,7 @@
 
 Production: MySQL (set MYSQL_HOST). Tests/local without MySQL use an in-memory store.
 
-Confirmed products live in `products`. Live/sample GET payloads live in `lookup_cache`
+Confirmed products live in `master_gtin`. Live/sample GET payloads live in `lookup_cache`
 with independent name/weight vs price TTLs (PRD §10).
 """
 
@@ -18,8 +18,10 @@ _lock = threading.Lock()
 _mysql_conn = None
 _memory: dict[str, Any] | None = None
 
-_SCHEMA = """
-CREATE TABLE IF NOT EXISTS products (
+MASTER_TABLE = "master_gtin"
+
+_SCHEMA = f"""
+CREATE TABLE IF NOT EXISTS {MASTER_TABLE} (
     gtin VARCHAR(14) PRIMARY KEY,
     name VARCHAR(512) NULL,
     price_amount DECIMAL(12, 4) NULL,
@@ -49,8 +51,8 @@ CREATE TABLE IF NOT EXISTS source_confidence (
 """
 
 _MIGRATIONS = [
-    "ALTER TABLE products ADD COLUMN name_updated_at DATETIME(6) NULL",
-    "ALTER TABLE products ADD COLUMN price_updated_at DATETIME(6) NULL",
+    f"ALTER TABLE {MASTER_TABLE} ADD COLUMN name_updated_at DATETIME(6) NULL",
+    f"ALTER TABLE {MASTER_TABLE} ADD COLUMN price_updated_at DATETIME(6) NULL",
 ]
 
 
@@ -83,13 +85,16 @@ def reset_connection() -> None:
 
 
 def _empty_memory() -> dict[str, Any]:
-    return {"products": {}, "confidence": {}, "lookups": {}}
+    return {"master_gtin": {}, "confidence": {}, "lookups": {}}
 
 
 def _memory_store() -> dict[str, Any]:
     global _memory
     if _memory is None:
         _memory = _empty_memory()
+    # Migrate older in-memory key if a long-lived process still has it.
+    if "products" in _memory and "master_gtin" not in _memory:
+        _memory["master_gtin"] = _memory.pop("products")
     return _memory
 
 
@@ -98,6 +103,29 @@ def _safe_ident(name: str, fallback: str) -> str:
     if not all(ch.isalnum() or ch == "_" for ch in cleaned):
         raise ValueError(f"Invalid MySQL identifier: {name!r}")
     return cleaned
+
+
+def _rename_legacy_products_table(cur) -> None:
+    """If an old `products` table exists and `master_gtin` does not, rename it."""
+    cur.execute(
+        """
+        SELECT COUNT(*) AS n
+        FROM information_schema.tables
+        WHERE table_schema = DATABASE() AND table_name = 'products'
+        """
+    )
+    has_products = int((cur.fetchone() or {}).get("n") or 0) > 0
+    cur.execute(
+        """
+        SELECT COUNT(*) AS n
+        FROM information_schema.tables
+        WHERE table_schema = DATABASE() AND table_name = %s
+        """,
+        (MASTER_TABLE,),
+    )
+    has_master = int((cur.fetchone() or {}).get("n") or 0) > 0
+    if has_products and not has_master:
+        cur.execute(f"RENAME TABLE products TO `{MASTER_TABLE}`")
 
 
 def _mysql():
@@ -127,6 +155,7 @@ def _mysql():
             "CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci"
         )
         cur.execute(f"USE `{database}`")
+        _rename_legacy_products_table(cur)
         for statement in _SCHEMA.strip().split(";"):
             sql = statement.strip()
             if sql:
@@ -136,6 +165,9 @@ def _mysql():
                 cur.execute(sql)
             except Exception as exc:
                 if getattr(exc, "args", None) and exc.args[0] == 1060:
+                    continue
+                # 1146 = table doesn't exist yet during odd race; ignore rename-related
+                if getattr(exc, "args", None) and exc.args[0] == 1146:
                     continue
                 raise
     conn.commit()
@@ -212,7 +244,7 @@ def save_product(gtin: str, payload: dict, sources: dict[str, str | None]) -> di
             with conn.cursor() as cur:
                 cur.execute(
                     """
-                    INSERT INTO products (
+                    INSERT INTO master_gtin (
                         gtin, name, price_amount, price_currency, weight_value, weight_unit,
                         name_source, price_source, weight_source, updated_at,
                         name_updated_at, price_updated_at
@@ -247,7 +279,7 @@ def save_product(gtin: str, payload: dict, sources: dict[str, str | None]) -> di
                 )
             conn.commit()
         else:
-            _memory_store()["products"][gtin] = row
+            _memory_store()["master_gtin"][gtin] = row
     return get_product(gtin) or {}
 
 
@@ -265,7 +297,7 @@ def update_product_price(gtin: str, price: dict | None, source: str | None) -> d
             with conn.cursor() as cur:
                 cur.execute(
                     """
-                    UPDATE products
+                    UPDATE master_gtin
                     SET price_amount = %s, price_currency = %s, price_source = %s,
                         price_updated_at = %s, updated_at = %s
                     WHERE gtin = %s
@@ -274,7 +306,7 @@ def update_product_price(gtin: str, price: dict | None, source: str | None) -> d
                 )
             conn.commit()
         else:
-            row = _memory_store()["products"].get(gtin)
+            row = _memory_store()["master_gtin"].get(gtin)
             if row is None:
                 return None
             row["price_amount"] = amount
@@ -321,11 +353,11 @@ def _row_to_product(row: dict) -> dict:
 
 def get_product(gtin: str) -> dict | None:
     if not mysql_configured():
-        row = _memory_store()["products"].get(gtin)
+        row = _memory_store()["master_gtin"].get(gtin)
         return _row_to_product(row) if row else None
     conn = _mysql()
     with conn.cursor() as cur:
-        cur.execute("SELECT * FROM products WHERE gtin = %s", (gtin,))
+        cur.execute(f"SELECT * FROM `{MASTER_TABLE}` WHERE gtin = %s", (gtin,))
         row = cur.fetchone()
     if row is None:
         return None
@@ -450,14 +482,14 @@ def delete_cache(gtin: str, *, master: bool = True) -> dict:
                 cur.execute("DELETE FROM lookup_cache WHERE gtin = %s", (gtin,))
                 deleted_lookup = cur.rowcount > 0
                 if master:
-                    cur.execute("DELETE FROM products WHERE gtin = %s", (gtin,))
+                    cur.execute(f"DELETE FROM `{MASTER_TABLE}` WHERE gtin = %s", (gtin,))
                     deleted_master = cur.rowcount > 0
             conn.commit()
         else:
             mem = _memory_store()
             deleted_lookup = mem["lookups"].pop(gtin, None) is not None
             if master:
-                deleted_master = mem["products"].pop(gtin, None) is not None
+                deleted_master = mem["master_gtin"].pop(gtin, None) is not None
     return {
         "gtin": gtin,
         "lookup": deleted_lookup,
