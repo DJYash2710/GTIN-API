@@ -3,13 +3,12 @@ from __future__ import annotations
 from pathlib import Path
 
 from dotenv import load_dotenv
-from fastapi import Depends, FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException
 from fastapi.responses import FileResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
 
 load_dotenv()
 
-from app.auth import require_bearer
 from app.credits import apify_is_enabled
 from app.gtin import is_valid_gtin, normalize_gtin
 from app.live_google import resolve_live
@@ -59,7 +58,6 @@ def health() -> dict:
 )
 def get_product(
     gtin: str,
-    _token: str = Depends(require_bearer),
 ) -> ProductResponse | JSONResponse:
     digits = normalize_gtin(gtin)
     if not is_valid_gtin(digits):
@@ -93,7 +91,6 @@ def get_product(
 )
 def invalidate_cache(
     gtin: str,
-    _token: str = Depends(require_bearer),
 ) -> InvalidateResponse | JSONResponse:
     digits = normalize_gtin(gtin)
     if not is_valid_gtin(digits):
@@ -195,7 +192,6 @@ def _choice_has_value(choice) -> bool:
 def confirm_product(
     gtin: str,
     body: ConfirmRequest,
-    _token: str = Depends(require_bearer),
 ) -> ConfirmResponse | JSONResponse:
     digits = normalize_gtin(gtin)
     if not is_valid_gtin(digits):

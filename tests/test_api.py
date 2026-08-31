@@ -17,14 +17,14 @@ def test_health():
     assert res.json()["mode"] == "cache-then-live"
 
 
-def test_missing_token():
+def test_works_without_token():
     res = client.get(f"/v1/products/{GTIN}")
-    assert res.status_code == 401
+    assert res.status_code == 200
 
 
-def test_bad_token():
+def test_works_with_any_token():
     res = client.get(f"/v1/products/{GTIN}", headers={"Authorization": "Bearer wrong"})
-    assert res.status_code == 401
+    assert res.status_code == 200
 
 
 def test_invalid_gtin():

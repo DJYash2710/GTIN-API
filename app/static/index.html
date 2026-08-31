@@ -84,9 +84,6 @@
     .status { margin-top: 0.75rem; white-space: pre-wrap; }
     .ok { color: #166534; }
     .err { color: #b91c1c; }
-    .scores { font-size: 0.9rem; color: var(--muted); }
-    .key { margin-top: 1rem; }
-    .key input { font-size: 0.9rem; }
   </style>
 </head>
 <body>
@@ -128,22 +125,13 @@
       </div>
       <div id="save-status" class="status"></div>
     </form>
-
-    <div class="card key">
-      <label for="api-key">API key</label>
-      <input id="api-key" type="text" />
-    </div>
   </main>
   <script>
-    const keyInput = document.getElementById("api-key");
-    keyInput.value = localStorage.getItem("apiKey") || "dev-local-key";
-    keyInput.addEventListener("change", () => localStorage.setItem("apiKey", keyInput.value.trim()));
-
     let fieldOptions = { name: [], price: [], weight: [] };
     let picked = { name: null, price: null, weight: null };
 
     function headers() {
-      return { "Authorization": "Bearer " + keyInput.value.trim(), "Content-Type": "application/json" };
+      return { "Content-Type": "application/json" };
     }
 
     function setStatus(el, text, ok) {

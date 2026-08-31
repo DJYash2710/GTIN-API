@@ -46,14 +46,12 @@ Default ports (override in `.env` if something is already in use):
 
 | Service | Credentials |
 |---|---|
-| API | Bearer `API_KEY` (default `dev-local-key`) |
 | MySQL (Workbench from host) | `127.0.0.1:3307`, user `gtin` / password `gtin` / db `gtin` |
 
 **Windows firewall:** if LAN clients cannot connect, allow inbound TCP on port `8000` for Python or Docker.
 
 ### Optional `.env` settings
 
-- `API_KEY` — change the bearer token (default `dev-local-key`)
 - `APIFY_TOKEN` — required for live Google on cache miss (live search is **on** by default)
 - `APIFY_ENABLED=false` — disable live search and use samples only
 - `API_PUBLISH_PORT=8080` — if port 8000 is taken
@@ -79,13 +77,13 @@ MySQL connection settings for the API container are set by Docker Compose; you d
 
 ```bash
 curl http://127.0.0.1:8000/health
-curl -H "Authorization: Bearer dev-local-key" http://127.0.0.1:8000/v1/products/8901719123870
+curl http://127.0.0.1:8000/v1/products/8901719123870
 ```
 
 Clear a cached GTIN:
 
 ```bash
-curl -X DELETE -H "Authorization: Bearer dev-local-key" http://127.0.0.1:8000/v1/products/8901719123870/cache
+curl -X DELETE http://127.0.0.1:8000/v1/products/8901719123870/cache
 ```
 
 ## Local development (without Docker)

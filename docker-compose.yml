@@ -37,7 +37,6 @@ services:
       MYSQL_USER: gtin
       MYSQL_PASSWORD: gtin
       MYSQL_DATABASE: gtin
-      API_KEY: ${API_KEY:-dev-local-key}
       APIFY_ENABLED: ${APIFY_ENABLED:-true}
       APIFY_TOKEN: ${APIFY_TOKEN:-}
       APIFY_GOOGLE_ACTOR: ${APIFY_GOOGLE_ACTOR:-apify/google-search-scraper}

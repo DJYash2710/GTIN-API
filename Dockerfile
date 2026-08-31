@@ -27,7 +27,6 @@ COPY docker/entrypoint.sh /entrypoint.sh
 RUN chmod +x /entrypoint.sh
 
 ENV APIFY_ENABLED=true \
-    API_KEY=dev-local-key \
     MYSQL_HOST=mysql \
     MYSQL_PORT=3306 \
     MYSQL_USER=gtin \

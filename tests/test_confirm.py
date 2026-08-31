@@ -13,7 +13,7 @@ def test_ui_home_is_public():
     assert "Review product data" in res.text
 
 
-def test_confirm_requires_auth():
+def test_confirm_works_without_auth():
     res = client.post(
         f"/v1/products/{GTIN}/confirm",
         json={
@@ -22,7 +22,7 @@ def test_confirm_requires_auth():
             "weight": {"value": 250, "unit": "g", "source": "google:bigbasket", "custom": False},
         },
     )
-    assert res.status_code == 401
+    assert res.status_code == 200
 
 
 def test_confirm_stores_product_and_bumps_source_confidence():
