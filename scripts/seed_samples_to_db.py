@@ -1,11 +1,12 @@
 """Load all local samples into MySQL (master catalog + lookup cache).
 
 Does not call Apify. Uses APIFY_ENABLED=false while resolving.
-Requires MYSQL_* in .env.
+Requires MYSQL_* in .env (set automatically by Docker Compose).
 """
 
 from __future__ import annotations
 
+import argparse
 import json
 import os
 import sys
@@ -64,9 +65,20 @@ def _first(values: list):
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser(description="Seed sample GTINs into MySQL")
+    parser.add_argument(
+        "--if-empty",
+        action="store_true",
+        help="Skip seeding when the database already has rows",
+    )
+    args = parser.parse_args()
+
     if not store.mysql_configured():
-        raise SystemExit("MYSQL_HOST is not set in .env. Sample seed needs MySQL.")
+        raise SystemExit("MYSQL_HOST is not set. Sample seed needs MySQL.")
     store.reset_connection()
+    if args.if_empty and not store.is_db_empty():
+        print("Database already has data; skipping seed.")
+        return
     gtins = _gtins()
     print(f"Seeding {len(gtins)} GTINs into {store.backend_name()} ({os.getenv('MYSQL_DATABASE')})")
     saved = 0

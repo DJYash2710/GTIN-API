@@ -497,6 +497,19 @@ def delete_cache(gtin: str, *, master: bool = True) -> dict:
     }
 
 
+def is_db_empty() -> bool:
+    if not mysql_configured():
+        mem = _memory_store()
+        return not mem["lookups"] and not mem["master_gtin"]
+    conn = _mysql()
+    with conn.cursor() as cur:
+        cur.execute("SELECT COUNT(*) AS n FROM lookup_cache")
+        if int((cur.fetchone() or {}).get("n") or 0) > 0:
+            return False
+        cur.execute(f"SELECT COUNT(*) AS n FROM `{MASTER_TABLE}`")
+        return int((cur.fetchone() or {}).get("n") or 0) == 0
+
+
 def all_confidence() -> dict[str, int]:
     if not mysql_configured():
         scores = _memory_store()["confidence"]

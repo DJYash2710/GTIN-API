@@ -39,7 +39,7 @@ def test_second_get_uses_lookup_cache(monkeypatch):
     assert body["price"] == first.json()["price"]
 
 
-def test_stale_price_refreshes_live_keeps_name(monkeypatch):
+def test_stale_price_serves_db_without_live(monkeypatch):
     from app import main as main_mod, store
 
     now = datetime.now(timezone.utc)
@@ -51,27 +51,17 @@ def test_stale_price_refreshes_live_keeps_name(monkeypatch):
     )
     monkeypatch.setattr(main_mod, "apify_is_enabled", lambda: True)
 
-    def fake_live(gtin: str) -> dict:
-        return {
-            "gtin": gtin,
-            "name": ["Should not replace"],
-            "name_source": ["google:amazon"],
-            "price": [{"amount": 99.0, "currency": "INR"}],
-            "price_source": ["google:amazon"],
-            "weight": [{"value": 999.0, "unit": "g"}],
-            "weight_source": ["google:amazon"],
-            "cache": "miss",
-        }
+    def boom(gtin: str) -> dict:
+        raise AssertionError("live search should not run when complete data is in DB")
 
-    monkeypatch.setattr(main_mod, "resolve_live", fake_live)
+    monkeypatch.setattr(main_mod, "resolve_live", boom)
     res = client.get(f"/v1/products/{GTIN}", headers=AUTH)
     assert res.status_code == 200
     body = res.json()
-    assert body["cache"] == "miss"
+    assert body["cache"] == "hit"
     assert body["name"] == ["Cached Name"]
     assert body["weight"][0]["value"] == 10.0
-    assert body["price"][0]["amount"] == 99.0
-    assert body["price_source"] == ["google:amazon"]
+    assert body["price"][0]["amount"] == 1.0
 
 
 def test_stale_price_without_apify_keeps_cache():
@@ -91,7 +81,7 @@ def test_stale_price_without_apify_keeps_cache():
     assert body["price"][0]["amount"] == 1.0
 
 
-def test_stale_name_does_full_refetch(monkeypatch):
+def test_stale_name_serves_db_without_live(monkeypatch):
     from app import main as main_mod, store
 
     now = datetime.now(timezone.utc)
@@ -103,25 +93,44 @@ def test_stale_name_does_full_refetch(monkeypatch):
     )
     monkeypatch.setattr(main_mod, "apify_is_enabled", lambda: True)
 
-    def fake_live(gtin: str) -> dict:
-        return {
-            "gtin": gtin,
-            "name": ["Fresh Name"],
-            "name_source": ["google:amazon"],
-            "price": [{"amount": 50.0, "currency": "INR"}],
-            "price_source": ["google:amazon"],
-            "weight": [{"value": 100.0, "unit": "g"}],
-            "weight_source": ["google:amazon"],
-            "cache": "miss",
-        }
+    def boom(gtin: str) -> dict:
+        raise AssertionError("live search should not run when name is stale but cached in DB")
 
-    monkeypatch.setattr(main_mod, "resolve_live", fake_live)
+    monkeypatch.setattr(main_mod, "resolve_live", boom)
     res = client.get(f"/v1/products/{GTIN}", headers=AUTH)
     assert res.status_code == 200
     body = res.json()
-    assert body["cache"] == "miss"
-    assert body["name"] == ["Fresh Name"]
-    assert body["price"][0]["amount"] == 50.0
+    assert body["cache"] == "hit"
+    assert body["name"] == ["Cached Name"]
+    assert body["price"][0]["amount"] == 1.0
+
+
+def test_confirmed_stale_name_serves_db_without_live(monkeypatch):
+    from app import main as main_mod, store
+
+    store.save_product(
+        GTIN,
+        {
+            "name": "Confirmed Name",
+            "price": {"amount": 1, "currency": "INR"},
+            "weight": {"value": 10, "unit": "g"},
+        },
+        {"name": "google:bigbasket", "price": "google:bigbasket", "weight": "google:bigbasket"},
+    )
+    mem = store._memory_store()["master_gtin"][GTIN]
+    mem["name_updated_at"] = (datetime.now(timezone.utc) - timedelta(days=31)).isoformat()
+
+    monkeypatch.setattr(main_mod, "apify_is_enabled", lambda: True)
+
+    def boom(gtin: str) -> dict:
+        raise AssertionError("live search should not run for stale confirmed name")
+
+    monkeypatch.setattr(main_mod, "resolve_live", boom)
+    res = client.get(f"/v1/products/{GTIN}", headers=AUTH)
+    assert res.status_code == 200
+    body = res.json()
+    assert body["cache"] == "hit"
+    assert body["name"] == ["Confirmed Name"]
 
 
 def test_invalidate_clears_lookup_and_master():
@@ -149,7 +158,7 @@ def test_invalidate_clears_lookup_and_master():
     assert after.json()["cache"] == "sample"
 
 
-def test_confirmed_stale_price_updates_from_live(monkeypatch):
+def test_confirmed_stale_price_serves_db_without_live(monkeypatch):
     from app import main as main_mod, store
 
     store.save_product(
@@ -166,26 +175,14 @@ def test_confirmed_stale_price_updates_from_live(monkeypatch):
 
     monkeypatch.setattr(main_mod, "apify_is_enabled", lambda: True)
 
-    def fake_live(gtin: str) -> dict:
-        return {
-            "gtin": gtin,
-            "name": ["Live Name"],
-            "name_source": ["google:amazon"],
-            "price": [{"amount": 77.0, "currency": "INR"}],
-            "price_source": ["google:amazon"],
-            "weight": [{"value": 500.0, "unit": "g"}],
-            "weight_source": ["google:amazon"],
-            "cache": "miss",
-        }
+    def boom(gtin: str) -> dict:
+        raise AssertionError("live search should not run when complete data is in DB")
 
-    monkeypatch.setattr(main_mod, "resolve_live", fake_live)
+    monkeypatch.setattr(main_mod, "resolve_live", boom)
     res = client.get(f"/v1/products/{GTIN}", headers=AUTH)
     assert res.status_code == 200
     body = res.json()
-    assert body["cache"] == "miss"
+    assert body["cache"] == "hit"
     assert body["name"] == ["Confirmed Name"]
     assert body["weight"][0]["value"] == 10.0
-    assert body["price"][0]["amount"] == 77.0
-    stored = store.get_product(GTIN)
-    assert stored["price"]["amount"] == 77.0
-    assert stored["sources"]["price"] == "google:amazon"
+    assert body["price"][0]["amount"] == 1.0

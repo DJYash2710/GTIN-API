@@ -19,6 +19,7 @@ data
 *.db
 *.md
 !README.md
+!DOCKER.md
 agent-transcripts
 .cursor
 assets

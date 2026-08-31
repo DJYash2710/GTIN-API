@@ -11,7 +11,6 @@ load_dotenv()
 
 from app.auth import require_bearer
 from app.credits import apify_is_enabled
-from app.gs1 import lookup_gs1
 from app.gtin import is_valid_gtin, normalize_gtin
 from app.live_google import resolve_live
 from app.models import (
@@ -44,10 +43,8 @@ def health() -> dict:
         "ok": True,
         "apify_enabled": apify_is_enabled(),
         "mode": "cache-then-live",
-        "live": "on cache miss or stale price",
+        "live": "on cache miss only",
         "db": store.backend_name(),
-        "name_ttl_days": int(store.name_ttl().total_seconds() / 86400),
-        "price_ttl_hours": store.price_ttl().total_seconds() / 3600,
     }
 
 
@@ -71,41 +68,12 @@ def get_product(
             content=ErrorBody(error="invalid_gtin", gtin=gtin, detail="Failed format or checksum").model_dump(),
         )
 
-    gs1 = lookup_gs1(digits)
-    if gs1 is not None:
-        name = gs1.get("name") or gs1.get("product_name")
-        return ProductResponse(
-            gtin=digits,
-            name=[name] if name else [],
-            name_source=["gs1"] if name else [],
-            price=[gs1["price"]] if gs1.get("price") else [],
-            price_source=["gs1"] if gs1.get("price") else [],
-            weight=[gs1["weight"]] if gs1.get("weight") else [],
-            weight_source=["gs1"] if gs1.get("weight") else [],
-            cache="gs1",
-        )
-
     confirmed = store.get_product(digits)
-    if confirmed and store.is_fresh(confirmed.get("name_updated_at"), store.name_ttl()):
-        if store.is_fresh(confirmed.get("price_updated_at"), store.price_ttl()):
-            return _as_response(store.product_as_lookup(confirmed), cache="hit")
-        refreshed = _try_refresh_prices(digits, store.product_as_lookup(confirmed))
-        if refreshed is not None:
-            first_price = (refreshed.get("price") or [None])[0]
-            first_source = (refreshed.get("price_source") or [None])[0]
-            if first_price:
-                store.update_product_price(digits, first_price, first_source)
-            return _as_response(refreshed, cache=refreshed.get("cache") or "miss")
+    if confirmed is not None and _confirmed_complete(confirmed):
         return _as_response(store.product_as_lookup(confirmed), cache="hit")
 
     cached = store.get_lookup(digits)
-    if cached and cached["name_fresh"]:
-        if cached["price_fresh"]:
-            return _as_response(cached["payload"], cache="hit", gtin=digits)
-        refreshed = _try_refresh_prices(digits, {"gtin": digits, **cached["payload"]})
-        if refreshed is not None:
-            store.save_lookup(digits, refreshed, update_name=False, update_price=True)
-            return _as_response(refreshed, cache=refreshed.get("cache") or "miss")
+    if cached is not None and _lookup_complete(cached["payload"]):
         return _as_response(cached["payload"], cache="hit", gtin=digits)
 
     resolved = _fetch(digits)
@@ -141,6 +109,14 @@ def invalidate_cache(
     )
 
 
+def _confirmed_complete(product: dict) -> bool:
+    return bool(product.get("name")) and product.get("price") is not None and product.get("weight") is not None
+
+
+def _lookup_complete(payload: dict) -> bool:
+    return bool(payload.get("name")) and bool(payload.get("price")) and bool(payload.get("weight"))
+
+
 def _as_response(payload: dict, cache: str, gtin: str | None = None) -> ProductResponse:
     return ProductResponse(
         gtin=payload.get("gtin") or gtin,
@@ -162,20 +138,6 @@ def _fetch(digits: str) -> dict | JSONResponse:
     else:
         resolved = resolve_from_samples(digits)
     return _error_or_resolved(resolved, digits, used_live)
-
-
-def _try_refresh_prices(digits: str, base: dict) -> dict | None:
-    """Re-fetch prices only. Returns None if live search is off or fails (keep stale cache)."""
-    if not apify_is_enabled():
-        return None
-    resolved = resolve_live(digits)
-    if resolved.get("error"):
-        return None
-    merged = dict(base)
-    merged["price"] = resolved.get("price") or []
-    merged["price_source"] = resolved.get("price_source") or []
-    merged["cache"] = resolved.get("cache") or "miss"
-    return merged
 
 
 def _error_or_resolved(

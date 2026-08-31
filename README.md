@@ -1,97 +1,130 @@
 # GTIN Product API
 
-Internal lookup: GTIN in, up to 3 names / prices / weights out (each with a matching source list). No description.
+Internal lookup: GTIN in, up to 3 names / prices / weights out (each with a matching source list).
 
-A basic review UI is served at `/`. Lookup a GTIN, click name / price / weight for up to 3 options, edit any field, then submit. Confirmed values go into the **MySQL** master catalog (`master_gtin` + `source_confidence`). Live/sample lookups are stored in `lookup_cache`.
+A review UI is served at `/`. Lookup a GTIN, pick name / price / weight from up to 3 options, edit any field, then submit. Confirmed values go into the **MySQL** master catalog (`master_gtin` + `source_confidence`). Live/sample lookups are stored in `lookup_cache`.
 
-**One lookup URL:** `GET /v1/products/{gtin}` — **cache first** (confirmed product, then lookup cache), then **live Google** on miss or stale price (`APIFY_ENABLED=true`). If live search is off, it falls back to `samples/`. Successful lookups are written back to cache.
+**Lookup order:** confirmed product → lookup cache → **live Google** (default) → local `samples/` if live is off or fails.
 
-TTLs (independent): name/weight **30 days**, price **12 hours**. `DELETE /v1/products/{gtin}/cache` invalidates both the lookup cache and the confirmed row.
+> **Running on another PC?** Use Docker — see **[DOCKER.md](DOCKER.md)** (step-by-step for non-developers).
 
-If `MYSQL_HOST` is unset, storage is in-memory (used by tests).
+## Quick start (Docker)
 
-## Setup (local)
+**Windows (easiest):**
 
-```
-python -m venv .venv
-.\.venv\Scripts\activate
-pip install -r requirements.txt
+```cmd
+docker\setup.cmd
 ```
 
-## Docker (recommended)
+**PowerShell:**
 
-Builds a Python 3.12 image with its own virtualenv at `/opt/venv`, installs `requirements.txt`, activates the venv, and runs uvicorn. MySQL starts beside the API.
-
-```
-docker compose up --build
+```powershell
+.\docker\setup.ps1
 ```
 
-Then:
+Or manually:
 
+```bash
+cp .env.example .env   # first time only
+docker compose up --build -d
 ```
+
+That starts **MySQL + API**, creates tables, and seeds sample GTINs on first run. Full details: **[DOCKER.md](DOCKER.md)**.
+
+| Where | URL |
+|---|---|
+| This PC | `http://127.0.0.1:8000` |
+| Other PCs on LAN | `http://<host-ip>:8000` (run `ipconfig` on the host) |
+
+Default ports (override in `.env` if something is already in use):
+
+| Setting | Default | Why |
+|---|---|---|
+| `API_PUBLISH_PORT` | `8000` | API on your PC |
+| `MYSQL_PUBLISH_PORT` | `3307` | Avoids clash with local MySQL on `3306` |
+| `API_HOST` | `0.0.0.0` | Listen on all interfaces (LAN access) |
+
+| Service | Credentials |
+|---|---|
+| API | Bearer `API_KEY` (default `dev-local-key`) |
+| MySQL (Workbench from host) | `127.0.0.1:3307`, user `gtin` / password `gtin` / db `gtin` |
+
+**Windows firewall:** if LAN clients cannot connect, allow inbound TCP on port `8000` for Python or Docker.
+
+### Optional `.env` settings
+
+- `API_KEY` — change the bearer token (default `dev-local-key`)
+- `APIFY_TOKEN` — required for live Google on cache miss (live search is **on** by default)
+- `APIFY_ENABLED=false` — disable live search and use samples only
+- `API_PUBLISH_PORT=8080` — if port 8000 is taken
+- `MYSQL_PUBLISH_PORT=3308` — if 3307 is taken
+
+MySQL connection settings for the API container are set by Docker Compose; you do not need `MYSQL_HOST` in `.env` for `docker compose up`.
+
+### Make targets
+
+| Command | Description |
+|---|---|
+| `make up` | Create `.env` if missing, build and start in background |
+| `make up-fg` | Same, foreground (see logs) |
+| `make down` | Stop containers |
+| `make logs` | Follow container logs |
+| `make seed` | Re-run sample seed manually |
+| `make dev` | Local uvicorn with `--host 0.0.0.0` |
+| `make test` | Run pytest locally |
+| `make test-docker` | Run pytest inside the API container |
+| `make health` | Curl `/health` |
+
+### Example requests
+
+```bash
 curl http://127.0.0.1:8000/health
 curl -H "Authorization: Bearer dev-local-key" http://127.0.0.1:8000/v1/products/8901719123870
 ```
 
-Open `http://127.0.0.1:8000/` for the review form.
+Clear a cached GTIN:
 
-| Service | URL / host | Credentials |
-|---|---|---|
-| API | `http://127.0.0.1:8000` | Bearer `API_KEY` (default `dev-local-key`) |
-| MySQL (from host) | `127.0.0.1:3306` | user `gtin` / password `gtin` / db `gtin` |
-| MySQL (from API container) | host `mysql` | same |
-
-`.env` is loaded for secrets (`APIFY_TOKEN`, `APIFY_ENABLED`, …). Compose **overrides** `MYSQL_HOST` to `mysql` so the API talks to the MySQL container (ignore `127.0.0.1` from a local Workbench `.env`).
-
-Seed sample JSON into the Docker MySQL:
-
-```
-docker compose exec api python scripts/seed_samples_to_db.py
-```
-
-Stop:
-
-```
-docker compose down
-```
-
-## Run the API (local uvicorn)
-
-```
-uvicorn app.main:app --reload --port 8000
-```
-
-```
-curl -H "Authorization: Bearer dev-local-key" http://127.0.0.1:8000/health
-curl -H "Authorization: Bearer dev-local-key" http://127.0.0.1:8000/v1/products/8901719123870
-```
-
-Open `http://127.0.0.1:8000/` for the review form.
-
-On cache miss (or stale price) with `APIFY_ENABLED=true`, that same GET spends Apify credits (one Google Search page). To clear a bad row:
-
-```
+```bash
 curl -X DELETE -H "Authorization: Bearer dev-local-key" http://127.0.0.1:8000/v1/products/8901719123870/cache
 ```
 
-Set MySQL in `.env` for a local uvicorn process (Workbench / local MySQL):
+## Local development (without Docker)
 
-```
-MYSQL_HOST=127.0.0.1
-MYSQL_PORT=3306
-MYSQL_USER=root
-MYSQL_PASSWORD=your-password
-MYSQL_DATABASE=gtin
+```bash
+python -m venv .venv
+.\.venv\Scripts\activate        # Windows
+pip install -r requirements.txt
 ```
 
-## Tests
+Set `MYSQL_HOST=127.0.0.1` in `.env` if using a local MySQL instance, then:
 
+**Windows (LAN enabled):**
+
+```powershell
+.\scripts\run.ps1
 ```
+
+**Linux / macOS / Git Bash:**
+
+```bash
+chmod +x scripts/run.sh
+./scripts/run.sh
+```
+
+Or manually:
+
+```bash
+uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
+python scripts/seed_samples_to_db.py
 pytest
 ```
 
-Live lookup searches the GTIN only (desktop, India, 1 page). It does **not** add `site:` / `inurl:` filters and does **not** scrape BigBasket or Flipkart product pages. Price comes from Google's product rich result (`productInfo.price`, e.g. ₹47.00) and from snippet text when that field is empty.
+If `MYSQL_HOST` is unset, storage is in-memory (used by tests).
 
-Host priority: BigBasket → JioMart → Amazon.in → Flipkart → Starquik → Open Food Facts, then other snippets that mention the GTIN. Each of `name`, `price`, and `weight` is its own list (max 3), ranked by source confidence, with a parallel `*_source` list.
+## Tests
 
-Batch collect scripts still need `APIFY_ENABLED=true` **and** `--confirm`.
+```bash
+pytest
+```
+
+Live lookup searches the GTIN only (desktop, India, 1 page). Price comes from Google's product rich result (`productInfo.price`) and snippet text when that field is empty.

@@ -12,11 +12,9 @@ def test_health():
     assert res.status_code == 200
     assert res.json()["ok"] is True
     assert res.json()["apify_enabled"] is False
-    assert res.json()["live"] == "on cache miss or stale price"
+    assert res.json()["live"] == "on cache miss only"
     assert res.json()["db"] == "memory"
     assert res.json()["mode"] == "cache-then-live"
-    assert res.json()["name_ttl_days"] == 30
-    assert res.json()["price_ttl_hours"] == 12.0
 
 
 def test_missing_token():

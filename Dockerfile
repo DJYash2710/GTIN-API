@@ -10,12 +10,10 @@ ENV PYTHONDONTWRITEBYTECODE=1 \
 
 WORKDIR /app
 
-# System deps (certs for HTTPS / Apify; build tools only if wheels need them)
 RUN apt-get update \
     && apt-get install -y --no-install-recommends ca-certificates \
     && rm -rf /var/lib/apt/lists/*
 
-# Isolated virtualenv (same idea as local .venv)
 RUN python -m venv "$VENV_PATH" \
     && "$VENV_PATH/bin/pip" install --upgrade pip setuptools wheel
 
@@ -28,21 +26,22 @@ COPY scripts ./scripts
 COPY docker/entrypoint.sh /entrypoint.sh
 RUN chmod +x /entrypoint.sh
 
-# Defaults; compose / .env override these at runtime
-ENV APIFY_ENABLED=false \
+ENV APIFY_ENABLED=true \
     API_KEY=dev-local-key \
     MYSQL_HOST=mysql \
     MYSQL_PORT=3306 \
     MYSQL_USER=gtin \
     MYSQL_PASSWORD=gtin \
     MYSQL_DATABASE=gtin \
+    API_HOST=0.0.0.0 \
+    API_PORT=8000 \
     NAME_TTL_DAYS=30 \
     PRICE_TTL_HOURS=12
 
 EXPOSE 8000
 
 HEALTHCHECK --interval=15s --timeout=5s --start-period=20s --retries=5 \
-  CMD python -c "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/health', timeout=3)"
+  CMD python -c "import os, urllib.request; urllib.request.urlopen(f'http://127.0.0.1:{os.getenv(\"API_PORT\",\"8000\")}/health', timeout=3)"
 
 ENTRYPOINT ["/entrypoint.sh"]
-CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["sh", "-c", "exec uvicorn app.main:app --host \"${API_HOST:-0.0.0.0}\" --port \"${API_PORT:-8000}\""]
